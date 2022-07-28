@@ -1,0 +1,1905 @@
+,patient_id,cancer_type_detailed,time,hormone_therapy,radio_therapy,chemotherapy,death_from_cancer,status,tumor_stage,type_of_breast_surgery
+1,0,Breast Invasive Ductal Carcinoma,140.5,1,1,0,Living,1,2,MASTECTOMY
+2,2,Breast Invasive Ductal Carcinoma,84.63333333,1,1,0,Living,1,1,BREAST CONSERVING
+3,5,Breast Invasive Ductal Carcinoma,163.7,1,0,1,Died of Disease,0,2,MASTECTOMY
+4,6,Breast Mixed Ductal and Lobular Carcinoma,164.9333333,1,1,1,Living,1,2,MASTECTOMY
+5,8,Breast Mixed Ductal and Lobular Carcinoma,41.36666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+6,10,Breast Invasive Ductal Carcinoma,7.8,1,1,0,Died of Disease,0,4,MASTECTOMY
+7,14,Breast Invasive Ductal Carcinoma,164.3333333,1,1,1,Living,1,2,BREAST CONSERVING
+8,22,Breast Mixed Ductal and Lobular Carcinoma,99.53333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+9,28,Breast Invasive Ductal Carcinoma,36.56666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+10,35,Breast Invasive Lobular Carcinoma,36.26666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+11,36,Breast Invasive Ductal Carcinoma,132.0333333,1,1,0,Died of Disease,0,4,MASTECTOMY
+12,39,Breast Invasive Ductal Carcinoma,163.5333333,1,1,0,Living,1,1,BREAST CONSERVING
+13,45,Breast Invasive Ductal Carcinoma,164.9,0,1,1,Living,1,2,MASTECTOMY
+14,46,Breast Invasive Ductal Carcinoma,14.13333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+15,48,Breast Invasive Ductal Carcinoma,103.8333333,1,1,1,Living,1,2,BREAST CONSERVING
+16,50,Breast Mixed Ductal and Lobular Carcinoma,75.33333333,1,1,1,Living,1,2,BREAST CONSERVING
+17,53,Breast Invasive Ductal Carcinoma,161.0666667,1,1,0,Living,1,2,BREAST CONSERVING
+18,54,Breast Invasive Ductal Carcinoma,160.3,1,1,0,Living,1,2,MASTECTOMY
+19,56,Breast Mixed Ductal and Lobular Carcinoma,62.86666667,1,0,0,Living,1,1,MASTECTOMY
+20,60,Breast Invasive Ductal Carcinoma,140.8666667,1,1,1,Living,1,2,BREAST CONSERVING
+21,62,Breast Invasive Ductal Carcinoma,153.9666667,0,1,1,Living,1,1,MASTECTOMY
+22,64,Breast Invasive Ductal Carcinoma,108.9333333,1,0,0,Living,1,1,BREAST CONSERVING
+23,66,Breast Invasive Ductal Carcinoma,157.4333333,1,1,0,Living,1,2,BREAST CONSERVING
+24,68,Breast Invasive Ductal Carcinoma,103.1333333,1,1,0,Living,1,2,BREAST CONSERVING
+25,79,Breast Invasive Ductal Carcinoma,28.5,0,1,1,Died of Disease,0,2,MASTECTOMY
+26,81,Breast Invasive Ductal Carcinoma,69.5,1,1,0,Living,1,2,BREAST CONSERVING
+27,83,Breast Invasive Lobular Carcinoma,86.06666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+28,93,Breast Mixed Ductal and Lobular Carcinoma,153.2,1,1,0,Living,1,2,BREAST CONSERVING
+29,95,Breast Invasive Ductal Carcinoma,49.76666667,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+30,97,Breast Invasive Ductal Carcinoma,98.7,1,1,0,Living,1,2,MASTECTOMY
+31,100,Breast Invasive Ductal Carcinoma,8.066666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+32,101,Breast Invasive Lobular Carcinoma,148.0333333,1,1,0,Living,1,2,MASTECTOMY
+33,102,Breast Invasive Lobular Carcinoma,140.7666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+34,106,Breast Invasive Ductal Carcinoma,85.33333333,1,1,1,Living,1,3,MASTECTOMY
+35,107,Breast Invasive Ductal Carcinoma,158.0333333,1,0,0,Living,1,2,MASTECTOMY
+36,108,Breast Invasive Ductal Carcinoma,42.7,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+37,109,Breast Invasive Ductal Carcinoma,112.4,0,0,0,Died of Other Causes,0,2,
+38,111,Breast Invasive Ductal Carcinoma,127.1,1,0,0,Living,1,2,MASTECTOMY
+39,112,Breast Invasive Lobular Carcinoma,39.16666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+40,113,Breast Invasive Ductal Carcinoma,43.16666667,1,1,1,Living,1,2,MASTECTOMY
+41,114,Breast Invasive Ductal Carcinoma,13.4,1,0,0,Living,1,2,MASTECTOMY
+42,115,Breast Invasive Ductal Carcinoma,66.73333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+43,116,Breast Invasive Lobular Carcinoma,122.2666667,1,1,1,Living,1,3,MASTECTOMY
+44,117,Breast Mixed Ductal and Lobular Carcinoma,2.4,1,1,0,Living,1,2,BREAST CONSERVING
+45,119,Breast Invasive Ductal Carcinoma,95.86666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+46,120,Breast Invasive Ductal Carcinoma,29.06666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+47,121,Breast Invasive Ductal Carcinoma,152.2,1,1,0,Living,1,2,MASTECTOMY
+48,122,Breast Invasive Ductal Carcinoma,138.9,1,1,0,Living,1,2,BREAST CONSERVING
+49,123,Breast Invasive Ductal Carcinoma,114.2333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+50,124,Breast Mixed Ductal and Lobular Carcinoma,118.2,1,1,1,Living,1,3,BREAST CONSERVING
+51,125,Breast Mixed Ductal and Lobular Carcinoma,1.266666667,1,0,0,Living,1,2,BREAST CONSERVING
+52,126,Breast Invasive Ductal Carcinoma,127.6333333,1,1,0,Living,1,2,MASTECTOMY
+53,127,Breast Invasive Ductal Carcinoma,132.0666667,1,1,1,Living,1,2,BREAST CONSERVING
+54,128,Breast Invasive Ductal Carcinoma,137.8,1,1,0,Living,1,1,BREAST CONSERVING
+55,129,Breast Invasive Ductal Carcinoma,38.56666667,0,1,1,Died of Other Causes,0,2,MASTECTOMY
+56,130,Breast Invasive Ductal Carcinoma,153.5666667,1,0,0,Living,1,1,MASTECTOMY
+57,131,Breast Invasive Ductal Carcinoma,66.63333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+58,133,Breast Mixed Ductal and Lobular Carcinoma,151,1,1,1,Living,1,2,BREAST CONSERVING
+59,134,Breast Invasive Ductal Carcinoma,12.93333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+60,135,Breast Invasive Ductal Carcinoma,116.6333333,1,1,0,Living,1,2,MASTECTOMY
+61,136,Breast Invasive Ductal Carcinoma,88.2,1,0,0,Living,1,1,BREAST CONSERVING
+62,138,Breast Invasive Ductal Carcinoma,150.5666667,1,0,0,Living,1,1,BREAST CONSERVING
+63,139,Breast Invasive Lobular Carcinoma,109.2,1,1,0,Living,1,2,BREAST CONSERVING
+64,140,Breast Invasive Ductal Carcinoma,147.9333333,1,1,0,Living,1,2,BREAST CONSERVING
+65,142,Breast Mixed Ductal and Lobular Carcinoma,12.4,0,0,0,Living,1,1,MASTECTOMY
+66,143,Breast Invasive Ductal Carcinoma,54.33333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+67,144,Breast Invasive Ductal Carcinoma,152.0666667,1,1,0,Died of Disease,0,,BREAST CONSERVING
+68,145,Breast Invasive Lobular Carcinoma,147.6666667,1,1,0,Living,1,1,BREAST CONSERVING
+69,146,Breast Invasive Ductal Carcinoma,122.1666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+70,147,Breast Invasive Lobular Carcinoma,51.76666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+71,148,Breast Invasive Ductal Carcinoma,1.766666667,0,0,0,Living,1,1,MASTECTOMY
+72,149,Breast Invasive Ductal Carcinoma,51.7,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+73,150,Breast Invasive Ductal Carcinoma,111.2,1,0,0,Living,1,2,MASTECTOMY
+74,151,Breast Invasive Ductal Carcinoma,49.23333333,1,1,0,Died of Disease,0,3,MASTECTOMY
+75,152,Breast Invasive Ductal Carcinoma,63.03333333,0,0,0,Living,1,1,MASTECTOMY
+76,154,Breast Invasive Ductal Carcinoma,114.7666667,1,0,0,Living,1,1,MASTECTOMY
+77,155,Breast Invasive Ductal Carcinoma,59.8,1,1,0,Living,1,1,BREAST CONSERVING
+78,157,Breast Invasive Ductal Carcinoma,114.7666667,0,1,0,Living,1,2,BREAST CONSERVING
+79,162,Breast Mixed Ductal and Lobular Carcinoma,55.76666667,1,1,0,Living,1,2,BREAST CONSERVING
+80,163,Breast Invasive Ductal Carcinoma,98.1,0,0,0,Died of Other Causes,0,,BREAST CONSERVING
+81,164,Breast Invasive Ductal Carcinoma,10.83333333,0,1,1,Living,1,2,MASTECTOMY
+82,165,Breast Invasive Ductal Carcinoma,47.63333333,1,1,1,Died of Disease,0,3,MASTECTOMY
+83,166,Breast Invasive Ductal Carcinoma,104.4,1,1,1,Living,1,2,BREAST CONSERVING
+84,167,Breast Invasive Ductal Carcinoma,43.1,1,1,0,Died of Disease,0,2,MASTECTOMY
+85,168,Breast Invasive Ductal Carcinoma,122.7666667,1,1,0,Living,1,1,BREAST CONSERVING
+86,170,Breast Invasive Ductal Carcinoma,93.36666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+87,171,Breast Mixed Ductal and Lobular Carcinoma,5.433333333,1,1,0,Living,1,2,MASTECTOMY
+88,172,Breast Invasive Ductal Carcinoma,138.1,1,1,1,Living,1,2,MASTECTOMY
+89,173,Breast Invasive Ductal Carcinoma,3.766666667,1,1,0,Living,1,2,MASTECTOMY
+90,174,Breast Invasive Ductal Carcinoma,78.76666667,0,1,1,Living,1,2,BREAST CONSERVING
+91,175,Breast Invasive Ductal Carcinoma,72.36666667,1,0,0,Living,1,1,MASTECTOMY
+92,176,Breast Invasive Ductal Carcinoma,113.4333333,1,1,1,Living,1,2,MASTECTOMY
+93,177,Breast Mixed Ductal and Lobular Carcinoma,45.6,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+94,178,Breast Invasive Ductal Carcinoma,104.4666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+95,179,Breast Invasive Ductal Carcinoma,17.93333333,0,1,1,Died of Disease,0,3,MASTECTOMY
+96,180,Breast Invasive Ductal Carcinoma,62.33333333,1,1,0,Living,1,1,BREAST CONSERVING
+97,181,Breast Invasive Ductal Carcinoma,85.96666667,1,1,0,Living,1,2,BREAST CONSERVING
+98,184,Breast Invasive Mixed Mucinous Carcinoma,109.0333333,1,0,0,Living,1,2,MASTECTOMY
+99,188,Breast Invasive Lobular Carcinoma,31.3,0,1,1,Died of Disease,0,2,MASTECTOMY
+100,189,Breast Invasive Ductal Carcinoma,9.066666667,1,1,1,Died of Disease,0,4,MASTECTOMY
+101,191,Breast Invasive Ductal Carcinoma,15.3,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+102,192,Breast Mixed Ductal and Lobular Carcinoma,144.6333333,1,1,0,Living,1,1,BREAST CONSERVING
+103,193,Breast Invasive Ductal Carcinoma,19,0,0,0,Living,1,,MASTECTOMY
+104,194,Breast Invasive Ductal Carcinoma,91.6,1,1,1,Living,1,2,MASTECTOMY
+105,195,Breast Invasive Ductal Carcinoma,146,1,1,0,Living,1,2,MASTECTOMY
+106,197,Breast Invasive Ductal Carcinoma,70.73333333,1,1,1,Living,1,2,MASTECTOMY
+107,198,Breast Invasive Ductal Carcinoma,144.7666667,1,1,1,Living,1,2,MASTECTOMY
+108,199,Breast Mixed Ductal and Lobular Carcinoma,144.4,1,1,0,Living,1,2,BREAST CONSERVING
+109,200,Breast Invasive Ductal Carcinoma,130.8666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+110,201,Breast Invasive Ductal Carcinoma,125.7,0,1,1,Living,1,1,MASTECTOMY
+111,202,Breast Invasive Ductal Carcinoma,128.3666667,1,1,1,Living,1,2,MASTECTOMY
+112,203,Breast Invasive Ductal Carcinoma,58.76666667,1,1,1,Died of Other Causes,0,2,MASTECTOMY
+113,204,Breast Invasive Ductal Carcinoma,24.3,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+114,205,Breast Invasive Lobular Carcinoma,144.4666667,1,1,0,Living,1,2,BREAST CONSERVING
+115,206,Breast Invasive Ductal Carcinoma,141.1666667,0,1,1,Living,1,2,MASTECTOMY
+116,207,Breast Mixed Ductal and Lobular Carcinoma,173.6333333,1,0,0,Living,1,,MASTECTOMY
+117,209,Breast Invasive Ductal Carcinoma,82.36666667,1,0,0,Living,1,1,MASTECTOMY
+118,211,Breast Invasive Ductal Carcinoma,44.8,0,0,0,Died of Disease,0,,MASTECTOMY
+119,214,Breast Invasive Ductal Carcinoma,146.9,0,1,1,Living,1,2,BREAST CONSERVING
+120,215,Breast Mixed Ductal and Lobular Carcinoma,122.2,1,1,0,Living,1,2,MASTECTOMY
+121,218,Breast Invasive Ductal Carcinoma,131.0666667,1,1,1,Living,1,2,BREAST CONSERVING
+122,220,Breast Invasive Ductal Carcinoma,39.83333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+123,221,Breast Invasive Ductal Carcinoma,20.2,0,0,0,Died of Disease,0,2,MASTECTOMY
+124,222,Breast Invasive Lobular Carcinoma,212.7,1,1,1,Living,1,2,BREAST CONSERVING
+125,223,Breast Invasive Ductal Carcinoma,81.33333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+126,224,Breast Invasive Ductal Carcinoma,176.7666667,1,0,0,Living,1,,MASTECTOMY
+127,225,Breast Invasive Ductal Carcinoma,212.2,1,0,0,Living,1,1,BREAST CONSERVING
+128,226,Breast Invasive Ductal Carcinoma,57.63333333,1,1,0,Living,1,2,BREAST CONSERVING
+129,227,Breast Invasive Ductal Carcinoma,111.8666667,1,0,0,Living,1,1,BREAST CONSERVING
+130,228,Breast Invasive Lobular Carcinoma,10.83333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+131,229,Breast Mixed Ductal and Lobular Carcinoma,71.5,1,1,0,Living,1,1,BREAST CONSERVING
+132,230,Breast Invasive Ductal Carcinoma,200.3333333,0,0,0,Living,1,0,MASTECTOMY
+133,231,Breast Invasive Mixed Mucinous Carcinoma,19.6,0,0,0,Living,1,,BREAST CONSERVING
+134,232,Breast Invasive Ductal Carcinoma,207.6333333,0,0,0,Living,1,1,BREAST CONSERVING
+135,233,Breast Invasive Ductal Carcinoma,72.43333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+136,234,Breast Mixed Ductal and Lobular Carcinoma,94.23333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+137,235,Breast Invasive Ductal Carcinoma,142.5666667,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+138,236,Breast Invasive Ductal Carcinoma,205.0333333,1,1,1,Living,1,2,MASTECTOMY
+139,238,Breast Invasive Ductal Carcinoma,193.1666667,0,1,1,Living,1,2,MASTECTOMY
+140,239,Breast Mixed Ductal and Lobular Carcinoma,85.56666667,1,1,0,Died of Disease,0,3,BREAST CONSERVING
+141,241,Breast Invasive Ductal Carcinoma,73.13333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+142,242,Breast Invasive Ductal Carcinoma,199.1,1,0,0,Living,1,1,BREAST CONSERVING
+143,243,Breast Invasive Ductal Carcinoma,149.7666667,1,1,1,Living,1,2,BREAST CONSERVING
+144,244,Breast Invasive Ductal Carcinoma,149.7333333,1,0,0,Living,1,1,BREAST CONSERVING
+145,245,Breast Invasive Lobular Carcinoma,164.7,1,0,0,Living,1,1,BREAST CONSERVING
+146,247,Breast Invasive Ductal Carcinoma,185.6,1,1,0,Living,1,2,BREAST CONSERVING
+147,248,Breast Invasive Ductal Carcinoma,71,1,1,1,Living,1,2,MASTECTOMY
+148,249,Breast Invasive Ductal Carcinoma,188.3333333,0,1,0,Living,1,1,BREAST CONSERVING
+149,253,Breast Invasive Ductal Carcinoma,152.3,1,0,0,Living,1,1,BREAST CONSERVING
+150,256,Breast Invasive Ductal Carcinoma,200.7,1,0,0,Living,1,1,BREAST CONSERVING
+151,257,Breast Invasive Ductal Carcinoma,91.73333333,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+152,258,Breast Invasive Ductal Carcinoma,86.13333333,1,1,0,Living,1,1,BREAST CONSERVING
+153,259,Breast Invasive Ductal Carcinoma,11.86666667,0,0,1,Died of Disease,0,3,
+154,260,Breast Invasive Ductal Carcinoma,169.8333333,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+155,261,Breast Invasive Ductal Carcinoma,90.23333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+156,262,Breast Invasive Ductal Carcinoma,182.2666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+157,263,Breast Mixed Ductal and Lobular Carcinoma,176.0333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+158,264,Breast Invasive Ductal Carcinoma,43.1,0,0,0,Died of Disease,0,,MASTECTOMY
+159,265,Breast Invasive Ductal Carcinoma,189.1333333,1,1,0,Living,1,2,BREAST CONSERVING
+160,266,Breast Mixed Ductal and Lobular Carcinoma,90.66666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+161,268,Breast Invasive Ductal Carcinoma,28.5,0,0,0,Died of Disease,0,4,
+162,269,Breast Invasive Ductal Carcinoma,22.23333333,0,1,1,Living,1,2,MASTECTOMY
+163,270,Breast Invasive Ductal Carcinoma,337.0333333,0,0,0,Living,1,2,MASTECTOMY
+164,272,Breast Invasive Ductal Carcinoma,122,0,0,0,Died of Disease,0,1,MASTECTOMY
+165,273,Breast Invasive Ductal Carcinoma,186.5333333,1,1,0,Living,1,2,MASTECTOMY
+166,275,Breast Invasive Ductal Carcinoma,186.1,1,1,0,Living,1,1,BREAST CONSERVING
+167,278,Breast Invasive Ductal Carcinoma,5.833333333,0,0,1,Died of Disease,0,3,
+168,279,Breast Invasive Lobular Carcinoma,192.2666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+169,280,Breast Invasive Ductal Carcinoma,172.9,1,1,0,Died of Disease,0,2,MASTECTOMY
+170,282,Breast Mixed Ductal and Lobular Carcinoma,194.2333333,1,1,1,Living,1,2,BREAST CONSERVING
+171,284,Breast Invasive Ductal Carcinoma,0,0,0,0,Living,1,,
+172,285,Breast Invasive Ductal Carcinoma,3.366666667,0,0,0,Living,1,2,
+173,286,Breast Invasive Ductal Carcinoma,192.6,0,0,0,Living,1,2,BREAST CONSERVING
+174,287,Breast Invasive Ductal Carcinoma,94.73333333,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+175,288,Breast Invasive Ductal Carcinoma,63.8,1,0,1,Died of Disease,0,2,MASTECTOMY
+176,289,Breast Invasive Ductal Carcinoma,71.6,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+177,290,Breast Invasive Ductal Carcinoma,199.5333333,0,0,0,Living,1,,MASTECTOMY
+178,291,Breast Invasive Ductal Carcinoma,39.2,1,0,1,Died of Disease,0,2,BREAST CONSERVING
+179,292,Breast Invasive Ductal Carcinoma,49.43333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+180,293,Breast Invasive Ductal Carcinoma,64.36666667,1,0,0,Living,1,1,MASTECTOMY
+181,294,Breast Invasive Ductal Carcinoma,72.9,1,1,1,Living,1,2,MASTECTOMY
+182,295,Breast Invasive Ductal Carcinoma,164.5,1,0,0,Living,1,2,BREAST CONSERVING
+183,301,Breast Invasive Ductal Carcinoma,122.7,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+184,302,Breast Invasive Lobular Carcinoma,84.2,1,1,0,Died of Disease,0,2,MASTECTOMY
+185,303,Breast Invasive Ductal Carcinoma,60.13333333,1,0,0,Living,1,1,MASTECTOMY
+186,304,Breast Invasive Ductal Carcinoma,111.5333333,1,1,0,Died of Disease,0,,MASTECTOMY
+187,305,Breast Invasive Ductal Carcinoma,63.5,1,0,1,Died of Disease,0,2,MASTECTOMY
+188,306,Breast Invasive Ductal Carcinoma,42.96666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+189,307,Breast Invasive Ductal Carcinoma,177.3333333,1,1,1,Living,1,2,BREAST CONSERVING
+190,308,Breast,183.2666667,0,0,0,Living,1,1,
+191,309,Breast Invasive Ductal Carcinoma,42.33333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+192,310,Breast Invasive Ductal Carcinoma,185.1666667,1,1,0,Living,1,2,MASTECTOMY
+193,311,Breast Invasive Ductal Carcinoma,151.1666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+194,312,Breast Invasive Lobular Carcinoma,169.6,1,0,0,Died of Disease,0,2,MASTECTOMY
+195,313,Breast Invasive Ductal Carcinoma,184.7666667,1,0,0,Living,1,2,BREAST CONSERVING
+196,314,Breast Invasive Ductal Carcinoma,4.433333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+197,315,Breast Invasive Ductal Carcinoma,186.2,1,1,1,Living,1,2,MASTECTOMY
+198,316,Breast Invasive Ductal Carcinoma,182.9,0,1,0,Living,1,2,BREAST CONSERVING
+199,317,Breast Invasive Ductal Carcinoma,151.6666667,0,0,0,Died of Other Causes,0,,MASTECTOMY
+200,318,Breast,168.7,0,0,0,Living,1,1,MASTECTOMY
+201,319,Breast Mixed Ductal and Lobular Carcinoma,40.7,1,1,0,Died of Disease,0,2,MASTECTOMY
+202,320,Breast Mixed Ductal and Lobular Carcinoma,63.73333333,1,1,0,Living,1,1,BREAST CONSERVING
+203,321,Breast Invasive Ductal Carcinoma,174.6333333,1,0,1,Living,1,2,MASTECTOMY
+204,322,Breast Invasive Ductal Carcinoma,50.53333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+205,324,Breast Invasive Ductal Carcinoma,144.9666667,1,1,1,Died of Disease,0,2,
+206,325,Breast Invasive Ductal Carcinoma,177.5333333,1,1,0,Living,1,2,MASTECTOMY
+207,336,Breast Invasive Ductal Carcinoma,170.6333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+208,339,Breast Invasive Mixed Mucinous Carcinoma,26.73333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+209,340,Breast Invasive Ductal Carcinoma,164.7333333,1,1,0,Living,1,2,MASTECTOMY
+210,342,Breast Invasive Lobular Carcinoma,125.3333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+211,343,Breast Invasive Ductal Carcinoma,91.13333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+212,344,Breast Invasive Lobular Carcinoma,152.9333333,1,1,0,Living,1,,MASTECTOMY
+213,345,Breast Invasive Ductal Carcinoma,72.66666667,1,0,1,Living,1,2,MASTECTOMY
+214,346,Breast Invasive Ductal Carcinoma,20.43333333,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+215,348,Breast Invasive Ductal Carcinoma,122.7,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+216,349,Breast Invasive Ductal Carcinoma,146.0333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+217,350,Breast Invasive Ductal Carcinoma,46.06666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+218,352,Breast Invasive Ductal Carcinoma,55.2,1,1,1,Died of Disease,0,2,MASTECTOMY
+219,353,Breast Invasive Ductal Carcinoma,41.83333333,1,1,0,Died of Other Causes,0,2,
+220,354,Breast Invasive Ductal Carcinoma,11.6,0,0,0,Died of Disease,0,1,MASTECTOMY
+221,356,Breast Invasive Ductal Carcinoma,213.5,0,0,0,Living,1,2,MASTECTOMY
+222,358,Breast Invasive Ductal Carcinoma,32.86666667,1,1,1,Living,1,2,MASTECTOMY
+223,359,Breast Invasive Ductal Carcinoma,21.6,0,1,0,Living,1,2,MASTECTOMY
+224,360,Breast Invasive Ductal Carcinoma,132.5666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+225,361,Breast Invasive Ductal Carcinoma,15.06666667,0,0,0,Died of Other Causes,0,2,
+226,362,Breast Invasive Ductal Carcinoma,47.03333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+227,363,Breast Mixed Ductal and Lobular Carcinoma,89.9,0,0,0,Died of Disease,0,2,MASTECTOMY
+228,364,Breast Invasive Ductal Carcinoma,176.6,1,1,1,Living,1,2,MASTECTOMY
+229,365,Breast Invasive Mixed Mucinous Carcinoma,87.23333333,1,1,0,Died of Disease,0,4,MASTECTOMY
+230,366,Breast Mixed Ductal and Lobular Carcinoma,64.23333333,1,0,0,Living,1,3,MASTECTOMY
+231,367,Breast Mixed Ductal and Lobular Carcinoma,142.4333333,1,1,0,Living,1,1,BREAST CONSERVING
+232,368,Breast Invasive Ductal Carcinoma,61.9,1,1,1,Died of Disease,0,2,MASTECTOMY
+233,369,Breast Invasive Lobular Carcinoma,144.3333333,1,1,1,Living,1,1,BREAST CONSERVING
+234,370,Breast Invasive Ductal Carcinoma,93.5,1,1,1,Died of Other Causes,0,2,MASTECTOMY
+235,371,Breast Invasive Ductal Carcinoma,131.1333333,1,1,0,Living,1,2,MASTECTOMY
+236,372,Breast Invasive Ductal Carcinoma,62.76666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+237,373,Breast Invasive Ductal Carcinoma,27,1,1,0,Died of Disease,0,2,MASTECTOMY
+238,374,Breast Invasive Ductal Carcinoma,1.433333333,1,0,0,Living,1,1,BREAST CONSERVING
+239,375,Breast Invasive Ductal Carcinoma,143.1666667,0,1,0,Living,1,2,BREAST CONSERVING
+240,377,Breast Invasive Ductal Carcinoma,134.3666667,1,1,0,Living,1,2,BREAST CONSERVING
+241,378,Breast Invasive Ductal Carcinoma,97.3,0,1,1,Died of Disease,0,2,MASTECTOMY
+242,379,Breast Invasive Ductal Carcinoma,135.6666667,1,1,1,Living,1,1,BREAST CONSERVING
+243,380,Breast Invasive Ductal Carcinoma,69.33333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+244,381,Breast Invasive Ductal Carcinoma,130.2,1,1,1,Living,1,2,BREAST CONSERVING
+245,382,Breast Invasive Ductal Carcinoma,136.4666667,1,1,1,Living,1,2,BREAST CONSERVING
+246,383,Breast Invasive Ductal Carcinoma,85.73333333,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+247,384,Breast Invasive Ductal Carcinoma,61.1,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+248,385,Breast Invasive Ductal Carcinoma,36.43333333,1,1,1,Died of Disease,0,1,MASTECTOMY
+249,386,Breast Invasive Ductal Carcinoma,138.1333333,1,1,0,Living,1,2,MASTECTOMY
+250,388,Breast Invasive Ductal Carcinoma,97.56666667,1,1,1,Living,1,2,BREAST CONSERVING
+251,389,Breast Invasive Ductal Carcinoma,96.96666667,1,1,1,Living,1,3,BREAST CONSERVING
+252,391,Breast Invasive Ductal Carcinoma,142.4666667,0,1,1,Living,1,2,MASTECTOMY
+253,392,Breast Invasive Ductal Carcinoma,38.13333333,1,0,1,Died of Disease,0,3,MASTECTOMY
+254,393,Breast Invasive Ductal Carcinoma,20.83333333,1,1,1,Died of Disease,0,3,BREAST CONSERVING
+255,394,Breast Mixed Ductal and Lobular Carcinoma,64.23333333,1,1,0,Living,1,4,MASTECTOMY
+256,395,Breast Invasive Ductal Carcinoma,29,0,1,0,Died of Disease,0,3,MASTECTOMY
+257,396,Breast Invasive Ductal Carcinoma,60.66666667,0,1,1,Living,1,1,BREAST CONSERVING
+258,397,Breast Invasive Ductal Carcinoma,57.23333333,1,1,0,Living,1,2,MASTECTOMY
+259,398,Breast Invasive Ductal Carcinoma,43.2,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+260,399,Breast Invasive Ductal Carcinoma,137.1,0,1,1,Died of Other Causes,0,1,BREAST CONSERVING
+261,400,Breast Invasive Ductal Carcinoma,22.46666667,0,0,1,Died of Disease,0,3,MASTECTOMY
+262,401,Breast Invasive Ductal Carcinoma,26.26666667,0,1,1,Died of Disease,0,3,MASTECTOMY
+263,402,Breast Invasive Ductal Carcinoma,99.73333333,1,1,0,Living,1,1,BREAST CONSERVING
+264,404,Breast Invasive Ductal Carcinoma,63.5,1,1,0,Living,1,1,BREAST CONSERVING
+265,406,Breast Invasive Ductal Carcinoma,96.9,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+266,410,Breast Invasive Lobular Carcinoma,63,1,1,0,Living,1,2,BREAST CONSERVING
+267,411,Breast Mixed Ductal and Lobular Carcinoma,139.1666667,1,1,1,Living,1,3,MASTECTOMY
+268,412,Breast Invasive Ductal Carcinoma,136.1666667,1,1,0,Living,1,1,BREAST CONSERVING
+269,413,Breast Invasive Ductal Carcinoma,140.0666667,1,1,1,Living,1,2,MASTECTOMY
+270,414,Breast Invasive Ductal Carcinoma,76.63333333,0,1,0,Living,1,2,BREAST CONSERVING
+271,417,Breast Invasive Ductal Carcinoma,6.266666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+272,418,Breast Invasive Ductal Carcinoma,102.0666667,1,1,0,Living,1,2,BREAST CONSERVING
+273,419,Breast Invasive Ductal Carcinoma,104.3,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+274,420,Breast Invasive Ductal Carcinoma,76.73333333,0,1,1,Living,1,2,BREAST CONSERVING
+275,421,Breast Invasive Ductal Carcinoma,93,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+276,422,Breast Invasive Ductal Carcinoma,33.8,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+277,424,Breast Invasive Ductal Carcinoma,9.833333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+278,425,Breast Invasive Ductal Carcinoma,24.4,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+279,426,Breast Invasive Ductal Carcinoma,131.1,1,1,1,Living,1,3,MASTECTOMY
+280,427,Breast Invasive Lobular Carcinoma,116.1,1,1,0,Living,1,2,MASTECTOMY
+281,428,Breast Invasive Ductal Carcinoma,55.93333333,1,1,0,Living,1,2,MASTECTOMY
+282,429,Breast Invasive Lobular Carcinoma,74.46666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+283,431,Breast Invasive Lobular Carcinoma,85.13333333,1,1,0,Living,1,2,MASTECTOMY
+284,434,Breast Invasive Ductal Carcinoma,45.5,1,0,1,Died of Disease,0,2,MASTECTOMY
+285,436,Breast Invasive Ductal Carcinoma,75.5,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+286,437,Breast Mixed Ductal and Lobular Carcinoma,90.56666667,1,1,0,Living,1,2,MASTECTOMY
+287,438,Breast Invasive Ductal Carcinoma,135.1666667,0,1,1,Living,1,1,BREAST CONSERVING
+288,439,Breast Invasive Mixed Mucinous Carcinoma,112.1333333,1,0,0,Living,1,2,BREAST CONSERVING
+289,440,Breast Invasive Ductal Carcinoma,100.8333333,1,1,1,Living,1,2,MASTECTOMY
+290,442,Breast Invasive Ductal Carcinoma,103.4666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+291,443,Breast Invasive Ductal Carcinoma,45.03333333,1,1,0,Living,1,2,BREAST CONSERVING
+292,444,Breast Invasive Lobular Carcinoma,55.46666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+293,445,Breast Invasive Ductal Carcinoma,132.5333333,1,1,1,Living,1,2,MASTECTOMY
+294,446,Breast Invasive Ductal Carcinoma,72.26666667,0,0,1,Living,1,4,BREAST CONSERVING
+295,449,Breast Invasive Ductal Carcinoma,112.5666667,1,1,1,Living,1,2,BREAST CONSERVING
+296,451,Breast Invasive Ductal Carcinoma,50.06666667,1,0,0,Living,1,2,MASTECTOMY
+297,452,Breast Invasive Ductal Carcinoma,62.8,1,1,0,Living,1,2,MASTECTOMY
+298,453,Breast Invasive Ductal Carcinoma,43.13333333,1,1,1,Died of Disease,0,1,MASTECTOMY
+299,454,Breast Invasive Mixed Mucinous Carcinoma,46.83333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+300,455,Breast Invasive Ductal Carcinoma,99.33333333,1,1,0,Living,1,3,MASTECTOMY
+301,458,Breast Invasive Ductal Carcinoma,134.5,1,1,1,Living,1,1,BREAST CONSERVING
+302,459,Breast Invasive Ductal Carcinoma,35.6,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+303,460,Breast Invasive Lobular Carcinoma,114,1,1,0,Died of Disease,0,2,MASTECTOMY
+304,462,Breast Invasive Ductal Carcinoma,132.7666667,1,1,0,Living,1,3,MASTECTOMY
+305,463,Breast Invasive Ductal Carcinoma,120.5666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+306,464,Breast Invasive Ductal Carcinoma,39.3,0,1,1,Died of Disease,0,1,MASTECTOMY
+307,465,Breast Invasive Ductal Carcinoma,28.6,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+308,466,Breast Invasive Ductal Carcinoma,43.86666667,1,1,1,Living,1,3,MASTECTOMY
+309,467,Breast Invasive Ductal Carcinoma,105.6,0,0,1,Died of Disease,0,2,MASTECTOMY
+310,468,Breast Invasive Ductal Carcinoma,129.6,1,1,1,Died of Other Causes,0,2,MASTECTOMY
+311,469,Breast Invasive Ductal Carcinoma,131.2666667,1,1,1,Living,1,1,BREAST CONSERVING
+312,470,Breast Invasive Lobular Carcinoma,88.23333333,1,1,0,Living,1,2,MASTECTOMY
+313,471,Breast Invasive Mixed Mucinous Carcinoma,107.4666667,1,1,0,Living,1,2,MASTECTOMY
+314,472,Breast Invasive Lobular Carcinoma,27.4,0,1,0,Living,1,1,BREAST CONSERVING
+315,474,Breast Invasive Ductal Carcinoma,111.1,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+316,475,Breast Invasive Ductal Carcinoma,130.7,1,1,0,Living,1,0,BREAST CONSERVING
+317,476,Breast Invasive Ductal Carcinoma,130.4333333,0,1,1,Living,1,3,MASTECTOMY
+318,478,Breast Invasive Ductal Carcinoma,132.3,1,1,0,Living,1,1,BREAST CONSERVING
+319,479,Breast Invasive Ductal Carcinoma,132.7666667,1,1,1,Living,1,2,MASTECTOMY
+320,480,Breast Invasive Ductal Carcinoma,94.56666667,1,1,0,Living,1,2,MASTECTOMY
+321,481,Breast Invasive Ductal Carcinoma,36.4,0,1,1,Died of Disease,0,2,MASTECTOMY
+322,482,Breast Invasive Ductal Carcinoma,24.86666667,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+323,483,Breast Invasive Ductal Carcinoma,74.46666667,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+324,484,Breast Invasive Ductal Carcinoma,82.63333333,1,1,1,Living,1,2,BREAST CONSERVING
+325,485,Breast Mixed Ductal and Lobular Carcinoma,36.76666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+326,486,Breast Invasive Ductal Carcinoma,89.96666667,1,1,1,Living,1,2,BREAST CONSERVING
+327,487,Breast Invasive Ductal Carcinoma,86.9,0,1,0,Living,1,3,MASTECTOMY
+328,488,Breast Mixed Ductal and Lobular Carcinoma,112.9333333,1,1,0,Living,1,2,MASTECTOMY
+329,489,Breast Invasive Ductal Carcinoma,90.56666667,1,0,1,Living,1,1,BREAST CONSERVING
+330,490,Breast Invasive Ductal Carcinoma,101.9666667,1,1,0,Living,1,2,MASTECTOMY
+331,491,Breast Invasive Lobular Carcinoma,125.8,1,1,0,Living,1,1,MASTECTOMY
+332,492,Breast Mixed Ductal and Lobular Carcinoma,81.13333333,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+333,494,Breast Invasive Ductal Carcinoma,36.63333333,0,1,1,Died of Disease,0,3,MASTECTOMY
+334,495,Breast Invasive Ductal Carcinoma,71.8,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+335,496,Breast Invasive Ductal Carcinoma,130.9,1,1,1,Living,1,3,MASTECTOMY
+336,497,Breast Invasive Ductal Carcinoma,73.7,1,1,0,Living,1,2,MASTECTOMY
+337,500,Breast Invasive Ductal Carcinoma,67.46666667,0,1,1,Living,1,2,MASTECTOMY
+338,501,Breast Invasive Ductal Carcinoma,71.5,1,1,1,Living,1,2,BREAST CONSERVING
+339,502,Breast Invasive Ductal Carcinoma,82.1,1,1,1,Living,1,2,BREAST CONSERVING
+340,503,Breast Invasive Ductal Carcinoma,101.2333333,1,1,0,Living,1,2,BREAST CONSERVING
+341,504,Breast Invasive Ductal Carcinoma,130.4666667,1,1,0,Living,1,2,BREAST CONSERVING
+342,505,Breast Invasive Ductal Carcinoma,60.7,1,1,0,Living,1,2,BREAST CONSERVING
+343,506,Breast Invasive Ductal Carcinoma,45.8,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+344,507,Breast Invasive Ductal Carcinoma,23.8,1,1,0,Living,1,2,BREAST CONSERVING
+345,508,Breast Invasive Ductal Carcinoma,114.3333333,1,0,0,Living,1,2,BREAST CONSERVING
+346,509,Breast Invasive Ductal Carcinoma,115.3,1,1,0,Living,1,1,BREAST CONSERVING
+347,510,Breast Invasive Ductal Carcinoma,128.4,1,1,0,Living,1,1,BREAST CONSERVING
+348,511,Breast Invasive Ductal Carcinoma,61.7,1,1,0,Living,1,1,BREAST CONSERVING
+349,512,Breast Invasive Ductal Carcinoma,121.5333333,1,1,0,Living,1,3,MASTECTOMY
+350,513,Breast Invasive Ductal Carcinoma,117.0333333,1,1,0,Living,1,2,MASTECTOMY
+351,516,Breast Invasive Ductal Carcinoma,114.4666667,0,1,1,Living,1,2,BREAST CONSERVING
+352,517,Breast Invasive Ductal Carcinoma,61.9,1,1,0,Living,1,2,MASTECTOMY
+353,519,Breast Invasive Ductal Carcinoma,110.9666667,1,1,1,Living,1,2,BREAST CONSERVING
+354,521,Breast Invasive Lobular Carcinoma,212.2,1,1,0,Living,1,1,BREAST CONSERVING
+355,524,Breast Invasive Ductal Carcinoma,80.83333333,1,0,1,Living,1,1,BREAST CONSERVING
+356,525,Breast Invasive Ductal Carcinoma,65.86666667,0,1,1,Living,1,3,MASTECTOMY
+357,526,Breast Invasive Ductal Carcinoma,139.6333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+358,527,Breast Invasive Ductal Carcinoma,109.8333333,1,1,0,Died of Other Causes,0,0,
+359,528,Breast Invasive Ductal Carcinoma,193.9666667,1,1,1,Living,1,2,BREAST CONSERVING
+360,529,Breast Invasive Ductal Carcinoma,48.53333333,1,0,1,Died of Disease,0,2,BREAST CONSERVING
+361,531,Breast Invasive Ductal Carcinoma,163.8666667,1,1,1,Living,1,,BREAST CONSERVING
+362,532,Breast Invasive Ductal Carcinoma,143.1333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+363,534,Breast Invasive Ductal Carcinoma,124.1,1,1,1,Living,1,2,MASTECTOMY
+364,535,Breast Invasive Ductal Carcinoma,199.1333333,1,1,0,Living,1,4,MASTECTOMY
+365,536,Breast Invasive Ductal Carcinoma,147.3666667,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+366,537,Breast Invasive Ductal Carcinoma,113.5666667,1,1,1,Living,1,2,MASTECTOMY
+367,538,Breast Invasive Ductal Carcinoma,24.1,1,1,1,Died of Disease,0,2,MASTECTOMY
+368,540,Breast Mixed Ductal and Lobular Carcinoma,194.5333333,1,1,0,Living,1,1,BREAST CONSERVING
+369,541,Breast Invasive Ductal Carcinoma,174.2666667,1,1,1,Living,1,1,BREAST CONSERVING
+370,542,Breast Invasive Ductal Carcinoma,48.6,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+371,544,Breast Invasive Ductal Carcinoma,79.33333333,1,1,1,Died of Other Causes,0,2,MASTECTOMY
+372,545,Breast Invasive Ductal Carcinoma,41.16666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+373,550,Breast Invasive Ductal Carcinoma,132.3333333,0,0,0,Died of Disease,0,1,MASTECTOMY
+374,551,Breast Invasive Ductal Carcinoma,51.96666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+375,552,Breast Invasive Ductal Carcinoma,68.06666667,1,1,1,Died of Disease,0,3,MASTECTOMY
+376,553,Breast Invasive Ductal Carcinoma,85.73333333,1,1,0,Died of Other Causes,0,2,
+377,554,Breast Invasive Ductal Carcinoma,111.1666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+378,558,Breast Invasive Ductal Carcinoma,97.83333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+379,559,Breast Invasive Ductal Carcinoma,161.7666667,1,0,1,Living,1,2,MASTECTOMY
+380,568,Breast Invasive Ductal Carcinoma,181.4666667,1,0,0,Living,1,2,MASTECTOMY
+381,569,Breast Invasive Ductal Carcinoma,59.5,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+382,570,Breast Invasive Ductal Carcinoma,272.2,1,1,0,Living,1,2,MASTECTOMY
+383,571,Breast Invasive Ductal Carcinoma,149.8666667,1,1,0,Living,1,2,MASTECTOMY
+384,573,Breast Invasive Ductal Carcinoma,163.2,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+385,574,Breast Invasive Ductal Carcinoma,119.8,1,1,0,Living,1,2,MASTECTOMY
+386,575,Breast Invasive Ductal Carcinoma,128.5666667,1,1,1,Living,1,2,BREAST CONSERVING
+387,576,Breast Invasive Ductal Carcinoma,31,1,1,0,Died of Disease,0,1,MASTECTOMY
+388,577,Breast Invasive Mixed Mucinous Carcinoma,65.4,1,1,0,Living,1,0,BREAST CONSERVING
+389,578,Breast Invasive Lobular Carcinoma,110.1,1,1,1,Living,1,2,BREAST CONSERVING
+390,579,Breast Invasive Ductal Carcinoma,92.76666667,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+391,580,Breast Invasive Ductal Carcinoma,79.36666667,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+392,581,Breast Invasive Ductal Carcinoma,7.866666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+393,582,Breast Invasive Lobular Carcinoma,15.53333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+394,583,Breast Mixed Ductal and Lobular Carcinoma,62.63333333,1,0,0,Living,1,2,BREAST CONSERVING
+395,584,Breast Invasive Ductal Carcinoma,118.2,1,0,0,Living,1,2,MASTECTOMY
+396,585,Breast Invasive Ductal Carcinoma,115.7,1,1,0,Died of Disease,0,2,MASTECTOMY
+397,586,Breast Invasive Lobular Carcinoma,77.23333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+398,587,Breast Mixed Ductal and Lobular Carcinoma,91.26666667,1,1,1,Living,1,2,MASTECTOMY
+399,588,Breast Invasive Ductal Carcinoma,119.7333333,0,0,0,Living,1,1,MASTECTOMY
+400,589,Breast Mixed Ductal and Lobular Carcinoma,125.8,1,1,0,Living,1,2,MASTECTOMY
+401,590,Breast Invasive Ductal Carcinoma,72.46666667,1,1,1,Died of Other Causes,0,3,MASTECTOMY
+402,591,Breast Invasive Ductal Carcinoma,119.4666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+403,593,Breast Invasive Lobular Carcinoma,34.66666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+404,594,Breast Invasive Ductal Carcinoma,44.23333333,1,1,0,Living,1,4,MASTECTOMY
+405,596,Breast Mixed Ductal and Lobular Carcinoma,107.1,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+406,597,Breast Invasive Ductal Carcinoma,113.2,1,1,1,Died of Other Causes,0,1,MASTECTOMY
+407,598,Breast Invasive Ductal Carcinoma,89.36666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+408,599,Breast Invasive Ductal Carcinoma,123.2666667,1,1,1,Living,1,3,MASTECTOMY
+409,600,Breast Mixed Ductal and Lobular Carcinoma,111,1,1,0,Living,1,1,BREAST CONSERVING
+410,601,Breast Invasive Ductal Carcinoma,29.66666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+411,603,Breast Invasive Ductal Carcinoma,121.9666667,1,0,0,Living,1,2,MASTECTOMY
+412,605,Breast Invasive Lobular Carcinoma,114.6,1,0,0,Living,1,2,BREAST CONSERVING
+413,606,Breast Mixed Ductal and Lobular Carcinoma,27.46666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+414,607,Breast Invasive Ductal Carcinoma,87.83333333,1,1,1,Living,1,2,MASTECTOMY
+415,608,Breast Invasive Ductal Carcinoma,63.96666667,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+416,609,Breast Invasive Ductal Carcinoma,98.7,1,0,1,Died of Disease,0,1,MASTECTOMY
+417,610,Breast Invasive Ductal Carcinoma,76.7,1,1,0,Living,1,1,MASTECTOMY
+418,611,Breast Invasive Ductal Carcinoma,104.5333333,1,0,0,Living,1,2,
+419,613,Breast,48.8,0,1,1,Living,1,2,MASTECTOMY
+420,614,Breast Invasive Ductal Carcinoma,119.3333333,1,0,1,Living,1,2,MASTECTOMY
+421,615,Breast Invasive Ductal Carcinoma,34.76666667,0,0,0,Living,1,2,MASTECTOMY
+422,616,Breast Invasive Ductal Carcinoma,29.03333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+423,617,Breast Invasive Mixed Mucinous Carcinoma,92.96666667,1,0,0,Died of Other Causes,0,3,MASTECTOMY
+424,618,Breast Invasive Ductal Carcinoma,101.9,1,0,0,Living,1,2,MASTECTOMY
+425,619,Breast Invasive Ductal Carcinoma,94.23333333,1,1,1,Living,1,,MASTECTOMY
+426,620,Breast,112.8,1,1,1,Living,1,2,MASTECTOMY
+427,621,Breast Invasive Lobular Carcinoma,33.56666667,1,1,0,Living,1,2,MASTECTOMY
+428,623,Breast Invasive Ductal Carcinoma,111.0666667,1,1,0,Living,1,1,MASTECTOMY
+429,624,Breast Invasive Ductal Carcinoma,64.03333333,1,0,0,Living,1,2,MASTECTOMY
+430,626,Breast Invasive Ductal Carcinoma,35.53333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+431,627,Breast Invasive Ductal Carcinoma,0.766666667,0,0,0,Living,1,2,MASTECTOMY
+432,628,Breast Invasive Ductal Carcinoma,105.9666667,1,1,0,Living,1,1,BREAST CONSERVING
+433,630,Breast Invasive Ductal Carcinoma,86.8,1,1,1,Living,1,2,MASTECTOMY
+434,631,Breast Invasive Ductal Carcinoma,47.43333333,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+435,632,Breast Invasive Ductal Carcinoma,56.5,1,1,0,Living,1,,MASTECTOMY
+436,634,Breast Invasive Lobular Carcinoma,17.76666667,0,0,0,Living,1,1,BREAST CONSERVING
+437,636,Breast Invasive Ductal Carcinoma,32.63333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+438,637,Breast Invasive Ductal Carcinoma,80.66666667,1,1,0,Living,1,2,MASTECTOMY
+439,638,Breast Mixed Ductal and Lobular Carcinoma,103.7666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+440,639,Breast Invasive Ductal Carcinoma,75.4,0,1,1,Living,1,,MASTECTOMY
+441,640,Breast Invasive Ductal Carcinoma,61.33333333,1,1,0,Living,1,1,BREAST CONSERVING
+442,641,Breast Invasive Ductal Carcinoma,102.5666667,1,1,0,Living,1,2,MASTECTOMY
+443,642,Breast Invasive Ductal Carcinoma,84.2,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+444,643,Breast Invasive Ductal Carcinoma,19.73333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+445,644,Breast Invasive Ductal Carcinoma,93.3,1,1,0,Living,1,1,BREAST CONSERVING
+446,646,Breast Mixed Ductal and Lobular Carcinoma,15.16666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+447,649,Breast Invasive Ductal Carcinoma,61.43333333,1,1,0,Living,1,1,BREAST CONSERVING
+448,650,Breast Invasive Ductal Carcinoma,25.53333333,1,1,0,Living,1,3,MASTECTOMY
+449,652,Breast Invasive Ductal Carcinoma,96.63333333,1,0,0,Died of Disease,0,3,MASTECTOMY
+450,653,Breast Invasive Lobular Carcinoma,24.8,1,1,0,Died of Disease,0,2,MASTECTOMY
+451,654,Breast Invasive Ductal Carcinoma,69.4,1,1,0,Living,1,2,BREAST CONSERVING
+452,655,Breast,111.0666667,0,0,0,Living,1,2,MASTECTOMY
+453,656,Breast Invasive Ductal Carcinoma,19.03333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+454,657,Breast Invasive Lobular Carcinoma,30.43333333,1,1,0,Living,1,2,BREAST CONSERVING
+455,658,Breast Invasive Ductal Carcinoma,97.26666667,1,1,1,Living,1,2,BREAST CONSERVING
+456,659,Breast,23.33333333,0,1,0,Died of Disease,0,1,MASTECTOMY
+457,660,Breast Invasive Ductal Carcinoma,18.93333333,1,1,1,Died of Disease,0,3,MASTECTOMY
+458,661,Breast Invasive Ductal Carcinoma,20,1,0,0,Died of Disease,0,2,
+459,662,Breast Invasive Ductal Carcinoma,69.8,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+460,663,Breast Invasive Ductal Carcinoma,55.36666667,0,0,1,Living,1,,BREAST CONSERVING
+461,664,Breast Invasive Ductal Carcinoma,11.06666667,0,1,1,Died of Disease,0,1,MASTECTOMY
+462,666,Breast Invasive Ductal Carcinoma,24.33333333,1,1,1,Died of Disease,0,1,MASTECTOMY
+463,869,Breast Invasive Ductal Carcinoma,112.4,1,1,1,Died of Other Causes,0,1,BREAST CONSERVING
+464,872,Breast Invasive Ductal Carcinoma,152.0666667,1,1,0,Died of Other Causes,0,1,
+465,874,Breast Invasive Ductal Carcinoma,16.6,0,1,1,Died of Disease,0,3,MASTECTOMY
+466,877,Breast Invasive Ductal Carcinoma,14.43333333,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+467,880,Breast Invasive Ductal Carcinoma,1.233333333,0,0,0,Living,1,2,BREAST CONSERVING
+468,882,Breast Invasive Ductal Carcinoma,42.36666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+469,884,Breast Invasive Ductal Carcinoma,93.66666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+470,891,Breast Invasive Ductal Carcinoma,149.4,1,0,0,Living,1,2,MASTECTOMY
+471,893,Breast Invasive Ductal Carcinoma,175.6333333,1,1,1,Living,1,2,MASTECTOMY
+472,895,Breast Invasive Ductal Carcinoma,43.1,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+473,897,Breast Invasive Ductal Carcinoma,30.96666667,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+474,899,Breast Invasive Ductal Carcinoma,175.8,1,0,1,Living,1,2,MASTECTOMY
+475,901,Breast Invasive Ductal Carcinoma,136.1666667,0,1,1,Living,1,2,MASTECTOMY
+476,904,Breast Invasive Ductal Carcinoma,144.7,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+477,906,Breast Mixed Ductal and Lobular Carcinoma,63.86666667,1,1,0,Died of Other Causes,0,2,
+478,2513,Breast Invasive Ductal Carcinoma,59.7,0,1,0,Died of Disease,0,2,MASTECTOMY
+479,2517,Breast Invasive Ductal Carcinoma,268.4333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+480,2536,Breast Mixed Ductal and Lobular Carcinoma,47.9,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+481,2556,Breast Invasive Lobular Carcinoma,220.9,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+482,2564,Breast Invasive Ductal Carcinoma,285.4333333,0,1,0,Living,1,1,BREAST CONSERVING
+483,2610,Breast Mixed Ductal and Lobular Carcinoma,280.7,1,0,0,Living,1,1,MASTECTOMY
+484,2613,Breast Invasive Ductal Carcinoma,163.4,1,0,0,Living,1,1,BREAST CONSERVING
+485,2614,Breast Mixed Ductal and Lobular Carcinoma,64.93333333,0,0,1,Died of Disease,0,2,MASTECTOMY
+486,2616,Breast Mixed Ductal and Lobular Carcinoma,219.1666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+487,2617,Breast Invasive Ductal Carcinoma,89.1,1,1,0,Died of Disease,0,2,MASTECTOMY
+488,2618,Breast Invasive Ductal Carcinoma,89.1,0,1,0,Died of Disease,0,1,MASTECTOMY
+489,2624,Breast Invasive Ductal Carcinoma,128.5333333,1,1,0,Living,1,3,MASTECTOMY
+490,2626,Breast Invasive Ductal Carcinoma,193.7,1,1,0,Living,1,1,BREAST CONSERVING
+491,2629,Breast Invasive Ductal Carcinoma,279.1,1,1,0,Living,1,1,BREAST CONSERVING
+492,2632,Breast Invasive Ductal Carcinoma,19.1,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+493,2634,Breast Invasive Ductal Carcinoma,274.0333333,1,1,0,Living,1,2,BREAST CONSERVING
+494,2642,Breast Invasive Ductal Carcinoma,45.16666667,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+495,2643,Breast Invasive Ductal Carcinoma,52.96666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+496,2645,Breast Invasive Ductal Carcinoma,44.76666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+497,2669,Breast Invasive Ductal Carcinoma,73.7,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+498,2686,Breast Invasive Ductal Carcinoma,177.2666667,1,1,0,Living,1,2,MASTECTOMY
+499,2705,Breast Invasive Ductal Carcinoma,163.7333333,0,1,0,Living,1,1,BREAST CONSERVING
+500,2708,Breast Mixed Ductal and Lobular Carcinoma,133.2333333,1,0,0,Died of Disease,0,3,MASTECTOMY
+501,2711,Breast Invasive Ductal Carcinoma,201.4666667,0,0,0,Living,1,1,MASTECTOMY
+502,2712,Breast Mixed Ductal and Lobular Carcinoma,234.4333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+503,2718,Breast Mixed Ductal and Lobular Carcinoma,278.2666667,0,0,1,Living,1,1,BREAST CONSERVING
+504,2721,Breast Invasive Ductal Carcinoma,251.6333333,0,1,0,Living,1,1,MASTECTOMY
+505,2724,Breast Invasive Ductal Carcinoma,108.0666667,0,0,0,Died of Disease,0,1,MASTECTOMY
+506,2725,Breast Invasive Ductal Carcinoma,236.9333333,1,1,0,Living,1,2,BREAST CONSERVING
+507,2728,Breast Invasive Ductal Carcinoma,51.4,0,1,1,Died of Disease,0,2,MASTECTOMY
+508,2730,Breast Invasive Ductal Carcinoma,133.7333333,1,1,0,Living,1,1,BREAST CONSERVING
+509,2735,Breast Invasive Ductal Carcinoma,274.5,0,1,1,Living,1,1,BREAST CONSERVING
+510,2742,Breast Invasive Ductal Carcinoma,24.9,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+511,2744,Breast Invasive Lobular Carcinoma,275.6333333,1,1,0,Living,1,3,MASTECTOMY
+512,2745,Breast Mixed Ductal and Lobular Carcinoma,168.9666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+513,2747,Breast Invasive Ductal Carcinoma,234.3333333,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+514,2749,Breast Invasive Ductal Carcinoma,97.76666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+515,2750,Breast Mixed Ductal and Lobular Carcinoma,145.4333333,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+516,2752,Breast Mixed Ductal and Lobular Carcinoma,81.93333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+517,2753,Breast Invasive Ductal Carcinoma,274.4,0,1,1,Living,1,1,MASTECTOMY
+518,2754,Breast Invasive Lobular Carcinoma,203.5333333,1,0,0,Died of Disease,0,1,MASTECTOMY
+519,2758,Breast Invasive Ductal Carcinoma,35,0,0,1,Died of Disease,0,1,MASTECTOMY
+520,2760,Breast Invasive Ductal Carcinoma,118.0333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+521,2763,Breast Invasive Mixed Mucinous Carcinoma,275.6,1,0,0,Living,1,2,BREAST CONSERVING
+522,2764,Breast Invasive Ductal Carcinoma,270.1333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+523,2765,Breast Invasive Ductal Carcinoma,227.8666667,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+524,2767,Breast Invasive Ductal Carcinoma,271.3333333,1,1,0,Living,1,2,BREAST CONSERVING
+525,2769,Breast Invasive Lobular Carcinoma,160,0,1,0,Living,1,1,MASTECTOMY
+526,2770,Breast Invasive Lobular Carcinoma,274.3666667,1,0,0,Living,1,2,BREAST CONSERVING
+527,2771,Breast Invasive Ductal Carcinoma,44.83333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+528,2772,Breast Mixed Ductal and Lobular Carcinoma,150.7333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+529,2774,Breast Invasive Ductal Carcinoma,131.6666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+530,2778,Breast Invasive Ductal Carcinoma,181.2333333,1,0,0,Died of Disease,0,3,BREAST CONSERVING
+531,2779,Breast Invasive Ductal Carcinoma,275.2333333,0,1,0,Living,1,1,BREAST CONSERVING
+532,2781,Breast Invasive Ductal Carcinoma,40.43333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+533,2786,Breast Invasive Ductal Carcinoma,68.26666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+534,2790,Breast Mixed Ductal and Lobular Carcinoma,116.9333333,0,0,0,Living,1,2,MASTECTOMY
+535,2791,Breast Invasive Ductal Carcinoma,271.9333333,0,1,0,Living,1,1,BREAST CONSERVING
+536,2792,Breast Invasive Ductal Carcinoma,110.7666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+537,2793,Breast Invasive Ductal Carcinoma,267.2333333,1,0,0,Living,1,2,MASTECTOMY
+538,2795,Breast Invasive Ductal Carcinoma,272.1,0,1,0,Living,1,1,MASTECTOMY
+539,2796,Breast Mixed Ductal and Lobular Carcinoma,87.7,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+540,2797,Breast Mixed Ductal and Lobular Carcinoma,252.9666667,0,0,0,Living,1,2,MASTECTOMY
+541,2801,Breast Invasive Ductal Carcinoma,271.2666667,1,1,0,Living,1,1,MASTECTOMY
+542,2803,Breast Invasive Ductal Carcinoma,85.86666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+543,2814,Breast Invasive Ductal Carcinoma,231.0333333,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+544,2815,Breast Mixed Ductal and Lobular Carcinoma,257.5666667,0,1,0,Living,1,1,MASTECTOMY
+545,2819,Breast Mixed Ductal and Lobular Carcinoma,270.5666667,0,0,0,Living,1,2,BREAST CONSERVING
+546,2820,Breast Invasive Ductal Carcinoma,254.6333333,1,1,0,Living,1,1,BREAST CONSERVING
+547,2821,Metaplastic Breast Cancer,136.0666667,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+548,2823,Breast Mixed Ductal and Lobular Carcinoma,269.9,1,1,0,Living,1,1,BREAST CONSERVING
+549,2827,Breast Invasive Ductal Carcinoma,235.6666667,0,1,1,Living,1,1,MASTECTOMY
+550,2833,Breast Invasive Ductal Carcinoma,259.7666667,0,1,1,Living,1,1,BREAST CONSERVING
+551,2834,Breast Invasive Ductal Carcinoma,153.8333333,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+552,2835,Breast Invasive Ductal Carcinoma,55.03333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+553,2838,Breast Invasive Ductal Carcinoma,270.3,1,0,0,Living,1,2,MASTECTOMY
+554,2840,Breast Invasive Lobular Carcinoma,269,0,0,0,Living,1,2,MASTECTOMY
+555,2842,Breast Invasive Ductal Carcinoma,19.73333333,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+556,2843,Breast Invasive Ductal Carcinoma,231.5333333,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+557,2844,Breast Invasive Ductal Carcinoma,146.7333333,1,0,0,Living,1,1,MASTECTOMY
+558,2845,Breast Invasive Lobular Carcinoma,264.7666667,0,0,0,Living,1,1,MASTECTOMY
+559,2846,Breast Invasive Ductal Carcinoma,149.7,0,0,0,Died of Disease,0,2,MASTECTOMY
+560,2847,Breast Invasive Ductal Carcinoma,39.53333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+561,2848,Breast Invasive Ductal Carcinoma,227.7333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+562,2849,Breast Invasive Ductal Carcinoma,43.2,1,1,0,Died of Disease,0,1,MASTECTOMY
+563,2850,Breast Invasive Ductal Carcinoma,9.433333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+564,2851,Breast Mixed Ductal and Lobular Carcinoma,159,1,1,0,Died of Disease,0,3,MASTECTOMY
+565,2853,Breast Invasive Mixed Mucinous Carcinoma,269.6333333,0,1,0,Living,1,2,MASTECTOMY
+566,2854,Breast Invasive Lobular Carcinoma,270.4333333,1,0,0,Living,1,1,MASTECTOMY
+567,2857,Breast Invasive Ductal Carcinoma,250.6666667,0,1,1,Living,1,3,MASTECTOMY
+568,2858,Breast Mixed Ductal and Lobular Carcinoma,141.5666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+569,2863,Breast Invasive Mixed Mucinous Carcinoma,258.3333333,1,0,0,Living,1,1,BREAST CONSERVING
+570,2867,Breast Invasive Ductal Carcinoma,269.3333333,1,0,0,Living,1,1,MASTECTOMY
+571,2895,Breast Invasive Ductal Carcinoma,196.5666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+572,2896,Breast Invasive Ductal Carcinoma,237.3666667,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+573,2900,Breast Invasive Lobular Carcinoma,20.66666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+574,2901,Breast Invasive Ductal Carcinoma,218.3,1,1,0,Died of Disease,0,2,MASTECTOMY
+575,2904,Breast Invasive Ductal Carcinoma,125.6,0,1,1,Died of Disease,0,1,MASTECTOMY
+576,2912,Breast Invasive Ductal Carcinoma,267.4,0,1,1,Living,1,1,MASTECTOMY
+577,2916,Breast Invasive Ductal Carcinoma,266.9333333,0,1,0,Living,1,3,MASTECTOMY
+578,2917,Breast Invasive Ductal Carcinoma,31.93333333,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+579,2919,Breast Invasive Mixed Mucinous Carcinoma,240.0333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+580,2922,Breast Invasive Ductal Carcinoma,14.4,0,1,1,Died of Disease,0,3,BREAST CONSERVING
+581,2923,Breast Invasive Ductal Carcinoma,14.1,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+582,2927,Breast Mixed Ductal and Lobular Carcinoma,263.7,0,0,0,Died of Disease,0,2,MASTECTOMY
+583,2929,Breast Invasive Ductal Carcinoma,262.8666667,0,1,1,Died of Other Causes,0,1,MASTECTOMY
+584,2931,Breast Invasive Ductal Carcinoma,228.1,0,0,0,Died of Other Causes,0,3,MASTECTOMY
+585,2932,Breast Invasive Ductal Carcinoma,108.4333333,1,1,0,Living,1,3,MASTECTOMY
+586,2933,Breast Invasive Ductal Carcinoma,161.9333333,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+587,2939,Breast Invasive Ductal Carcinoma,101.2666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+588,2944,Breast Mixed Ductal and Lobular Carcinoma,27.2,1,0,0,Died of Disease,0,1,MASTECTOMY
+589,2947,Breast Invasive Ductal Carcinoma,112,0,0,0,Living,1,1,BREAST CONSERVING
+590,2951,Breast Invasive Ductal Carcinoma,263.3666667,0,1,0,Living,1,1,MASTECTOMY
+591,2952,Breast Invasive Ductal Carcinoma,189.1,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+592,2953,Breast Invasive Ductal Carcinoma,30.13333333,0,1,0,Died of Disease,0,1,MASTECTOMY
+593,2954,Breast Invasive Ductal Carcinoma,5.5,1,1,0,Died of Disease,0,1,MASTECTOMY
+594,2957,Breast Invasive Ductal Carcinoma,262.1333333,0,1,1,Living,1,1,BREAST CONSERVING
+595,2960,Breast Invasive Ductal Carcinoma,222.2,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+596,2963,Breast Mixed Ductal and Lobular Carcinoma,227.8333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+597,2964,Breast Invasive Ductal Carcinoma,9.6,1,1,0,Died of Disease,0,2,MASTECTOMY
+598,2966,Breast Invasive Ductal Carcinoma,265,1,1,0,Living,1,2,MASTECTOMY
+599,2969,Breast Invasive Ductal Carcinoma,172.9,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+600,2970,Breast Mixed Ductal and Lobular Carcinoma,252.8666667,1,0,0,Died of Disease,0,3,BREAST CONSERVING
+601,2971,Breast Invasive Ductal Carcinoma,264.2333333,1,1,0,Living,1,3,MASTECTOMY
+602,2977,Breast Invasive Ductal Carcinoma,110.6,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+603,2983,Breast Invasive Ductal Carcinoma,180.8333333,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+604,2984,Breast Invasive Ductal Carcinoma,261.2,1,1,0,Living,1,2,MASTECTOMY
+605,2990,Breast Mixed Ductal and Lobular Carcinoma,260,0,0,0,Living,1,2,BREAST CONSERVING
+606,2993,Breast Invasive Ductal Carcinoma,187.0333333,1,1,0,Living,1,1,BREAST CONSERVING
+607,2994,Breast Invasive Ductal Carcinoma,254.5,1,1,0,Living,1,2,BREAST CONSERVING
+608,2996,Breast Invasive Ductal Carcinoma,191.2333333,1,1,0,Living,1,1,BREAST CONSERVING
+609,2999,Breast Invasive Ductal Carcinoma,262,1,0,0,Living,1,1,MASTECTOMY
+610,3001,Breast Invasive Ductal Carcinoma,263.2333333,0,1,1,Living,1,1,MASTECTOMY
+611,3002,Breast Invasive Lobular Carcinoma,140.5666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+612,3005,Breast Invasive Ductal Carcinoma,253.0666667,0,1,0,Living,1,1,BREAST CONSERVING
+613,3006,Breast Invasive Ductal Carcinoma,15.7,1,1,0,Died of Disease,0,1,MASTECTOMY
+614,3007,Breast Invasive Ductal Carcinoma,114.9,0,0,0,Died of Disease,0,2,MASTECTOMY
+615,3008,Breast Mixed Ductal and Lobular Carcinoma,149.6,0,1,0,Living,1,2,MASTECTOMY
+616,3013,Breast Invasive Ductal Carcinoma,238.3666667,1,1,0,Living,1,1,BREAST CONSERVING
+617,3014,Breast Invasive Ductal Carcinoma,262.6333333,0,1,1,Living,1,3,MASTECTOMY
+618,3016,Breast Invasive Ductal Carcinoma,258.8666667,1,0,0,Living,1,1,MASTECTOMY
+619,3021,Breast Invasive Lobular Carcinoma,217.5666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+620,3025,Breast Invasive Ductal Carcinoma,256,0,1,1,Living,1,2,BREAST CONSERVING
+621,3026,Breast Invasive Ductal Carcinoma,261.2,1,1,0,Living,1,2,BREAST CONSERVING
+622,3028,Breast Invasive Ductal Carcinoma,42.56666667,1,1,0,Died of Disease,0,1,MASTECTOMY
+623,3031,Breast Invasive Ductal Carcinoma,35.63333333,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+624,3032,Breast Invasive Ductal Carcinoma,250.1333333,0,1,0,Living,1,2,BREAST CONSERVING
+625,3033,Breast Invasive Ductal Carcinoma,70.4,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+626,3035,Breast Invasive Ductal Carcinoma,260.7333333,1,1,0,Living,1,1,BREAST CONSERVING
+627,3037,Breast Mixed Ductal and Lobular Carcinoma,98.83333333,0,1,0,Living,1,2,MASTECTOMY
+628,3046,Breast Invasive Ductal Carcinoma,73.83333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+629,3049,Breast Invasive Lobular Carcinoma,259.9666667,0,1,0,Living,1,1,MASTECTOMY
+630,3050,Breast Invasive Ductal Carcinoma,255.1,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+631,3057,Breast Invasive Ductal Carcinoma,32.03333333,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+632,3058,Breast Invasive Ductal Carcinoma,254.2666667,0,1,1,Living,1,1,MASTECTOMY
+633,3060,Breast Invasive Ductal Carcinoma,44.6,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+634,3062,Breast Invasive Ductal Carcinoma,146.3666667,0,1,0,Living,1,1,MASTECTOMY
+635,3063,Breast Invasive Ductal Carcinoma,28.56666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+636,3064,Breast Mixed Ductal and Lobular Carcinoma,165.1666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+637,3067,Breast Invasive Ductal Carcinoma,259.5333333,0,1,1,Living,1,2,MASTECTOMY
+638,3079,Breast Mixed Ductal and Lobular Carcinoma,149.6,0,1,0,Living,1,1,BREAST CONSERVING
+639,3083,Breast Invasive Ductal Carcinoma,81.1,1,1,0,Died of Disease,0,3,BREAST CONSERVING
+640,3085,Breast Invasive Lobular Carcinoma,210.9666667,0,1,0,Died of Disease,0,1,MASTECTOMY
+641,3088,Breast Invasive Ductal Carcinoma,256.5,0,0,0,Living,1,2,MASTECTOMY
+642,3092,Breast Mixed Ductal and Lobular Carcinoma,152.3333333,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+643,3102,Breast Invasive Ductal Carcinoma,258.3333333,1,1,0,Living,1,2,MASTECTOMY
+644,3103,Breast Invasive Ductal Carcinoma,28.73333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+645,3104,Breast Invasive Ductal Carcinoma,75.36666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+646,3105,Breast Invasive Ductal Carcinoma,252.3333333,1,0,0,Living,1,2,MASTECTOMY
+647,3110,Breast Invasive Lobular Carcinoma,100.7333333,1,1,0,Living,1,2,BREAST CONSERVING
+648,3121,Breast Invasive Ductal Carcinoma,131.3333333,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+649,3122,Breast Invasive Ductal Carcinoma,257.7666667,1,0,0,Living,1,1,MASTECTOMY
+650,3123,Breast Invasive Ductal Carcinoma,167.4333333,0,1,1,Living,1,2,MASTECTOMY
+651,3153,Breast Invasive Ductal Carcinoma,227.9333333,0,1,1,Living,1,2,BREAST CONSERVING
+652,3165,Breast Invasive Ductal Carcinoma,221.2333333,0,1,1,Living,1,1,BREAST CONSERVING
+653,3167,Breast Invasive Ductal Carcinoma,136.9333333,1,1,0,Living,1,1,MASTECTOMY
+654,3171,Breast Invasive Ductal Carcinoma,219.6666667,0,0,0,Died of Disease,0,3,MASTECTOMY
+655,3181,Breast Invasive Ductal Carcinoma,178.1666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+656,3211,Breast Invasive Ductal Carcinoma,145.5,1,1,0,Living,1,2,BREAST CONSERVING
+657,3218,Breast Invasive Ductal Carcinoma,248.7666667,0,1,1,Living,1,1,MASTECTOMY
+658,3222,Breast Mixed Ductal and Lobular Carcinoma,23.93333333,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+659,3228,Breast Mixed Ductal and Lobular Carcinoma,252,0,1,0,Living,1,1,MASTECTOMY
+660,3235,Breast Invasive Ductal Carcinoma,236.1333333,1,1,0,Living,1,1,BREAST CONSERVING
+661,3252,Breast Invasive Mixed Mucinous Carcinoma,99.7,0,0,0,Living,1,2,MASTECTOMY
+662,3253,Breast Invasive Ductal Carcinoma,55.83333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+663,3254,Breast Invasive Ductal Carcinoma,123.9,0,1,0,Living,1,1,BREAST CONSERVING
+664,3266,Breast Mixed Ductal and Lobular Carcinoma,51.2,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+665,3271,Breast Invasive Ductal Carcinoma,65.46666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+666,3272,Breast Invasive Ductal Carcinoma,22.66666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+667,3275,Breast Invasive Ductal Carcinoma,41.53333333,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+668,3277,Breast Invasive Ductal Carcinoma,32.93333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+669,3292,Breast Invasive Ductal Carcinoma,217.7666667,1,0,0,Living,1,1,BREAST CONSERVING
+670,3295,Breast Invasive Ductal Carcinoma,158.5333333,1,0,0,Died of Other Causes,0,3,BREAST CONSERVING
+671,3297,Breast Invasive Ductal Carcinoma,236.0666667,0,1,1,Living,1,1,MASTECTOMY
+672,3298,Breast Invasive Ductal Carcinoma,242.5666667,0,0,0,Living,1,2,MASTECTOMY
+673,3300,Breast Invasive Ductal Carcinoma,247,0,0,0,Living,1,1,BREAST CONSERVING
+674,3301,Breast Invasive Ductal Carcinoma,248.7666667,1,0,0,Living,1,1,MASTECTOMY
+675,3303,Breast,243.9,1,1,0,Living,1,2,MASTECTOMY
+676,3328,Breast Invasive Ductal Carcinoma,191.1333333,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+677,3329,Breast Invasive Ductal Carcinoma,37.96666667,0,1,0,Died of Disease,0,1,MASTECTOMY
+678,3341,Breast Invasive Ductal Carcinoma,148.7666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+679,3344,Breast Invasive Ductal Carcinoma,241.2666667,0,1,0,Living,1,2,MASTECTOMY
+680,3350,Breast Mixed Ductal and Lobular Carcinoma,227.8,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+681,3351,Breast Invasive Ductal Carcinoma,241.8666667,0,0,0,Living,1,1,MASTECTOMY
+682,3355,Breast Invasive Ductal Carcinoma,109,0,1,1,Living,1,1,MASTECTOMY
+683,3357,Breast Mixed Ductal and Lobular Carcinoma,38.03333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+684,3360,Breast Invasive Ductal Carcinoma,26.76666667,1,1,0,Died of Disease,0,1,MASTECTOMY
+685,3361,Breast Invasive Ductal Carcinoma,68.2,1,1,0,Died of Disease,0,1,MASTECTOMY
+686,3363,Breast Invasive Ductal Carcinoma,10.86666667,0,1,0,Died of Disease,0,3,MASTECTOMY
+687,3365,Breast Invasive Ductal Carcinoma,241.6,1,1,0,Living,1,1,BREAST CONSERVING
+688,3367,Breast Invasive Ductal Carcinoma,179.4333333,1,0,0,Living,1,1,BREAST CONSERVING
+689,3371,Breast Invasive Ductal Carcinoma,241.2666667,0,1,0,Living,1,1,BREAST CONSERVING
+690,3378,Breast Invasive Lobular Carcinoma,87.53333333,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+691,3379,Breast Invasive Lobular Carcinoma,113.8333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+692,3381,Breast Invasive Ductal Carcinoma,236.6333333,1,1,0,Living,1,1,MASTECTOMY
+693,3382,Breast Invasive Ductal Carcinoma,136.2333333,1,0,0,Living,1,1,BREAST CONSERVING
+694,3383,Breast Invasive Ductal Carcinoma,23.2,0,1,1,Died of Disease,0,1,MASTECTOMY
+695,3386,Breast Invasive Ductal Carcinoma,55.63333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+696,3388,Breast Invasive Ductal Carcinoma,228.6,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+697,3389,Breast Invasive Lobular Carcinoma,240.7,1,1,0,Living,1,1,MASTECTOMY
+698,3395,Breast Invasive Ductal Carcinoma,243.7666667,1,0,0,Living,1,3,MASTECTOMY
+699,3396,Breast Invasive Ductal Carcinoma,226.7333333,0,1,1,Living,1,2,MASTECTOMY
+700,3402,Breast Invasive Ductal Carcinoma,50.03333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+701,3403,Breast Invasive Ductal Carcinoma,138.3333333,1,1,0,Living,1,1,BREAST CONSERVING
+702,3412,Breast Invasive Ductal Carcinoma,228.8,1,1,0,Living,1,1,MASTECTOMY
+703,3417,Breast Mixed Ductal and Lobular Carcinoma,103.4666667,1,1,0,Living,1,2,MASTECTOMY
+704,3429,Breast Invasive Lobular Carcinoma,243.5,1,0,0,Living,1,2,MASTECTOMY
+705,3430,Breast Invasive Ductal Carcinoma,219.7666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+706,3435,Breast Invasive Ductal Carcinoma,25.43333333,0,1,1,Died of Disease,0,3,BREAST CONSERVING
+707,3436,Breast Invasive Ductal Carcinoma,50.76666667,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+708,3437,Breast Invasive Ductal Carcinoma,108.7666667,1,1,0,Living,1,2,MASTECTOMY
+709,3439,Breast Mixed Ductal and Lobular Carcinoma,188.7333333,1,0,0,Living,1,2,BREAST CONSERVING
+710,3450,Breast Invasive Ductal Carcinoma,240.4666667,0,1,0,Living,1,2,MASTECTOMY
+711,3452,Breast Invasive Ductal Carcinoma,119.8666667,1,0,0,Died of Disease,0,3,MASTECTOMY
+712,3453,Breast Invasive Ductal Carcinoma,32.83333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+713,3459,Breast Invasive Ductal Carcinoma,241.4,0,0,0,Living,1,2,MASTECTOMY
+714,3462,Breast Invasive Ductal Carcinoma,234.2333333,1,1,0,Living,1,1,BREAST CONSERVING
+715,3466,Breast Invasive Ductal Carcinoma,234.1333333,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+716,3467,Breast Mixed Ductal and Lobular Carcinoma,38.8,0,1,1,Died of Disease,0,2,MASTECTOMY
+717,3470,Breast Invasive Ductal Carcinoma,62.53333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+718,3476,Breast Invasive Ductal Carcinoma,159.0666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+719,3479,Breast Invasive Ductal Carcinoma,231.6666667,1,1,0,Living,1,1,BREAST CONSERVING
+720,3487,Breast Invasive Ductal Carcinoma,237.1333333,1,1,0,Living,1,3,MASTECTOMY
+721,3488,Breast Invasive Ductal Carcinoma,27.46666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+722,3490,Breast Invasive Ductal Carcinoma,102.4,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+723,3492,Breast Invasive Ductal Carcinoma,118.1333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+724,3497,Breast Invasive Ductal Carcinoma,15.5,0,1,1,Died of Disease,0,1,MASTECTOMY
+725,3500,Breast Invasive Ductal Carcinoma,239.3,0,0,0,Living,1,2,MASTECTOMY
+726,3502,Breast Invasive Ductal Carcinoma,229.3333333,0,1,1,Living,1,1,BREAST CONSERVING
+727,3506,Breast,240.8333333,1,1,0,Living,1,2,BREAST CONSERVING
+728,3510,Breast Mixed Ductal and Lobular Carcinoma,59.6,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+729,3525,Breast Invasive Ductal Carcinoma,236.7,1,1,0,Living,1,1,MASTECTOMY
+730,3526,Breast Invasive Ductal Carcinoma,86.06666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+731,3528,Breast Invasive Ductal Carcinoma,113.6666667,0,0,0,Living,1,2,MASTECTOMY
+732,3530,Breast Mixed Ductal and Lobular Carcinoma,112.9666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+733,3536,Breast Invasive Ductal Carcinoma,86.23333333,1,1,0,Died of Disease,0,3,BREAST CONSERVING
+734,3545,Breast Invasive Ductal Carcinoma,232.7333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+735,3548,Breast Invasive Ductal Carcinoma,234.5333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+736,3556,Breast Invasive Ductal Carcinoma,38.03333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+737,3567,Breast Mixed Ductal and Lobular Carcinoma,236.0333333,1,1,1,Living,1,3,BREAST CONSERVING
+738,3576,Breast Mixed Ductal and Lobular Carcinoma,24.86666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+739,3582,Breast Invasive Ductal Carcinoma,229.3666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+740,3600,Breast Invasive Ductal Carcinoma,214.7,1,1,0,Living,1,2,MASTECTOMY
+741,3606,Breast Invasive Ductal Carcinoma,110.6333333,0,1,0,Living,1,2,MASTECTOMY
+742,3614,Breast Invasive Ductal Carcinoma,235.4,1,1,0,Living,1,1,MASTECTOMY
+743,3702,Breast Invasive Ductal Carcinoma,230.4666667,0,1,1,Living,1,1,MASTECTOMY
+744,3706,Breast Invasive Ductal Carcinoma,38.8,0,1,0,Died of Disease,0,2,BREAST CONSERVING
+745,3707,Breast Invasive Ductal Carcinoma,228.7666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+746,3711,Breast Invasive Ductal Carcinoma,222.1,0,0,0,Living,1,2,MASTECTOMY
+747,3748,Breast Invasive Ductal Carcinoma,228,1,1,0,Living,1,2,MASTECTOMY
+748,3752,Breast Invasive Ductal Carcinoma,75.33333333,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+749,3754,Breast Invasive Ductal Carcinoma,92.73333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+750,3781,Breast Mixed Ductal and Lobular Carcinoma,224.5666667,0,1,0,Living,1,1,MASTECTOMY
+751,3797,Breast,228.3333333,0,0,0,Living,1,1,MASTECTOMY
+752,3824,Breast Invasive Ductal Carcinoma,126.4666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+753,3838,Breast Invasive Ductal Carcinoma,134.4666667,1,1,0,Died of Disease,0,1,MASTECTOMY
+754,3840,Breast Invasive Ductal Carcinoma,287.2333333,0,1,0,Living,1,1,BREAST CONSERVING
+755,3842,Breast Invasive Ductal Carcinoma,226.0666667,1,1,0,Living,1,1,BREAST CONSERVING
+756,3850,Breast Mixed Ductal and Lobular Carcinoma,72.3,0,0,0,Living,1,1,MASTECTOMY
+757,3852,Breast Invasive Ductal Carcinoma,225.5,1,1,0,Living,1,1,BREAST CONSERVING
+758,3854,Breast Mixed Ductal and Lobular Carcinoma,99.23333333,0,0,0,Living,1,1,BREAST CONSERVING
+759,3865,Breast Invasive Ductal Carcinoma,199.9666667,1,1,0,Living,1,2,BREAST CONSERVING
+760,3866,Breast Invasive Ductal Carcinoma,225.5,0,1,0,Living,1,1,MASTECTOMY
+761,3871,Breast Invasive Ductal Carcinoma,172.8,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+762,3874,Breast Invasive Ductal Carcinoma,186.4333333,0,1,0,Living,1,1,BREAST CONSERVING
+763,3978,Breast Invasive Ductal Carcinoma,100.8666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+764,4000,Breast Invasive Ductal Carcinoma,28.06666667,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+765,4001,Breast Invasive Ductal Carcinoma,49.66666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+766,4003,Breast Invasive Ductal Carcinoma,106.5666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+767,4004,Breast Invasive Ductal Carcinoma,256.8666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+768,4005,Breast Invasive Lobular Carcinoma,188.3666667,1,1,0,Living,1,1,BREAST CONSERVING
+769,4008,Breast Invasive Ductal Carcinoma,44.73333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+770,4010,Breast Invasive Ductal Carcinoma,11.7,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+771,4011,Breast Invasive Ductal Carcinoma,193.1666667,1,1,0,Living,1,1,BREAST CONSERVING
+772,4012,Breast Invasive Ductal Carcinoma,277.3666667,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+773,4015,Breast Invasive Ductal Carcinoma,11.3,0,0,0,Died of Disease,0,2,MASTECTOMY
+774,4017,Breast Mixed Ductal and Lobular Carcinoma,139.3,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+775,4018,Breast Mixed Ductal and Lobular Carcinoma,105.6666667,1,0,0,Died of Disease,0,,BREAST CONSERVING
+776,4024,Breast Invasive Ductal Carcinoma,124.1,1,1,0,Living,1,2,BREAST CONSERVING
+777,4033,Breast Invasive Lobular Carcinoma,15.2,1,1,0,Died of Disease,0,,MASTECTOMY
+778,4046,Breast Mixed Ductal and Lobular Carcinoma,298.0333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+779,4059,Breast Invasive Ductal Carcinoma,172,1,1,0,Died of Other Causes,0,,MASTECTOMY
+780,4079,Breast Invasive Ductal Carcinoma,351,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+781,4091,Breast Invasive Ductal Carcinoma,281.3666667,0,0,0,Died of Other Causes,0,3,BREAST CONSERVING
+782,4098,Breast Invasive Ductal Carcinoma,176.3666667,0,0,0,Living,1,1,MASTECTOMY
+783,4119,Breast Invasive Ductal Carcinoma,67.8,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+784,4120,Breast Invasive Ductal Carcinoma,217.1,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+785,4126,Breast Invasive Ductal Carcinoma,174.8,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+786,4127,Breast Invasive Ductal Carcinoma,258.1666667,1,1,1,Died of Other Causes,0,,MASTECTOMY
+787,4139,Breast Invasive Ductal Carcinoma,165.4,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+788,4140,Breast Invasive Ductal Carcinoma,114.5,0,1,0,Died of Other Causes,0,,MASTECTOMY
+789,4141,Breast Invasive Ductal Carcinoma,147.8333333,0,1,0,Died of Disease,0,2,MASTECTOMY
+790,4145,Breast Invasive Ductal Carcinoma,217.6333333,0,1,0,Died of Other Causes,0,3,MASTECTOMY
+791,4146,Breast Invasive Ductal Carcinoma,15.63333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+792,4148,Breast Invasive Ductal Carcinoma,63.03333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+793,4154,Breast Invasive Ductal Carcinoma,49.56666667,0,1,0,Died of Other Causes,0,,MASTECTOMY
+794,4171,Breast Mixed Ductal and Lobular Carcinoma,184.7,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+795,4173,Breast Invasive Ductal Carcinoma,160.3333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+796,4189,Breast Invasive Ductal Carcinoma,355.2,1,1,0,Died of Other Causes,0,,MASTECTOMY
+797,4212,Breast Invasive Ductal Carcinoma,330.3666667,0,0,0,Living,1,2,MASTECTOMY
+798,4213,Breast Invasive Ductal Carcinoma,84.5,1,1,0,Died of Disease,0,2,MASTECTOMY
+799,4222,Breast Invasive Ductal Carcinoma,55.23333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+800,4224,Breast Invasive Ductal Carcinoma,65.5,1,1,0,Died of Disease,0,,
+801,4230,Breast Invasive Ductal Carcinoma,115.6,1,1,0,Died of Other Causes,0,,MASTECTOMY
+802,4233,Breast Invasive Ductal Carcinoma,36.36666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+803,4234,Breast Invasive Ductal Carcinoma,253.5333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+804,4235,Breast Invasive Ductal Carcinoma,335.7333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+805,4236,Breast Invasive Ductal Carcinoma,203.7,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+806,4250,Breast Invasive Ductal Carcinoma,100.1666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+807,4254,Breast Invasive Ductal Carcinoma,178.4,1,0,0,Living,1,2,MASTECTOMY
+808,4264,Breast Invasive Ductal Carcinoma,163.2,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+809,4266,Breast Invasive Ductal Carcinoma,33.9,0,0,0,Died of Disease,0,2,MASTECTOMY
+810,4270,Breast Invasive Ductal Carcinoma,98.7,0,1,1,Died of Disease,0,3,MASTECTOMY
+811,4274,Breast Invasive Ductal Carcinoma,59.93333333,1,1,0,Died of Disease,0,,MASTECTOMY
+812,4276,Breast Invasive Ductal Carcinoma,132.2,1,1,0,Died of Disease,0,,MASTECTOMY
+813,4278,Breast Invasive Ductal Carcinoma,244.2,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+814,4281,Breast Invasive Ductal Carcinoma,260.0333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+815,4282,Breast Invasive Ductal Carcinoma,34.1,0,1,0,Living,1,2,MASTECTOMY
+816,4283,Breast Invasive Ductal Carcinoma,174.8333333,1,1,0,Living,1,2,MASTECTOMY
+817,4289,Breast Invasive Lobular Carcinoma,96.83333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+818,4292,Breast Invasive Ductal Carcinoma,335.6,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+819,4293,Breast Mixed Ductal and Lobular Carcinoma,219.1666667,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+820,4300,Breast Invasive Ductal Carcinoma,189.0333333,1,1,0,Living,1,2,MASTECTOMY
+821,4303,Breast Invasive Ductal Carcinoma,89.03333333,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+822,4306,Breast Mixed Ductal and Lobular Carcinoma,234.7,0,0,0,Died of Other Causes,0,,MASTECTOMY
+823,4310,Breast Invasive Ductal Carcinoma,265.5666667,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+824,4313,Breast Mixed Ductal and Lobular Carcinoma,300.7,1,1,0,Died of Disease,0,2,MASTECTOMY
+825,4317,Breast Invasive Ductal Carcinoma,177.9,1,0,0,Living,1,1,MASTECTOMY
+826,4318,Breast Invasive Ductal Carcinoma,17.13333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+827,4322,Breast Invasive Ductal Carcinoma,196.4666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+828,4323,Breast Invasive Ductal Carcinoma,126.6333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+829,4324,Breast Invasive Ductal Carcinoma,87.23333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+830,4328,Breast Invasive Ductal Carcinoma,199.2666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+831,4329,Breast Invasive Ductal Carcinoma,168.2666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+832,4331,Breast Invasive Ductal Carcinoma,235.5666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+833,4332,Breast Invasive Ductal Carcinoma,307.9333333,0,1,0,Living,1,2,MASTECTOMY
+834,4333,Breast Invasive Ductal Carcinoma,207.9666667,0,0,0,Died of Other Causes,0,,MASTECTOMY
+835,4339,Breast Invasive Ductal Carcinoma,173.6,0,1,0,Died of Disease,0,2,MASTECTOMY
+836,4341,Breast Invasive Ductal Carcinoma,33.7,0,1,1,Died of Disease,0,2,MASTECTOMY
+837,4342,Breast Invasive Ductal Carcinoma,232.7666667,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+838,4343,Breast Mixed Ductal and Lobular Carcinoma,198.6,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+839,4348,Breast Invasive Ductal Carcinoma,226.2,1,1,0,Died of Disease,0,1,MASTECTOMY
+840,4350,Breast Invasive Ductal Carcinoma,31.06666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+841,4351,Breast Invasive Ductal Carcinoma,68.13333333,0,1,0,Died of Disease,0,3,MASTECTOMY
+842,4353,Breast Invasive Ductal Carcinoma,128.5333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+843,4354,Breast Invasive Ductal Carcinoma,15.36666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+844,4357,Breast Invasive Ductal Carcinoma,114.0333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+845,4360,Breast Invasive Ductal Carcinoma,11.86666667,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+846,4362,Breast Invasive Ductal Carcinoma,267.2666667,0,1,0,Living,1,2,MASTECTOMY
+847,4368,Breast Invasive Ductal Carcinoma,119.4666667,1,1,0,Died of Disease,0,,MASTECTOMY
+848,4374,Breast Invasive Ductal Carcinoma,42.56666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+849,4375,Breast Invasive Ductal Carcinoma,291.1666667,0,0,0,Living,1,3,BREAST CONSERVING
+850,4381,Breast Invasive Ductal Carcinoma,61.46666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+851,4390,Breast Invasive Ductal Carcinoma,164.3333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+852,4395,Breast Invasive Ductal Carcinoma,139.6,1,0,0,Died of Disease,0,2,MASTECTOMY
+853,4407,Breast Invasive Ductal Carcinoma,83.36666667,0,1,0,Died of Disease,0,1,MASTECTOMY
+854,4408,Breast Invasive Ductal Carcinoma,206.5666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+855,4416,Breast Invasive Ductal Carcinoma,241.6,0,1,1,Died of Disease,0,2,MASTECTOMY
+856,4417,Breast Invasive Ductal Carcinoma,16.7,0,0,0,Died of Other Causes,0,,MASTECTOMY
+857,4418,Breast Invasive Ductal Carcinoma,307.6333333,0,1,0,Living,1,1,MASTECTOMY
+858,4421,Breast Invasive Ductal Carcinoma,264.7666667,0,1,0,Died of Other Causes,0,,MASTECTOMY
+859,4426,Breast Invasive Ductal Carcinoma,170.9,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+860,4434,Breast Invasive Ductal Carcinoma,148.1,1,1,0,Died of Disease,0,2,MASTECTOMY
+861,4442,Breast Invasive Ductal Carcinoma,296.8666667,0,0,0,Living,1,1,BREAST CONSERVING
+862,4484,Breast Mixed Ductal and Lobular Carcinoma,52.3,1,1,0,Died of Disease,0,1,MASTECTOMY
+863,4529,Breast Invasive Ductal Carcinoma,126.4666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+864,4548,Breast Invasive Ductal Carcinoma,322.8333333,0,1,1,Living,1,2,MASTECTOMY
+865,4557,Breast Mixed Ductal and Lobular Carcinoma,279.8,1,1,0,Living,1,1,MASTECTOMY
+866,4564,Breast Invasive Ductal Carcinoma,210.4333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+867,4578,Breast Invasive Ductal Carcinoma,197.3333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+868,4591,Breast Invasive Ductal Carcinoma,41.16666667,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+869,4593,Breast Invasive Ductal Carcinoma,140.2333333,0,1,0,Living,1,2,BREAST CONSERVING
+870,4598,Breast Invasive Ductal Carcinoma,119.3666667,1,1,0,Died of Disease,0,,MASTECTOMY
+871,4599,Breast Invasive Ductal Carcinoma,191.1666667,1,1,0,Living,1,2,BREAST CONSERVING
+872,4601,Breast Invasive Ductal Carcinoma,56.26666667,0,0,1,Died of Disease,0,2,BREAST CONSERVING
+873,4602,Breast Invasive Ductal Carcinoma,122.8,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+874,4603,Breast Invasive Ductal Carcinoma,239.2333333,0,1,0,Living,1,2,BREAST CONSERVING
+875,4607,Breast Invasive Ductal Carcinoma,121.7333333,0,1,0,Living,1,2,MASTECTOMY
+876,4616,Breast Invasive Ductal Carcinoma,90.13333333,0,1,0,Died of Disease,0,2,MASTECTOMY
+877,4618,Breast Mixed Ductal and Lobular Carcinoma,267.4,0,1,0,Living,1,2,BREAST CONSERVING
+878,4621,Breast Invasive Ductal Carcinoma,271.8666667,0,0,1,Living,1,1,BREAST CONSERVING
+879,4622,Breast Invasive Ductal Carcinoma,282.8333333,0,1,1,Died of Other Causes,0,1,BREAST CONSERVING
+880,4623,Breast Mixed Ductal and Lobular Carcinoma,292.0333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+881,4626,Breast Invasive Ductal Carcinoma,143,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+882,4627,Breast Mixed Ductal and Lobular Carcinoma,186.6333333,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+883,4630,Breast Invasive Ductal Carcinoma,95.83333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+884,4633,Breast Mixed Ductal and Lobular Carcinoma,318.2,1,1,0,Living,1,2,BREAST CONSERVING
+885,4634,Breast Mixed Ductal and Lobular Carcinoma,109.6,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+886,4639,Breast Invasive Ductal Carcinoma,119,0,1,0,Died of Disease,0,2,MASTECTOMY
+887,4640,Breast Invasive Ductal Carcinoma,200.6,0,1,0,Living,1,,MASTECTOMY
+888,4641,Breast Invasive Ductal Carcinoma,148.5666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+889,4642,Breast Invasive Ductal Carcinoma,285.7,1,1,0,Died of Disease,0,2,MASTECTOMY
+890,4643,Breast Invasive Ductal Carcinoma,41.46666667,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+891,4644,Breast Invasive Ductal Carcinoma,90,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+892,4648,Breast Invasive Ductal Carcinoma,168.5333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+893,4649,Breast Invasive Ductal Carcinoma,16.83333333,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+894,4651,Breast Invasive Ductal Carcinoma,30.3,0,1,0,Died of Disease,0,1,MASTECTOMY
+895,4653,Breast Invasive Ductal Carcinoma,48.13333333,0,0,0,Died of Disease,0,,MASTECTOMY
+896,4654,Breast Invasive Ductal Carcinoma,64.3,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+897,4655,Breast Invasive Ductal Carcinoma,99,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+898,4660,Breast Invasive Ductal Carcinoma,39.86666667,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+899,4661,Breast Invasive Ductal Carcinoma,234.2333333,0,0,0,Living,1,2,MASTECTOMY
+900,4663,Breast Invasive Ductal Carcinoma,239.3333333,0,1,0,Living,1,1,BREAST CONSERVING
+901,4665,Breast Invasive Ductal Carcinoma,260.2,0,0,0,Living,1,2,MASTECTOMY
+902,4666,Breast Invasive Ductal Carcinoma,111.5666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+903,4667,Breast Invasive Lobular Carcinoma,295.3333333,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+904,4669,Breast Invasive Ductal Carcinoma,119.4666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+905,4670,Breast Invasive Ductal Carcinoma,67.8,0,0,0,Died of Disease,0,1,MASTECTOMY
+906,4671,Breast Invasive Ductal Carcinoma,34.7,0,1,0,Died of Disease,0,2,MASTECTOMY
+907,4672,Breast Invasive Ductal Carcinoma,220.9333333,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+908,4673,Breast Invasive Ductal Carcinoma,87,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+909,4674,Breast Invasive Ductal Carcinoma,81.06666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+910,4675,Breast Invasive Ductal Carcinoma,263.0333333,0,1,0,Living,1,2,BREAST CONSERVING
+911,4679,Breast Invasive Ductal Carcinoma,292.6666667,0,0,0,Died of Other Causes,0,,MASTECTOMY
+912,4681,Breast Invasive Ductal Carcinoma,251.8,0,0,0,Died of Disease,0,3,MASTECTOMY
+913,4682,Breast Invasive Ductal Carcinoma,139.5333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+914,4685,Breast Invasive Ductal Carcinoma,43.3,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+915,4686,Breast Invasive Ductal Carcinoma,48.43333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+916,4687,Breast Invasive Ductal Carcinoma,74.1,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+917,4688,Breast Invasive Ductal Carcinoma,85.3,1,1,0,Died of Disease,0,,MASTECTOMY
+918,4691,Breast Invasive Ductal Carcinoma,282.5666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+919,4692,Breast Invasive Ductal Carcinoma,107.2666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+920,4694,Breast Invasive Ductal Carcinoma,198.3,0,1,0,Living,1,2,MASTECTOMY
+921,4695,Breast Invasive Lobular Carcinoma,21.3,1,0,0,Died of Other Causes,0,3,MASTECTOMY
+922,4696,Breast Invasive Ductal Carcinoma,255.2666667,0,0,0,Living,1,1,MASTECTOMY
+923,4697,Breast Invasive Lobular Carcinoma,118,0,0,0,Died of Other Causes,0,,MASTECTOMY
+924,4698,Breast Invasive Lobular Carcinoma,170.6666667,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+925,4701,Breast Invasive Ductal Carcinoma,127.5333333,0,1,0,Living,1,2,MASTECTOMY
+926,4702,Breast Invasive Ductal Carcinoma,300.8666667,1,0,0,Living,1,,MASTECTOMY
+927,4704,Breast Mixed Ductal and Lobular Carcinoma,64,0,0,0,Died of Disease,0,,MASTECTOMY
+928,4705,Breast Invasive Ductal Carcinoma,213.1,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+929,4706,Breast Invasive Ductal Carcinoma,55.66666667,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+930,4707,Breast Invasive Ductal Carcinoma,221.2,0,1,0,Living,1,2,MASTECTOMY
+931,4708,Breast Invasive Lobular Carcinoma,227.9,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+932,4709,Breast Invasive Ductal Carcinoma,146.7666667,0,1,0,Living,1,2,MASTECTOMY
+933,4710,Breast Invasive Ductal Carcinoma,57.66666667,1,0,0,Living,1,1,BREAST CONSERVING
+934,4711,Breast Invasive Ductal Carcinoma,31.46666667,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+935,4712,Breast Invasive Ductal Carcinoma,249.5333333,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+936,4714,Breast Invasive Ductal Carcinoma,83.66666667,1,1,1,Died of Other Causes,0,1,BREAST CONSERVING
+937,4715,Breast Invasive Ductal Carcinoma,35.23333333,0,0,1,Died of Disease,0,1,MASTECTOMY
+938,4716,Breast Invasive Lobular Carcinoma,76.13333333,0,1,0,Died of Disease,0,3,MASTECTOMY
+939,4717,Breast Invasive Ductal Carcinoma,42.9,0,0,0,Died of Disease,0,2,MASTECTOMY
+940,4718,Breast Invasive Lobular Carcinoma,198.3333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+941,4719,Breast Invasive Ductal Carcinoma,81.56666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+942,4721,Breast Invasive Lobular Carcinoma,23.73333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+943,4722,Breast Invasive Ductal Carcinoma,86.1,0,0,0,Living,1,2,MASTECTOMY
+944,4723,Breast Invasive Ductal Carcinoma,211.9666667,0,1,0,Living,1,2,MASTECTOMY
+945,4724,Breast Invasive Ductal Carcinoma,146.0666667,0,1,0,Living,1,2,MASTECTOMY
+946,4725,Breast Invasive Ductal Carcinoma,98.76666667,1,0,0,Died of Disease,0,3,MASTECTOMY
+947,4729,Breast Invasive Ductal Carcinoma,28,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+948,4730,Breast Mixed Ductal and Lobular Carcinoma,131.3,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+949,4731,Breast Invasive Ductal Carcinoma,44.86666667,0,0,1,Died of Disease,0,1,BREAST CONSERVING
+950,4732,Breast Invasive Ductal Carcinoma,149.8666667,0,1,1,Living,1,2,MASTECTOMY
+951,4733,Breast Invasive Ductal Carcinoma,19.73333333,1,1,1,Died of Disease,0,,BREAST CONSERVING
+952,4735,Breast Invasive Ductal Carcinoma,297.8,0,0,0,Living,1,2,MASTECTOMY
+953,4737,Breast Invasive Ductal Carcinoma,122.2,1,0,0,Living,1,,MASTECTOMY
+954,4738,Breast Mixed Ductal and Lobular Carcinoma,176.0666667,0,0,0,Living,1,2,BREAST CONSERVING
+955,4739,Breast Mixed Ductal and Lobular Carcinoma,161.6666667,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+956,4741,Breast Invasive Lobular Carcinoma,56.5,1,0,0,Died of Disease,0,2,MASTECTOMY
+957,4742,Breast Mixed Ductal and Lobular Carcinoma,83.13333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+958,4743,Breast Mixed Ductal and Lobular Carcinoma,230.1666667,0,0,0,Living,1,1,MASTECTOMY
+959,4744,Breast Invasive Ductal Carcinoma,153,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+960,4745,Breast Invasive Ductal Carcinoma,42.66666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+961,4746,Breast Invasive Ductal Carcinoma,244.4333333,0,0,1,Living,1,2,MASTECTOMY
+962,4749,Breast Mixed Ductal and Lobular Carcinoma,51.46666667,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+963,4750,Breast Invasive Ductal Carcinoma,37.73333333,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+964,4752,Breast Invasive Ductal Carcinoma,125.2666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+965,4757,Breast Invasive Ductal Carcinoma,27.4,0,0,1,Died of Disease,0,,MASTECTOMY
+966,4758,Breast Invasive Ductal Carcinoma,211.9333333,0,1,0,Living,1,2,MASTECTOMY
+967,4760,Breast Invasive Ductal Carcinoma,124.8,1,0,0,Died of Disease,0,2,MASTECTOMY
+968,4762,Breast Invasive Ductal Carcinoma,252.1,0,1,0,Living,1,3,MASTECTOMY
+969,4763,Breast Invasive Ductal Carcinoma,102.1,0,1,1,Living,1,,MASTECTOMY
+970,4764,Breast Invasive Lobular Carcinoma,245.5,1,1,0,Living,1,,BREAST CONSERVING
+971,4767,Breast Invasive Ductal Carcinoma,47.13333333,1,0,0,Died of Disease,0,,MASTECTOMY
+972,4769,Breast Invasive Ductal Carcinoma,21.7,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+973,4770,Breast Invasive Ductal Carcinoma,152.0666667,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+974,4771,Breast Invasive Ductal Carcinoma,297.2333333,0,1,0,Living,1,2,MASTECTOMY
+975,4778,Breast Mixed Ductal and Lobular Carcinoma,206.1333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+976,4779,Breast Invasive Ductal Carcinoma,101.5666667,1,1,0,Living,1,2,BREAST CONSERVING
+977,4782,Breast Invasive Ductal Carcinoma,251.0666667,0,0,0,Living,1,1,MASTECTOMY
+978,4784,Breast Invasive Ductal Carcinoma,145.7333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+979,4785,Breast Invasive Ductal Carcinoma,121.6666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+980,4787,Breast Invasive Ductal Carcinoma,81.06666667,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+981,4790,Breast Invasive Ductal Carcinoma,70.46666667,0,0,0,Died of Disease,0,,MASTECTOMY
+982,4791,Breast Invasive Ductal Carcinoma,173.8333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+983,4792,Breast Invasive Ductal Carcinoma,40.63333333,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+984,4793,Breast Invasive Ductal Carcinoma,83.36666667,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+985,4794,Breast Invasive Ductal Carcinoma,45.5,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+986,4796,Breast Invasive Ductal Carcinoma,128.2666667,0,0,0,Living,1,1,MASTECTOMY
+987,4797,Breast Invasive Lobular Carcinoma,99.36666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+988,4798,Breast Invasive Lobular Carcinoma,257.1666667,0,1,0,Living,1,2,BREAST CONSERVING
+989,4800,Breast Invasive Ductal Carcinoma,110.9333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+990,4801,Breast Invasive Ductal Carcinoma,130.3666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+991,4802,Breast Invasive Ductal Carcinoma,43.9,0,0,0,Died of Disease,0,1,MASTECTOMY
+992,4805,Breast Invasive Ductal Carcinoma,129.8,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+993,4806,Breast Invasive Ductal Carcinoma,201.7666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+994,4809,Breast Invasive Ductal Carcinoma,286.0666667,0,0,0,Living,1,2,MASTECTOMY
+995,4814,Breast Invasive Ductal Carcinoma,73.46666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+996,4818,Breast Mixed Ductal and Lobular Carcinoma,76.23333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+997,4820,Breast Invasive Ductal Carcinoma,57.3,1,1,0,Died of Disease,0,2,MASTECTOMY
+998,4822,Breast Mixed Ductal and Lobular Carcinoma,91.63333333,0,0,0,Died of Disease,0,1,MASTECTOMY
+999,4825,Breast Invasive Ductal Carcinoma,214.4333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1000,4827,Breast Invasive Ductal Carcinoma,45.7,1,0,0,Died of Other Causes,0,3,MASTECTOMY
+1001,4828,Breast Invasive Lobular Carcinoma,42.5,1,1,0,Died of Disease,0,,
+1002,4829,Breast Mixed Ductal and Lobular Carcinoma,176.2666667,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+1003,4832,Breast Invasive Ductal Carcinoma,141.7333333,0,1,0,Died of Disease,0,1,MASTECTOMY
+1004,4834,Breast Invasive Ductal Carcinoma,36.16666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+1005,4836,Breast Invasive Ductal Carcinoma,23.43333333,0,1,0,Died of Disease,0,3,MASTECTOMY
+1006,4838,Breast Invasive Ductal Carcinoma,200.7666667,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1007,4839,Breast Invasive Ductal Carcinoma,299.4,0,0,0,Living,1,1,BREAST CONSERVING
+1008,4843,Breast Invasive Ductal Carcinoma,265.1333333,1,0,0,Living,1,,MASTECTOMY
+1009,4845,Breast Invasive Ductal Carcinoma,25.46666667,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1010,4846,Breast Invasive Lobular Carcinoma,101.6333333,1,1,0,Died of Disease,0,3,BREAST CONSERVING
+1011,4849,Breast Invasive Ductal Carcinoma,45.33333333,1,0,0,Died of Disease,0,,MASTECTOMY
+1012,4851,Breast Invasive Ductal Carcinoma,90.26666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1013,4853,Breast Invasive Lobular Carcinoma,265.9333333,0,0,0,Living,1,2,MASTECTOMY
+1014,4855,Breast Invasive Ductal Carcinoma,41.46666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1015,4858,Breast Invasive Ductal Carcinoma,129.3333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1016,4859,Breast Invasive Ductal Carcinoma,157.8,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1017,4860,Breast Invasive Lobular Carcinoma,234.6,0,1,0,Living,1,1,BREAST CONSERVING
+1018,4862,Breast Invasive Ductal Carcinoma,187.3,1,1,0,Living,1,,MASTECTOMY
+1019,4865,Breast Invasive Ductal Carcinoma,229.9,0,0,0,Living,1,,MASTECTOMY
+1020,4866,Breast Invasive Ductal Carcinoma,224.3,0,0,0,Living,1,1,BREAST CONSERVING
+1021,4867,Breast Invasive Ductal Carcinoma,221.9,0,0,0,Living,1,1,BREAST CONSERVING
+1022,4869,Breast Invasive Ductal Carcinoma,29.3,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1023,4870,Breast Invasive Ductal Carcinoma,229.0666667,0,1,0,Living,1,2,MASTECTOMY
+1024,4871,Breast Invasive Ductal Carcinoma,39.8,0,0,0,Died of Disease,0,1,MASTECTOMY
+1025,4872,Breast Invasive Lobular Carcinoma,157.1,1,0,0,Living,1,2,MASTECTOMY
+1026,4873,Breast Invasive Ductal Carcinoma,117.6666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+1027,4876,Breast Invasive Lobular Carcinoma,150.6,0,1,0,Died of Disease,0,2,BREAST CONSERVING
+1028,4878,Breast Invasive Ductal Carcinoma,22.46666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+1029,4879,Breast Invasive Ductal Carcinoma,79.96666667,0,1,0,Died of Other Causes,0,,MASTECTOMY
+1030,4880,Breast Invasive Ductal Carcinoma,210.9666667,0,0,0,Living,1,3,MASTECTOMY
+1031,4881,Breast Invasive Ductal Carcinoma,274.2,0,1,0,Living,1,2,BREAST CONSERVING
+1032,4882,Breast Invasive Ductal Carcinoma,266.1,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1033,4883,Breast Invasive Ductal Carcinoma,268.9,0,1,0,Living,1,1,BREAST CONSERVING
+1034,4886,Breast Invasive Ductal Carcinoma,48.16666667,0,0,1,Died of Disease,0,2,MASTECTOMY
+1035,4887,Breast Invasive Ductal Carcinoma,35.4,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1036,4888,Breast Invasive Ductal Carcinoma,230.5,0,1,0,Living,1,1,MASTECTOMY
+1037,4893,Breast Invasive Ductal Carcinoma,176.7,0,0,1,Living,1,1,BREAST CONSERVING
+1038,4894,Breast Invasive Ductal Carcinoma,232.4,0,0,0,Living,1,2,MASTECTOMY
+1039,4896,Breast Invasive Ductal Carcinoma,64.86666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+1040,4897,Breast Mixed Ductal and Lobular Carcinoma,197.4333333,0,0,0,Living,1,1,BREAST CONSERVING
+1041,4898,Breast Invasive Ductal Carcinoma,117.9,0,1,0,Died of Disease,0,2,MASTECTOMY
+1042,4899,Breast Invasive Ductal Carcinoma,275.7333333,0,1,0,Living,1,2,MASTECTOMY
+1043,4900,Breast Invasive Ductal Carcinoma,224.6,1,0,0,Living,1,2,MASTECTOMY
+1044,4904,Breast Invasive Ductal Carcinoma,129.2333333,0,1,1,Died of Other Causes,0,1,MASTECTOMY
+1045,4906,Breast Invasive Ductal Carcinoma,233.8666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1046,4908,Breast Invasive Ductal Carcinoma,47.9,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1047,4911,Breast Invasive Ductal Carcinoma,31.43333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+1048,4912,Breast Invasive Ductal Carcinoma,50,1,1,0,Died of Disease,0,3,
+1049,4925,Breast Invasive Ductal Carcinoma,102.7666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1050,4928,Breast Invasive Ductal Carcinoma,220.0333333,1,0,0,Living,1,2,MASTECTOMY
+1051,4929,Breast Invasive Ductal Carcinoma,40,1,1,0,Died of Disease,0,2,MASTECTOMY
+1052,4930,Breast Invasive Ductal Carcinoma,58.43333333,1,1,0,Living,1,2,BREAST CONSERVING
+1053,4931,Breast Invasive Ductal Carcinoma,30.36666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1054,4933,Breast Invasive Ductal Carcinoma,272.9,0,0,0,Living,1,2,MASTECTOMY
+1055,4934,Breast Invasive Ductal Carcinoma,70.23333333,1,1,0,Living,1,2,MASTECTOMY
+1056,4935,Breast Invasive Ductal Carcinoma,194.2,1,0,1,Living,1,2,MASTECTOMY
+1057,4937,Breast Invasive Ductal Carcinoma,77.23333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+1058,4938,Breast Invasive Ductal Carcinoma,70.6,0,1,1,Died of Disease,0,2,MASTECTOMY
+1059,4941,Breast Invasive Ductal Carcinoma,58.63333333,0,1,0,Died of Disease,0,2,MASTECTOMY
+1060,4942,Breast Invasive Ductal Carcinoma,124.1333333,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1061,4944,Breast Invasive Ductal Carcinoma,237.2666667,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+1062,4945,Breast Invasive Ductal Carcinoma,20.13333333,0,0,1,Died of Disease,0,2,BREAST CONSERVING
+1063,4949,Breast Invasive Ductal Carcinoma,216.9666667,0,0,0,Living,1,1,BREAST CONSERVING
+1064,4950,Breast Invasive Ductal Carcinoma,150.6,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1065,4952,Breast Invasive Ductal Carcinoma,184.4,0,1,0,Living,1,1,BREAST CONSERVING
+1066,4956,Breast Invasive Ductal Carcinoma,69.3,1,1,0,Died of Disease,0,,MASTECTOMY
+1067,4957,Breast Mixed Ductal and Lobular Carcinoma,197.6666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+1068,4959,Breast Invasive Ductal Carcinoma,117.5666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1069,4961,Breast Invasive Ductal Carcinoma,219.4666667,0,1,0,Living,1,2,BREAST CONSERVING
+1070,4962,Breast Invasive Ductal Carcinoma,197.8333333,1,1,0,Died of Disease,0,3,MASTECTOMY
+1071,4965,Breast Mixed Ductal and Lobular Carcinoma,263.6,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1072,4966,Breast Mixed Ductal and Lobular Carcinoma,49.3,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1073,4967,Breast Invasive Ductal Carcinoma,130.7,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1074,4968,Breast Invasive Lobular Carcinoma,78.7,1,1,0,Living,1,,BREAST CONSERVING
+1075,4969,Breast Invasive Ductal Carcinoma,198.1,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1076,4970,Breast Invasive Ductal Carcinoma,88.8,0,0,0,Died of Disease,0,2,MASTECTOMY
+1077,4974,Breast Invasive Ductal Carcinoma,176.1,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1078,4976,Breast Invasive Ductal Carcinoma,224.1,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1079,4977,Breast Invasive Ductal Carcinoma,216.7333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1080,4978,Breast Invasive Lobular Carcinoma,198.4333333,1,0,0,Living,1,,MASTECTOMY
+1081,4981,Breast Mixed Ductal and Lobular Carcinoma,180.7666667,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1082,4982,Breast Invasive Ductal Carcinoma,19.16666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1083,4986,Breast Invasive Ductal Carcinoma,79.8,0,1,0,Died of Disease,0,,BREAST CONSERVING
+1084,4987,Breast Invasive Ductal Carcinoma,221.7666667,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+1085,4991,Breast Invasive Ductal Carcinoma,126.8666667,1,0,0,Living,1,,MASTECTOMY
+1086,4992,Breast Invasive Lobular Carcinoma,165.3666667,0,0,0,Living,1,,MASTECTOMY
+1087,4993,Breast Invasive Ductal Carcinoma,75.23333333,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1088,4994,Breast Invasive Ductal Carcinoma,174.1333333,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+1089,4996,Breast Invasive Ductal Carcinoma,99.76666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1090,4998,Breast Invasive Lobular Carcinoma,65.56666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1091,4999,Breast Invasive Ductal Carcinoma,187.9333333,0,1,0,Living,1,2,BREAST CONSERVING
+1092,5001,Breast Invasive Ductal Carcinoma,81.8,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1093,5004,Breast Invasive Ductal Carcinoma,216.7333333,0,1,1,Living,1,2,MASTECTOMY
+1094,5008,Breast Invasive Ductal Carcinoma,223.3,0,1,1,Living,1,2,MASTECTOMY
+1095,5011,Breast Mixed Ductal and Lobular Carcinoma,80.5,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1096,5013,Breast Invasive Ductal Carcinoma,251.2,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1097,5014,Breast Invasive Ductal Carcinoma,213.3666667,1,1,0,Living,1,2,MASTECTOMY
+1098,5015,Breast Invasive Ductal Carcinoma,252.3,0,1,0,Died of Other Causes,0,3,BREAST CONSERVING
+1099,5017,Breast Invasive Ductal Carcinoma,144.9333333,1,1,0,Living,1,2,BREAST CONSERVING
+1100,5018,Breast Invasive Ductal Carcinoma,108.6,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1101,5019,Breast Invasive Ductal Carcinoma,37.8,0,1,0,Died of Disease,0,,BREAST CONSERVING
+1102,5020,Breast Mixed Ductal and Lobular Carcinoma,84.83333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1103,5027,Breast Mixed Ductal and Lobular Carcinoma,189.8666667,0,1,0,Living,1,2,MASTECTOMY
+1104,5033,Breast Invasive Mixed Mucinous Carcinoma,52.73333333,0,1,0,Died of Disease,0,2,MASTECTOMY
+1105,5035,Breast Mixed Ductal and Lobular Carcinoma,213.2,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1106,5039,Breast Invasive Ductal Carcinoma,62.13333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1107,5040,Breast Invasive Ductal Carcinoma,79.16666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1108,5041,Breast Invasive Ductal Carcinoma,173.9333333,0,1,0,Living,1,2,BREAST CONSERVING
+1109,5043,Breast Mixed Ductal and Lobular Carcinoma,128.3666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+1110,5044,Breast Invasive Ductal Carcinoma,139.4333333,0,1,0,Living,1,3,MASTECTOMY
+1111,5045,Breast Invasive Ductal Carcinoma,168.3,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1112,5048,Breast Invasive Ductal Carcinoma,86.36666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+1113,5049,Breast Mixed Ductal and Lobular Carcinoma,255.3,0,0,0,Living,1,3,BREAST CONSERVING
+1114,5050,Breast Mixed Ductal and Lobular Carcinoma,184.3333333,1,1,0,Living,1,1,BREAST CONSERVING
+1115,5052,Breast Invasive Ductal Carcinoma,34.56666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1116,5053,Breast Invasive Ductal Carcinoma,150.6,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1117,5054,Breast Invasive Ductal Carcinoma,187.7,0,0,0,Living,1,1,MASTECTOMY
+1118,5057,Breast Invasive Ductal Carcinoma,56.33333333,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1119,5058,Breast Mixed Ductal and Lobular Carcinoma,178.7333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+1120,5059,Breast Mixed Ductal and Lobular Carcinoma,257.6333333,0,0,0,Living,1,,MASTECTOMY
+1121,5060,Breast Invasive Ductal Carcinoma,150.1,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+1122,5061,Breast Invasive Ductal Carcinoma,39.43333333,1,1,0,Living,1,1,BREAST CONSERVING
+1123,5062,Breast Invasive Ductal Carcinoma,168.2666667,1,1,0,Living,1,2,MASTECTOMY
+1124,5063,Breast Invasive Ductal Carcinoma,215.1666667,0,1,1,Living,1,1,MASTECTOMY
+1125,5064,Breast Invasive Ductal Carcinoma,91.5,0,0,0,Living,1,2,BREAST CONSERVING
+1126,5065,Breast Mixed Ductal and Lobular Carcinoma,184.8,0,0,0,Living,1,2,BREAST CONSERVING
+1127,5066,Breast Invasive Ductal Carcinoma,94.7,1,1,0,Living,1,2,BREAST CONSERVING
+1128,5068,Breast Invasive Ductal Carcinoma,182.5,1,1,0,Living,1,2,MASTECTOMY
+1129,5070,Breast Invasive Ductal Carcinoma,213.9,0,0,1,Living,1,1,MASTECTOMY
+1130,5072,Breast Invasive Ductal Carcinoma,50.23333333,0,0,1,Died of Disease,0,1,MASTECTOMY
+1131,5073,Breast Invasive Ductal Carcinoma,194.1666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1132,5074,Breast Invasive Lobular Carcinoma,221.6,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1133,5078,Breast Invasive Ductal Carcinoma,87.1,1,1,0,Died of Disease,0,,MASTECTOMY
+1134,5079,Breast Invasive Ductal Carcinoma,199.9333333,0,1,0,Living,1,2,MASTECTOMY
+1135,5081,Breast Invasive Ductal Carcinoma,58,0,0,0,Died of Disease,0,2,MASTECTOMY
+1136,5084,Breast Invasive Ductal Carcinoma,198.1,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1137,5086,Breast Invasive Ductal Carcinoma,84.23333333,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1138,5088,Breast Invasive Ductal Carcinoma,199.3666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1139,5092,Breast Invasive Ductal Carcinoma,174.5666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1140,5093,Breast Invasive Ductal Carcinoma,142.4333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1141,5097,Breast Invasive Ductal Carcinoma,61.6,1,0,0,Living,1,1,MASTECTOMY
+1142,5098,Breast Invasive Ductal Carcinoma,186.4,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1143,5100,Breast Invasive Ductal Carcinoma,19.9,1,1,1,Died of Disease,0,2,MASTECTOMY
+1144,5101,Breast Invasive Ductal Carcinoma,34.33333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+1145,5102,Breast Invasive Ductal Carcinoma,30.36666667,1,1,1,Died of Disease,0,2,MASTECTOMY
+1146,5105,Breast Invasive Ductal Carcinoma,204.4333333,0,1,0,Died of Disease,0,1,MASTECTOMY
+1147,5107,Breast Invasive Ductal Carcinoma,82.63333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1148,5110,Breast Invasive Lobular Carcinoma,21.9,1,0,0,Died of Disease,0,3,MASTECTOMY
+1149,5113,Breast Invasive Ductal Carcinoma,175.6333333,1,1,0,Living,1,2,BREAST CONSERVING
+1150,5114,Breast Invasive Ductal Carcinoma,15.36666667,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1151,5115,Breast Invasive Ductal Carcinoma,77.4,0,1,1,Living,1,2,BREAST CONSERVING
+1152,5116,Breast Invasive Ductal Carcinoma,71.76666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+1153,5117,Breast Invasive Ductal Carcinoma,209.2666667,1,1,0,Living,1,1,BREAST CONSERVING
+1154,5118,Breast Invasive Ductal Carcinoma,211.7333333,1,1,0,Living,1,,MASTECTOMY
+1155,5119,Breast Invasive Ductal Carcinoma,59.76666667,0,0,0,Living,1,2,BREAST CONSERVING
+1156,5120,Breast Invasive Ductal Carcinoma,27.8,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1157,5121,Breast Invasive Lobular Carcinoma,114.9,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1158,5122,Breast Mixed Ductal and Lobular Carcinoma,125.7,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1159,5123,Breast Invasive Ductal Carcinoma,90.3,1,0,0,Died of Disease,0,1,MASTECTOMY
+1160,5124,Breast Invasive Ductal Carcinoma,124.2,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1161,5126,Breast Invasive Ductal Carcinoma,27.3,0,1,1,Died of Disease,0,,MASTECTOMY
+1162,5127,Breast Mixed Ductal and Lobular Carcinoma,191.4666667,0,1,0,Died of Other Causes,0,,MASTECTOMY
+1163,5130,Breast Invasive Ductal Carcinoma,255,0,1,0,,0,2,MASTECTOMY
+1164,5134,Breast Invasive Ductal Carcinoma,196.5333333,0,1,0,Living,1,3,MASTECTOMY
+1165,5135,Breast Invasive Ductal Carcinoma,37.36666667,0,1,0,Died of Disease,0,,
+1166,5138,Breast Invasive Ductal Carcinoma,37,1,1,1,Died of Disease,0,2,MASTECTOMY
+1167,5139,Breast Invasive Ductal Carcinoma,89.96666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1168,5143,Breast Invasive Ductal Carcinoma,127.9333333,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1169,5144,Breast Invasive Ductal Carcinoma,213.0333333,1,1,0,Living,1,2,BREAST CONSERVING
+1170,5145,Breast Mixed Ductal and Lobular Carcinoma,159.2333333,1,1,0,Died of Disease,0,,
+1171,5147,Breast Invasive Lobular Carcinoma,20.26666667,1,0,0,Living,1,2,MASTECTOMY
+1172,5148,Breast Invasive Ductal Carcinoma,245.2333333,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1173,5150,Breast Invasive Lobular Carcinoma,110.8333333,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1174,5152,Breast Invasive Ductal Carcinoma,115.9333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1175,5154,Breast Invasive Ductal Carcinoma,170.8333333,0,0,0,Living,1,2,MASTECTOMY
+1176,5155,Breast Invasive Ductal Carcinoma,259.9333333,1,1,1,Living,1,1,BREAST CONSERVING
+1177,5157,Breast Invasive Ductal Carcinoma,18.23333333,1,1,0,Died of Disease,0,1,MASTECTOMY
+1178,5160,Breast Invasive Ductal Carcinoma,87.73333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+1179,5161,Breast Invasive Ductal Carcinoma,175.3333333,0,1,0,Living,1,1,MASTECTOMY
+1180,5162,Breast Invasive Ductal Carcinoma,164.3333333,0,0,0,Living,1,2,BREAST CONSERVING
+1181,5163,Breast Invasive Ductal Carcinoma,212.2,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1182,5164,Breast Invasive Ductal Carcinoma,80.5,0,1,0,Living,1,2,BREAST CONSERVING
+1183,5166,Breast Invasive Ductal Carcinoma,80.73333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1184,5167,Breast Invasive Ductal Carcinoma,208.4,1,0,0,Living,1,1,MASTECTOMY
+1185,5169,Breast Invasive Ductal Carcinoma,51.96666667,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1186,5171,Breast Invasive Ductal Carcinoma,185,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+1187,5172,Breast Invasive Ductal Carcinoma,184.2666667,1,1,1,Living,1,3,MASTECTOMY
+1188,5173,Breast Invasive Ductal Carcinoma,22.13333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1189,5174,Breast Invasive Ductal Carcinoma,151.2,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1190,5175,Breast Invasive Ductal Carcinoma,194.7,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1191,5177,Breast Invasive Ductal Carcinoma,65.23333333,1,0,0,Died of Other Causes,0,3,MASTECTOMY
+1192,5178,Breast Invasive Lobular Carcinoma,184.3333333,1,0,0,Living,1,2,MASTECTOMY
+1193,5179,Breast Mixed Ductal and Lobular Carcinoma,246.6,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1194,5182,Breast Mixed Ductal and Lobular Carcinoma,134.2666667,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1195,5183,Breast Invasive Ductal Carcinoma,118.5333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1196,5184,Breast Invasive Lobular Carcinoma,89.33333333,0,0,0,Died of Other Causes,0,,
+1197,5185,Breast Invasive Ductal Carcinoma,77.46666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+1198,5186,Breast Invasive Ductal Carcinoma,203.2666667,0,1,0,Living,1,1,MASTECTOMY
+1199,5188,Breast Invasive Ductal Carcinoma,19.4,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1200,5189,Breast Invasive Ductal Carcinoma,111.9666667,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1201,5191,Breast Invasive Lobular Carcinoma,142.1666667,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1202,5193,Breast Invasive Ductal Carcinoma,54.26666667,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1203,5195,Breast Invasive Ductal Carcinoma,196.8666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1204,5196,Breast Invasive Ductal Carcinoma,94.03333333,0,0,0,Died of Disease,0,2,MASTECTOMY
+1205,5197,Breast Invasive Ductal Carcinoma,223.8333333,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1206,5199,Breast Invasive Ductal Carcinoma,204.4,1,0,0,Living,1,1,BREAST CONSERVING
+1207,5200,Breast Invasive Ductal Carcinoma,52.3,1,1,0,Died of Disease,0,1,MASTECTOMY
+1208,5201,Breast Invasive Ductal Carcinoma,96.96666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1209,5204,Breast Invasive Ductal Carcinoma,191.9333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1210,5205,Breast Invasive Ductal Carcinoma,185.3,1,1,1,Living,1,1,MASTECTOMY
+1211,5206,Breast Mixed Ductal and Lobular Carcinoma,205.7333333,0,0,0,Living,1,2,MASTECTOMY
+1212,5208,Breast Invasive Ductal Carcinoma,151.9,0,0,0,Living,1,1,MASTECTOMY
+1213,5209,Breast Invasive Ductal Carcinoma,175.1,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1214,5211,Breast Invasive Ductal Carcinoma,247.8333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1215,5212,Breast Invasive Ductal Carcinoma,179.1,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1216,5213,Breast Invasive Ductal Carcinoma,43.4,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+1217,5214,Breast Invasive Ductal Carcinoma,107.3666667,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+1218,5215,Breast Invasive Ductal Carcinoma,118.7,1,1,0,Died of Disease,0,2,MASTECTOMY
+1219,5218,Breast Invasive Ductal Carcinoma,254.9666667,0,1,0,Living,1,2,MASTECTOMY
+1220,5221,Breast Invasive Ductal Carcinoma,131.3,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1221,5222,Breast Invasive Ductal Carcinoma,111.8333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1222,5223,Breast Invasive Ductal Carcinoma,144.6666667,0,1,1,Died of Disease,0,3,MASTECTOMY
+1223,5224,Breast Invasive Ductal Carcinoma,99.4,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1224,5225,Breast Invasive Ductal Carcinoma,43.26666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1225,5226,Breast Invasive Ductal Carcinoma,200.6,0,1,0,Living,1,1,BREAST CONSERVING
+1226,5227,Breast Invasive Ductal Carcinoma,187.0333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1227,5228,Breast Invasive Ductal Carcinoma,180.7333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1228,5229,Breast Invasive Ductal Carcinoma,33.96666667,0,0,1,Died of Disease,0,2,BREAST CONSERVING
+1229,5230,Breast Invasive Mixed Mucinous Carcinoma,176.5,0,1,0,Living,1,2,MASTECTOMY
+1230,5231,Breast Invasive Ductal Carcinoma,16.56666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1231,5232,Breast Invasive Ductal Carcinoma,211.2,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1232,5233,Breast Invasive Ductal Carcinoma,209.0333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1233,5235,Breast Invasive Ductal Carcinoma,204.2,0,1,0,Died of Disease,0,2,BREAST CONSERVING
+1234,5236,Breast Invasive Ductal Carcinoma,166.6666667,1,1,1,Living,1,2,MASTECTOMY
+1235,5238,Breast Invasive Ductal Carcinoma,44.13333333,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+1236,5239,Breast Mixed Ductal and Lobular Carcinoma,192.1333333,0,0,0,Living,1,2,MASTECTOMY
+1237,5240,Breast Mixed Ductal and Lobular Carcinoma,103.8333333,0,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1238,5243,Breast Invasive Ductal Carcinoma,38.43333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1239,5244,Breast Invasive Ductal Carcinoma,216.8666667,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1240,5251,Breast Invasive Ductal Carcinoma,112.4666667,1,0,0,Died of Disease,0,3,BREAST CONSERVING
+1241,5253,Breast Mixed Ductal and Lobular Carcinoma,102.0666667,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1242,5256,Breast Invasive Ductal Carcinoma,108.0666667,1,1,0,Died of Disease,0,1,MASTECTOMY
+1243,5258,Breast Invasive Ductal Carcinoma,101.0666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1244,5259,Breast Invasive Ductal Carcinoma,46.16666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1245,5260,Breast Mixed Ductal and Lobular Carcinoma,202.1,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1246,5261,Breast Invasive Ductal Carcinoma,116.4666667,0,1,0,Died of Other Causes,0,2,MASTECTOMY
+1247,5264,Breast Invasive Ductal Carcinoma,199.3,0,1,0,Living,1,2,MASTECTOMY
+1248,5266,Breast Invasive Ductal Carcinoma,83.63333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1249,5267,Breast Invasive Ductal Carcinoma,71.06666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+1250,5268,Breast Mixed Ductal and Lobular Carcinoma,186.1333333,0,1,0,Living,1,2,MASTECTOMY
+1251,5270,Breast Mixed Ductal and Lobular Carcinoma,187.8333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1252,5271,Breast Invasive Ductal Carcinoma,167.5,1,0,0,Living,1,1,BREAST CONSERVING
+1253,5272,Breast Invasive Ductal Carcinoma,201.9333333,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+1254,5273,Breast Invasive Ductal Carcinoma,60.86666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1255,5275,Breast Invasive Ductal Carcinoma,75.96666667,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1256,5277,Breast Invasive Ductal Carcinoma,221.0666667,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1257,5278,Breast Mixed Ductal and Lobular Carcinoma,99.96666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+1258,5279,Breast Invasive Ductal Carcinoma,68.76666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1259,5280,Breast Mixed Ductal and Lobular Carcinoma,77.86666667,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1260,5281,Breast Invasive Ductal Carcinoma,79.3,0,1,0,Living,1,1,MASTECTOMY
+1261,5284,Breast Mixed Ductal and Lobular Carcinoma,65.33333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1262,5287,Breast Invasive Ductal Carcinoma,124,0,1,0,Died of Other Causes,0,,MASTECTOMY
+1263,5288,Breast Invasive Ductal Carcinoma,128.4,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+1264,5290,Breast Invasive Ductal Carcinoma,36.93333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1265,5291,Breast Invasive Ductal Carcinoma,153.5333333,1,1,0,Living,1,,MASTECTOMY
+1266,5292,Breast Invasive Ductal Carcinoma,48.43333333,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1267,5293,Breast Mixed Ductal and Lobular Carcinoma,208.9666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+1268,5294,Breast Invasive Ductal Carcinoma,195.9333333,1,1,1,Living,1,1,BREAST CONSERVING
+1269,5295,Breast Invasive Ductal Carcinoma,75.7,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1270,5296,Breast Invasive Ductal Carcinoma,13.8,1,1,0,Died of Disease,0,2,MASTECTOMY
+1271,5298,Breast Invasive Lobular Carcinoma,84.9,0,0,1,Died of Disease,0,1,BREAST CONSERVING
+1272,5299,Breast Invasive Lobular Carcinoma,16.7,1,0,1,Died of Disease,0,,MASTECTOMY
+1273,5300,Breast Invasive Ductal Carcinoma,190.1666667,0,1,0,Living,1,2,BREAST CONSERVING
+1274,5305,Breast Mixed Ductal and Lobular Carcinoma,149.4333333,1,0,0,Died of Disease,0,3,MASTECTOMY
+1275,5306,Breast Invasive Ductal Carcinoma,159.7333333,0,0,0,Living,1,2,BREAST CONSERVING
+1276,5308,Breast Invasive Ductal Carcinoma,104.7666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+1277,5310,Breast Mixed Ductal and Lobular Carcinoma,153.3,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1278,5311,Breast Invasive Ductal Carcinoma,57.66666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1279,5312,Breast Invasive Ductal Carcinoma,37.9,0,0,1,Died of Disease,0,1,BREAST CONSERVING
+1280,5313,Breast Invasive Lobular Carcinoma,46.53333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1281,5315,Breast Invasive Ductal Carcinoma,43.03333333,1,1,1,Died of Disease,0,1,MASTECTOMY
+1282,5317,Breast Mixed Ductal and Lobular Carcinoma,53.63333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1283,5318,Breast Invasive Ductal Carcinoma,14.16666667,0,1,0,Died of Disease,0,2,MASTECTOMY
+1284,5322,Breast Mixed Ductal and Lobular Carcinoma,102.3,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1285,5323,Breast Invasive Ductal Carcinoma,226.0666667,0,0,0,Living,1,3,MASTECTOMY
+1286,5324,Breast Mixed Ductal and Lobular Carcinoma,190.1,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1287,5326,Breast Invasive Lobular Carcinoma,96.2,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+1288,5327,Breast Invasive Lobular Carcinoma,163.5333333,1,1,0,Living,1,2,BREAST CONSERVING
+1289,5328,Breast Invasive Ductal Carcinoma,14.2,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1290,5329,Breast Invasive Lobular Carcinoma,45.73333333,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1291,5330,Breast Invasive Lobular Carcinoma,114.5333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1292,5331,Breast Invasive Ductal Carcinoma,124.1333333,0,0,0,Died of Disease,0,1,MASTECTOMY
+1293,5332,Breast Invasive Ductal Carcinoma,98.83333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1294,5334,Breast Invasive Ductal Carcinoma,85.4,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1295,5335,Breast Invasive Ductal Carcinoma,25.23333333,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1296,5338,Breast Invasive Ductal Carcinoma,51.66666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+1297,5339,Breast Invasive Ductal Carcinoma,195.8666667,1,1,0,Living,1,,MASTECTOMY
+1298,5341,Breast Invasive Ductal Carcinoma,250.8333333,0,1,0,Living,1,2,MASTECTOMY
+1299,5345,Breast Invasive Ductal Carcinoma,216.0333333,1,1,0,Died of Disease,0,2,MASTECTOMY
+1300,5346,Breast Invasive Ductal Carcinoma,194.3,0,1,1,Living,1,1,BREAST CONSERVING
+1301,5347,Breast Invasive Ductal Carcinoma,211.9,1,1,0,Died of Disease,0,2,MASTECTOMY
+1302,5348,Breast Invasive Ductal Carcinoma,169.6666667,0,0,1,Living,1,2,BREAST CONSERVING
+1303,5350,Breast Mixed Ductal and Lobular Carcinoma,53.63333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1304,5351,Breast Invasive Ductal Carcinoma,202.1,0,0,0,Living,1,1,BREAST CONSERVING
+1305,5358,Breast Mixed Ductal and Lobular Carcinoma,28.83333333,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1306,5360,Breast Mixed Ductal and Lobular Carcinoma,161.1333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1307,5361,Breast Invasive Ductal Carcinoma,15.36666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1308,5364,Breast Invasive Ductal Carcinoma,125.7666667,1,1,0,Died of Disease,0,2,MASTECTOMY
+1309,5365,Breast Invasive Ductal Carcinoma,23.03333333,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1310,5366,Breast Invasive Lobular Carcinoma,243.1666667,1,0,0,Living,1,1,MASTECTOMY
+1311,5369,Breast Mixed Ductal and Lobular Carcinoma,39.3,1,1,0,Died of Disease,0,3,MASTECTOMY
+1312,5370,Breast Invasive Ductal Carcinoma,119.3,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+1313,5373,Breast Invasive Ductal Carcinoma,2.533333333,1,1,0,Living,1,2,MASTECTOMY
+1314,5377,Breast Invasive Ductal Carcinoma,102,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+1315,5378,Breast Invasive Ductal Carcinoma,12.26666667,0,1,1,Died of Disease,0,2,MASTECTOMY
+1316,5381,Breast Invasive Ductal Carcinoma,201.8333333,1,1,1,Died of Disease,0,2,MASTECTOMY
+1317,5382,Breast Invasive Ductal Carcinoma,116.2333333,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1318,5383,Breast Invasive Ductal Carcinoma,113.6666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1319,5386,Breast Invasive Ductal Carcinoma,192.2,1,1,0,Living,1,2,BREAST CONSERVING
+1320,5388,Breast Mixed Ductal and Lobular Carcinoma,146.9333333,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1321,5389,Breast Invasive Ductal Carcinoma,124.7666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1322,5390,Breast Invasive Lobular Carcinoma,30.93333333,1,1,1,Died of Disease,0,3,MASTECTOMY
+1323,5392,Breast Invasive Lobular Carcinoma,237.2666667,1,0,0,Living,1,2,MASTECTOMY
+1324,5393,Breast Mixed Ductal and Lobular Carcinoma,154,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1325,5395,Breast Invasive Ductal Carcinoma,165.1666667,0,1,0,Living,1,,MASTECTOMY
+1326,5396,Breast Invasive Ductal Carcinoma,165.6666667,1,1,0,Living,1,,MASTECTOMY
+1327,5397,Breast Invasive Ductal Carcinoma,172.8666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+1328,5398,Breast Invasive Ductal Carcinoma,213,1,1,0,Living,1,1,BREAST CONSERVING
+1329,5399,Breast Invasive Ductal Carcinoma,106.8,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1330,5401,Breast Mixed Ductal and Lobular Carcinoma,70.16666667,1,0,0,Living,1,3,BREAST CONSERVING
+1331,5402,Breast Invasive Ductal Carcinoma,107.7666667,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+1332,5403,Breast Invasive Ductal Carcinoma,95.73333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1333,5404,Breast Invasive Ductal Carcinoma,74.73333333,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1334,5406,Breast Mixed Ductal and Lobular Carcinoma,97.43333333,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1335,5407,Breast Invasive Ductal Carcinoma,205.6,0,1,0,Living,1,,MASTECTOMY
+1336,5408,Breast Invasive Ductal Carcinoma,101.4,0,1,0,Living,1,2,MASTECTOMY
+1337,5409,Breast Invasive Ductal Carcinoma,198.1333333,1,1,1,Living,1,2,MASTECTOMY
+1338,5410,Breast Invasive Ductal Carcinoma,202.7666667,1,1,0,Living,1,1,MASTECTOMY
+1339,5411,Breast Invasive Ductal Carcinoma,26,0,0,1,Died of Disease,0,1,MASTECTOMY
+1340,5412,Breast Invasive Ductal Carcinoma,220.2333333,0,1,0,Living,1,2,BREAST CONSERVING
+1341,5414,Breast Invasive Ductal Carcinoma,140.6,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1342,5417,Breast Invasive Ductal Carcinoma,107.0666667,0,1,1,Living,1,2,BREAST CONSERVING
+1343,5418,Breast Invasive Ductal Carcinoma,207.1666667,1,0,0,Living,1,2,BREAST CONSERVING
+1344,5420,Breast Invasive Ductal Carcinoma,193.9,0,1,0,Living,1,1,BREAST CONSERVING
+1345,5421,Breast Invasive Ductal Carcinoma,194.5666667,0,1,0,Living,1,1,BREAST CONSERVING
+1346,5422,Breast Invasive Ductal Carcinoma,46.06666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+1347,5424,Breast Mixed Ductal and Lobular Carcinoma,83.53333333,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1348,5425,Breast Invasive Ductal Carcinoma,49.46666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1349,5426,Breast Invasive Ductal Carcinoma,34.63333333,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+1350,5427,Breast Invasive Ductal Carcinoma,155.7333333,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1351,5428,Breast Mixed Ductal and Lobular Carcinoma,150.4666667,1,1,0,Living,1,3,MASTECTOMY
+1352,5429,Breast Invasive Ductal Carcinoma,30.7,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1353,5431,Breast Invasive Ductal Carcinoma,15.86666667,0,1,0,Died of Disease,0,1,BREAST CONSERVING
+1354,5432,Breast Invasive Ductal Carcinoma,98.5,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1355,5433,Breast Invasive Ductal Carcinoma,176.3666667,1,0,0,Died of Disease,0,2,MASTECTOMY
+1356,5434,Breast Invasive Ductal Carcinoma,45.16666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+1357,5435,Breast Invasive Ductal Carcinoma,104,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1358,5440,Breast Invasive Ductal Carcinoma,196.6333333,0,1,1,Living,1,2,BREAST CONSERVING
+1359,5441,Breast Invasive Ductal Carcinoma,9.7,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1360,5442,Breast Invasive Ductal Carcinoma,205.8,0,1,1,Living,1,1,BREAST CONSERVING
+1361,5444,Breast Mixed Ductal and Lobular Carcinoma,240.4333333,0,1,0,Living,1,1,MASTECTOMY
+1362,5446,Breast Invasive Ductal Carcinoma,162.8333333,1,1,1,Died of Disease,0,1,BREAST CONSERVING
+1363,5447,Breast Invasive Ductal Carcinoma,148.8666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1364,5450,Breast Invasive Ductal Carcinoma,190.2,0,1,0,Living,1,2,MASTECTOMY
+1365,5451,Breast Mixed Ductal and Lobular Carcinoma,189.9,0,1,0,Living,1,3,MASTECTOMY
+1366,5452,Breast Invasive Ductal Carcinoma,16.16666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1367,5453,Breast Invasive Ductal Carcinoma,57.3,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1368,5454,Breast Invasive Ductal Carcinoma,50.66666667,1,1,0,Died of Disease,0,3,MASTECTOMY
+1369,5455,Breast Mixed Ductal and Lobular Carcinoma,61.8,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1370,5457,Breast Invasive Ductal Carcinoma,164.5666667,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1371,5458,Breast Invasive Ductal Carcinoma,183.4333333,0,0,1,Living,1,2,MASTECTOMY
+1372,5459,Breast Invasive Ductal Carcinoma,90.8,1,1,0,Died of Disease,0,3,BREAST CONSERVING
+1373,5463,Breast Invasive Lobular Carcinoma,58.13333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1374,5464,Breast Invasive Ductal Carcinoma,116.5333333,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1375,5465,Breast Invasive Ductal Carcinoma,18.8,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1376,5468,Breast Invasive Ductal Carcinoma,99.36666667,0,1,1,Living,1,2,BREAST CONSERVING
+1377,5470,Breast Mixed Ductal and Lobular Carcinoma,42.06666667,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1378,5471,Breast Invasive Ductal Carcinoma,185.7666667,0,0,0,Living,1,2,MASTECTOMY
+1379,5472,Breast Invasive Ductal Carcinoma,19.56666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1380,5473,Breast Invasive Ductal Carcinoma,125.9,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1381,5474,Breast Invasive Ductal Carcinoma,226.7,0,0,1,Living,1,2,BREAST CONSERVING
+1382,5475,Breast Invasive Ductal Carcinoma,2.533333333,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1383,5477,Breast,110.4666667,1,0,0,Living,1,2,BREAST CONSERVING
+1384,5478,Breast Mixed Ductal and Lobular Carcinoma,34.3,1,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1385,5481,Breast Invasive Ductal Carcinoma,46.36666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1386,5482,Breast Invasive Ductal Carcinoma,17.66666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1387,5483,Breast Invasive Ductal Carcinoma,42.43333333,0,1,1,Died of Disease,0,1,MASTECTOMY
+1388,5484,Breast Invasive Lobular Carcinoma,238.5,1,1,0,Living,1,,BREAST CONSERVING
+1389,5485,Breast Invasive Ductal Carcinoma,31.8,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1390,5486,Breast Invasive Ductal Carcinoma,123.3,1,1,0,Died of Disease,0,2,MASTECTOMY
+1391,5489,Breast Invasive Ductal Carcinoma,216.9666667,0,0,0,Living,1,2,MASTECTOMY
+1392,5490,Breast Invasive Ductal Carcinoma,51.2,0,0,0,Died of Disease,0,2,MASTECTOMY
+1393,5491,Breast Invasive Ductal Carcinoma,65.83333333,0,0,0,Died of Disease,0,3,MASTECTOMY
+1394,5492,Breast Invasive Lobular Carcinoma,23.36666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1395,5493,Breast Invasive Lobular Carcinoma,57.23333333,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1396,5495,Breast Invasive Ductal Carcinoma,228.8,1,0,0,Living,1,2,BREAST CONSERVING
+1397,5497,Breast Invasive Ductal Carcinoma,237.5,0,1,0,Living,1,1,BREAST CONSERVING
+1398,5498,Breast Invasive Ductal Carcinoma,225.1666667,0,1,0,Living,1,2,MASTECTOMY
+1399,5499,Breast Invasive Ductal Carcinoma,123.7333333,0,0,0,Living,1,2,BREAST CONSERVING
+1400,5502,Breast Invasive Ductal Carcinoma,189.7333333,0,1,0,Living,1,1,BREAST CONSERVING
+1401,5505,Breast Mixed Ductal and Lobular Carcinoma,164.6,0,1,0,Died of Disease,0,2,MASTECTOMY
+1402,5510,Breast Mixed Ductal and Lobular Carcinoma,103.1,1,0,0,Died of Disease,0,2,MASTECTOMY
+1403,5511,Breast Invasive Ductal Carcinoma,158.9666667,0,0,0,Living,1,,MASTECTOMY
+1404,5513,Breast Invasive Ductal Carcinoma,36.63333333,1,0,0,Died of Disease,0,,MASTECTOMY
+1405,5514,Breast Invasive Ductal Carcinoma,182.9,1,1,0,Living,1,,MASTECTOMY
+1406,5518,Breast Invasive Ductal Carcinoma,30.86666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1407,5519,Breast Invasive Ductal Carcinoma,169.2333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1408,5520,Breast Mixed Ductal and Lobular Carcinoma,16.3,1,0,0,Died of Disease,0,1,MASTECTOMY
+1409,5521,Breast Invasive Ductal Carcinoma,124.8,1,1,0,Living,1,2,BREAST CONSERVING
+1410,5525,Breast Invasive Mixed Mucinous Carcinoma,2,1,1,0,Living,1,1,BREAST CONSERVING
+1411,5526,Breast Invasive Ductal Carcinoma,151.0666667,0,1,0,Living,1,,MASTECTOMY
+1412,5527,Breast Invasive Ductal Carcinoma,180.5666667,1,1,1,Living,1,1,BREAST CONSERVING
+1413,5529,Breast Invasive Ductal Carcinoma,14.8,0,1,1,Died of Disease,0,2,MASTECTOMY
+1414,5530,Breast Invasive Ductal Carcinoma,185.9333333,1,0,0,Living,1,2,BREAST CONSERVING
+1415,5531,Breast Invasive Ductal Carcinoma,183.9666667,0,1,0,Living,1,2,BREAST CONSERVING
+1416,5532,Breast Invasive Ductal Carcinoma,79.86666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1417,5533,Breast Mixed Ductal and Lobular Carcinoma,158.0333333,1,1,0,Living,1,2,MASTECTOMY
+1418,5534,Breast Invasive Ductal Carcinoma,79.1,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1419,5535,Breast Invasive Ductal Carcinoma,120.1333333,1,1,1,Died of Disease,0,2,BREAST CONSERVING
+1420,5540,Breast Mixed Ductal and Lobular Carcinoma,48.43333333,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1421,5541,Breast Invasive Ductal Carcinoma,200.1333333,1,1,0,Living,1,2,MASTECTOMY
+1422,5543,Breast Invasive Ductal Carcinoma,34.43333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1423,5547,Breast Invasive Ductal Carcinoma,98.56666667,0,1,1,Living,1,2,MASTECTOMY
+1424,5548,Breast Invasive Ductal Carcinoma,25.33333333,0,0,0,Living,1,1,BREAST CONSERVING
+1425,5549,Breast Invasive Ductal Carcinoma,88.93333333,0,1,1,Died of Disease,0,2,MASTECTOMY
+1426,5550,Breast Invasive Ductal Carcinoma,171.3,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1427,5551,Breast Invasive Ductal Carcinoma,182.2333333,1,1,0,Living,1,3,MASTECTOMY
+1428,5552,Breast Invasive Ductal Carcinoma,34.7,1,0,0,Died of Disease,0,2,MASTECTOMY
+1429,5553,Breast Invasive Ductal Carcinoma,154.5,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1430,5554,Breast Invasive Lobular Carcinoma,229.8333333,1,1,0,Living,1,1,BREAST CONSERVING
+1431,5556,Breast Invasive Ductal Carcinoma,225.4,1,1,0,Living,1,2,BREAST CONSERVING
+1432,5558,Breast Invasive Ductal Carcinoma,25.03333333,0,0,1,Living,1,2,BREAST CONSERVING
+1433,5560,Breast Invasive Ductal Carcinoma,186.6,0,1,0,Living,1,,MASTECTOMY
+1434,5562,Breast Invasive Ductal Carcinoma,102.9666667,0,1,0,Died of Other Causes,0,2,BREAST CONSERVING
+1435,5563,Breast Invasive Lobular Carcinoma,117.6666667,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1436,5565,Breast Invasive Ductal Carcinoma,194.1,1,1,1,Died of Other Causes,0,2,BREAST CONSERVING
+1437,5566,Breast Invasive Ductal Carcinoma,234.4,1,1,1,Living,1,,BREAST CONSERVING
+1438,5567,Breast Mixed Ductal and Lobular Carcinoma,178.5666667,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1439,5571,Breast Invasive Ductal Carcinoma,153.8666667,1,0,0,Died of Disease,0,2,BREAST CONSERVING
+1440,5572,Breast Invasive Ductal Carcinoma,178.6333333,0,1,0,Living,1,1,BREAST CONSERVING
+1441,5575,Breast Invasive Ductal Carcinoma,117.6666667,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+1442,5576,Breast Mixed Ductal and Lobular Carcinoma,194,1,1,0,Living,1,2,MASTECTOMY
+1443,5577,Breast Invasive Lobular Carcinoma,55.4,1,0,0,Died of Disease,0,1,BREAST CONSERVING
+1444,5579,Breast Mixed Ductal and Lobular Carcinoma,90.6,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1445,5580,Breast Invasive Ductal Carcinoma,71.63333333,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1446,5582,Breast Invasive Ductal Carcinoma,222.3333333,0,1,0,Living,1,2,BREAST CONSERVING
+1447,5583,Breast Invasive Ductal Carcinoma,111.3666667,0,1,0,Living,1,,BREAST CONSERVING
+1448,5584,Breast Invasive Ductal Carcinoma,91.1,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1449,5588,Breast Mixed Ductal and Lobular Carcinoma,81.13333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1450,5589,Breast Invasive Ductal Carcinoma,185.1333333,1,1,0,Living,1,1,BREAST CONSERVING
+1451,5590,Breast Invasive Ductal Carcinoma,17.83333333,1,0,0,Living,1,1,BREAST CONSERVING
+1452,5591,Breast Invasive Ductal Carcinoma,155.3666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1453,5592,Breast Invasive Lobular Carcinoma,26.33333333,0,1,0,Died of Other Causes,0,3,MASTECTOMY
+1454,5593,Breast Invasive Lobular Carcinoma,92.5,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1455,5596,Breast Invasive Lobular Carcinoma,167.9333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1456,5597,Breast Invasive Ductal Carcinoma,32.73333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1457,5599,Breast Invasive Ductal Carcinoma,224.8666667,1,1,0,Living,1,1,BREAST CONSERVING
+1458,5601,Breast Invasive Ductal Carcinoma,214.8,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1459,5602,Breast Invasive Ductal Carcinoma,224.4333333,0,1,1,Living,1,2,MASTECTOMY
+1460,5603,Breast Invasive Ductal Carcinoma,171.6333333,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1461,5604,Breast Invasive Ductal Carcinoma,145.6333333,1,1,0,Living,1,2,BREAST CONSERVING
+1462,5605,Breast Invasive Ductal Carcinoma,123.7,0,1,0,Living,1,,BREAST CONSERVING
+1463,5613,Breast Invasive Ductal Carcinoma,212.3666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1464,5614,Breast Invasive Ductal Carcinoma,116.4333333,0,1,0,Died of Disease,0,,MASTECTOMY
+1465,5616,Breast Invasive Ductal Carcinoma,180.6333333,0,1,1,Living,1,,MASTECTOMY
+1466,5617,Breast Invasive Ductal Carcinoma,128.2,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1467,5620,Breast Invasive Ductal Carcinoma,42.06666667,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1468,5622,Breast Invasive Ductal Carcinoma,182.9333333,1,1,0,Living,1,,BREAST CONSERVING
+1469,5623,Breast Invasive Ductal Carcinoma,137.8,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1470,5624,Breast Invasive Ductal Carcinoma,136,1,1,1,Living,1,,MASTECTOMY
+1471,5626,Breast Invasive Ductal Carcinoma,82.96666667,1,1,0,Living,1,2,BREAST CONSERVING
+1472,5628,Breast Invasive Ductal Carcinoma,42.6,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1473,5629,Breast Invasive Ductal Carcinoma,103.8,1,1,0,Died of Other Causes,0,3,BREAST CONSERVING
+1474,5632,Breast Invasive Ductal Carcinoma,38.16666667,1,1,0,Died of Disease,0,1,BREAST CONSERVING
+1475,5633,Breast Invasive Ductal Carcinoma,35.03333333,0,1,1,Died of Disease,0,2,BREAST CONSERVING
+1476,5634,Breast Invasive Ductal Carcinoma,62.9,0,0,0,Died of Disease,0,2,BREAST CONSERVING
+1477,5635,Breast Invasive Ductal Carcinoma,21.06666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1478,5636,Breast Invasive Ductal Carcinoma,108.3,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1479,5638,Breast Invasive Ductal Carcinoma,195.7,1,1,0,Died of Other Causes,0,1,MASTECTOMY
+1480,5640,Breast Invasive Ductal Carcinoma,172.3,0,0,0,Living,1,,BREAST CONSERVING
+1481,5641,Breast Invasive Ductal Carcinoma,181.8666667,1,1,0,Living,1,2,MASTECTOMY
+1482,5642,Breast Invasive Ductal Carcinoma,156.8,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1483,5645,Breast Invasive Ductal Carcinoma,22.23333333,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1484,5646,Breast Mixed Ductal and Lobular Carcinoma,167.1,1,1,0,Died of Other Causes,0,2,MASTECTOMY
+1485,5647,Breast Invasive Ductal Carcinoma,30.8,1,1,0,Died of Other Causes,0,3,MASTECTOMY
+1486,5651,Breast Mixed Ductal and Lobular Carcinoma,21,1,1,1,Died of Disease,0,2,MASTECTOMY
+1487,5652,Breast Invasive Ductal Carcinoma,104.6666667,1,1,0,Died of Other Causes,0,1,BREAST CONSERVING
+1488,5653,Breast Invasive Ductal Carcinoma,194.6,1,0,0,Living,1,,MASTECTOMY
+1489,5654,Breast Invasive Ductal Carcinoma,173.0333333,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1490,5655,Breast Invasive Ductal Carcinoma,191.8,1,0,0,Living,1,1,MASTECTOMY
+1491,5656,Breast Invasive Ductal Carcinoma,126.4,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1492,6001,Breast Mixed Ductal and Lobular Carcinoma,135.3,1,0,0,Died of Other Causes,0,3,MASTECTOMY
+1493,6006,Breast Invasive Lobular Carcinoma,63.56666667,1,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1494,6007,Breast Invasive Lobular Carcinoma,70.53333333,1,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1495,6008,Breast Invasive Lobular Carcinoma,69.1,0,0,0,Died of Disease,0,2,MASTECTOMY
+1496,6010,Breast Invasive Ductal Carcinoma,218.2333333,1,0,0,Living,1,2,BREAST CONSERVING
+1497,6011,Breast Invasive Ductal Carcinoma,211.1333333,0,0,0,Died of Disease,0,1,BREAST CONSERVING
+1498,6012,Breast Invasive Lobular Carcinoma,144.4333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1499,6014,Breast Invasive Lobular Carcinoma,191.9333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1500,6016,Breast Invasive Ductal Carcinoma,143.5333333,0,0,0,Died of Other Causes,0,2,MASTECTOMY
+1501,6017,Breast Invasive Ductal Carcinoma,70.9,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1502,6018,Breast Invasive Ductal Carcinoma,143.1666667,0,0,0,Died of Disease,0,,MASTECTOMY
+1503,6019,Breast Invasive Ductal Carcinoma,13.53333333,0,0,0,Died of Other Causes,0,1,MASTECTOMY
+1504,6021,Breast Invasive Lobular Carcinoma,301.2333333,0,0,0,Living,1,2,MASTECTOMY
+1505,6022,Breast Invasive Ductal Carcinoma,52.06666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1506,6023,Breast Invasive Lobular Carcinoma,232.9666667,0,0,0,Living,1,,MASTECTOMY
+1507,6024,Breast Invasive Ductal Carcinoma,252.2666667,0,0,0,Died of Disease,0,,MASTECTOMY
+1508,6026,Breast Invasive Ductal Carcinoma,49.73333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1509,6029,Breast,278.3666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1510,6030,Breast Invasive Ductal Carcinoma,145.3666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1511,6036,Breast Invasive Ductal Carcinoma,287.9333333,0,0,0,Living,1,,MASTECTOMY
+1512,6039,Breast Invasive Ductal Carcinoma,73.13333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1513,6042,Breast Invasive Ductal Carcinoma,263.4333333,0,0,0,Living,1,,MASTECTOMY
+1514,6044,Breast Invasive Ductal Carcinoma,219.1,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1515,6047,Breast,37.86666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1516,6048,Breast Invasive Ductal Carcinoma,168.2,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1517,6049,Breast Invasive Ductal Carcinoma,264.2333333,0,0,0,Living,1,,MASTECTOMY
+1518,6050,Breast Invasive Ductal Carcinoma,192.2,0,0,0,Living,1,,MASTECTOMY
+1519,6051,Breast Invasive Ductal Carcinoma,186.8333333,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1520,6052,Breast Invasive Ductal Carcinoma,255.3666667,0,0,0,Living,1,,MASTECTOMY
+1521,6053,Breast Invasive Ductal Carcinoma,250.8,1,0,0,Living,1,,MASTECTOMY
+1522,6055,Breast Invasive Ductal Carcinoma,200.4333333,0,1,1,Living,1,,MASTECTOMY
+1523,6058,Breast Invasive Ductal Carcinoma,22.66666667,0,0,1,Died of Disease,0,,MASTECTOMY
+1524,6059,Breast Invasive Ductal Carcinoma,278.4666667,0,0,1,Living,1,,MASTECTOMY
+1525,6060,Breast Invasive Ductal Carcinoma,38.03333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1526,6062,Breast Invasive Ductal Carcinoma,282.3666667,0,1,0,Living,1,,MASTECTOMY
+1527,6063,Breast Invasive Ductal Carcinoma,15.6,0,0,1,Died of Disease,0,,MASTECTOMY
+1528,6065,Breast Invasive Ductal Carcinoma,188.5333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1529,6068,Breast Invasive Ductal Carcinoma,182.6,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1530,6069,Breast Invasive Ductal Carcinoma,258.1333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1531,6071,Breast Invasive Ductal Carcinoma,57.4,1,0,0,Died of Disease,0,,MASTECTOMY
+1532,6075,Breast Invasive Ductal Carcinoma,182.3333333,0,0,0,Died of Disease,0,,BREAST CONSERVING
+1533,6077,Breast Invasive Ductal Carcinoma,170.2666667,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1534,6079,Breast Invasive Ductal Carcinoma,239.1666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1535,6080,Breast Invasive Ductal Carcinoma,54.1,1,1,0,Died of Disease,0,,MASTECTOMY
+1536,6082,Breast Invasive Ductal Carcinoma,102.5,0,0,1,Died of Disease,0,,BREAST CONSERVING
+1537,6083,Breast Invasive Ductal Carcinoma,164.0333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1538,6085,Breast Invasive Ductal Carcinoma,23.9,1,0,1,Living,1,,MASTECTOMY
+1539,6092,Breast Mixed Ductal and Lobular Carcinoma,2.3,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1540,6097,Breast Invasive Ductal Carcinoma,159.7,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1541,6098,Breast Invasive Ductal Carcinoma,10.63333333,0,0,1,Died of Disease,0,,MASTECTOMY
+1542,6100,Breast Invasive Ductal Carcinoma,10.06666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1543,6101,Breast Invasive Ductal Carcinoma,77.5,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1544,6103,Breast Mixed Ductal and Lobular Carcinoma,239.4,1,0,0,Living,1,,BREAST CONSERVING
+1545,6105,Breast Mixed Ductal and Lobular Carcinoma,192.2,0,0,0,Died of Other Causes,0,3,MASTECTOMY
+1546,6107,Breast Invasive Lobular Carcinoma,123.3333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1547,6108,Breast Invasive Ductal Carcinoma,193.9666667,1,0,0,Living,1,,MASTECTOMY
+1548,6113,Breast Invasive Ductal Carcinoma,124.5666667,0,0,1,Died of Disease,0,,MASTECTOMY
+1549,6114,Breast Invasive Ductal Carcinoma,66.83333333,0,0,1,Living,1,,BREAST CONSERVING
+1550,6116,Breast Invasive Ductal Carcinoma,193.1333333,0,0,0,Living,1,,BREAST CONSERVING
+1551,6118,Breast Invasive Ductal Carcinoma,264.6,0,1,0,Living,1,,MASTECTOMY
+1552,6122,Breast Invasive Ductal Carcinoma,260.2,0,0,1,Living,1,3,BREAST CONSERVING
+1553,6124,Breast Invasive Ductal Carcinoma,115.6333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1554,6125,Breast Invasive Ductal Carcinoma,153.9,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1555,6131,Breast Invasive Ductal Carcinoma,257.6666667,0,0,0,Living,1,,MASTECTOMY
+1556,6133,Breast Invasive Lobular Carcinoma,61.8,0,0,0,Died of Disease,0,,MASTECTOMY
+1557,6135,Breast Invasive Ductal Carcinoma,78.6,1,0,0,Died of Other Causes,0,1,MASTECTOMY
+1558,6138,Breast Mixed Ductal and Lobular Carcinoma,25.63333333,1,0,0,Died of Disease,0,2,MASTECTOMY
+1559,6141,Breast Invasive Lobular Carcinoma,78.86666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1560,6143,Breast Invasive Ductal Carcinoma,255.6,0,1,0,Living,1,,MASTECTOMY
+1561,6144,Breast Invasive Ductal Carcinoma,254.9333333,0,0,0,Living,1,1,BREAST CONSERVING
+1562,6145,Breast Mixed Ductal and Lobular Carcinoma,34.33333333,1,0,0,Died of Disease,0,,MASTECTOMY
+1563,6146,Breast Invasive Ductal Carcinoma,89.6,1,0,0,Died of Disease,0,,MASTECTOMY
+1564,6147,Breast Invasive Lobular Carcinoma,238.0666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1565,6149,Breast Invasive Ductal Carcinoma,74.93333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1566,6150,Breast Invasive Ductal Carcinoma,77.66666667,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1567,6152,Breast Invasive Ductal Carcinoma,228.9,0,0,0,Living,1,,MASTECTOMY
+1568,6154,Breast Invasive Ductal Carcinoma,195.3,0,0,0,Living,1,2,MASTECTOMY
+1569,6156,Breast Invasive Ductal Carcinoma,58.93333333,0,0,0,Died of Disease,0,,MASTECTOMY
+1570,6157,Breast Invasive Ductal Carcinoma,15.86666667,1,1,0,Died of Disease,0,2,BREAST CONSERVING
+1571,6160,Breast Invasive Ductal Carcinoma,247.3666667,0,0,1,Living,1,,MASTECTOMY
+1572,6163,Breast Mixed Ductal and Lobular Carcinoma,88.66666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1573,6164,Breast Invasive Ductal Carcinoma,205.9,1,0,0,Living,1,,MASTECTOMY
+1574,6167,Breast Invasive Lobular Carcinoma,122.8,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1575,6168,Breast Mixed Ductal and Lobular Carcinoma,225.7,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1576,6169,Breast Invasive Ductal Carcinoma,84.73333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1577,6171,Breast Invasive Ductal Carcinoma,220.3,1,0,0,Living,1,,MASTECTOMY
+1578,6178,Breast Invasive Ductal Carcinoma,33.13333333,0,0,0,Died of Disease,0,,MASTECTOMY
+1579,6179,Breast Mixed Ductal and Lobular Carcinoma,58.46666667,0,0,0,Died of Disease,0,,MASTECTOMY
+1580,6181,Breast Invasive Ductal Carcinoma,54.93333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1581,6182,Breast Invasive Ductal Carcinoma,208.8,0,1,0,Living,1,,MASTECTOMY
+1582,6183,Breast Invasive Ductal Carcinoma,79.13333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1583,6184,Breast Invasive Ductal Carcinoma,185.7,1,0,1,Died of Disease,0,,MASTECTOMY
+1584,6185,Breast Mixed Ductal and Lobular Carcinoma,197.7333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1585,6187,Breast Invasive Ductal Carcinoma,37.76666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1586,6188,Breast Invasive Ductal Carcinoma,23.76666667,0,0,0,Living,1,,MASTECTOMY
+1587,6189,Breast Mixed Ductal and Lobular Carcinoma,240.2,1,1,0,Living,1,,MASTECTOMY
+1588,6190,Breast Invasive Ductal Carcinoma,24.63333333,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1589,6192,Breast Invasive Ductal Carcinoma,42.63333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1590,6194,Breast Mixed Ductal and Lobular Carcinoma,52.46666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1591,6195,Breast Invasive Lobular Carcinoma,202.2333333,1,0,0,Living,1,,BREAST CONSERVING
+1592,6200,Breast Invasive Ductal Carcinoma,30.06666667,1,0,0,Died of Disease,0,1,MASTECTOMY
+1593,6201,Breast Invasive Ductal Carcinoma,222.7,0,1,0,Died of Other Causes,0,,MASTECTOMY
+1594,6204,Breast Invasive Ductal Carcinoma,56.76666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1595,6207,Breast Invasive Ductal Carcinoma,118.3,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1596,6208,Breast Invasive Ductal Carcinoma,221.2,1,1,0,Living,1,,MASTECTOMY
+1597,6211,Breast Invasive Ductal Carcinoma,42.3,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1598,6212,Breast,224.2333333,0,1,0,Living,1,,MASTECTOMY
+1599,6214,Breast Invasive Ductal Carcinoma,174.5,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1600,6217,Breast Invasive Mixed Mucinous Carcinoma,211.5333333,1,0,1,Died of Other Causes,0,2,MASTECTOMY
+1601,6218,Breast Invasive Ductal Carcinoma,147.7666667,0,0,0,Died of Disease,0,,MASTECTOMY
+1602,6223,Breast Invasive Ductal Carcinoma,221.9333333,0,1,1,Living,1,,MASTECTOMY
+1603,6224,Breast Invasive Ductal Carcinoma,35.46666667,0,1,1,Died of Disease,0,1,BREAST CONSERVING
+1604,6225,Breast Invasive Ductal Carcinoma,117.8666667,0,0,0,Living,1,,MASTECTOMY
+1605,6226,Breast Mixed Ductal and Lobular Carcinoma,35.36666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1606,6228,Breast Invasive Ductal Carcinoma,200.1,0,0,0,Living,1,2,BREAST CONSERVING
+1607,6229,Breast Invasive Ductal Carcinoma,0.1,0,0,0,Died of Disease,0,,MASTECTOMY
+1608,6231,Breast Invasive Ductal Carcinoma,72.56666667,0,0,0,Died of Other Causes,0,1,BREAST CONSERVING
+1609,6232,Breast Mixed Ductal and Lobular Carcinoma,85,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1610,6233,Breast Mixed Ductal and Lobular Carcinoma,201.1666667,0,1,0,Living,1,,MASTECTOMY
+1611,6234,Breast Mixed Ductal and Lobular Carcinoma,213.3666667,0,0,0,Living,1,2,MASTECTOMY
+1612,6237,Breast Invasive Ductal Carcinoma,105.2,0,0,0,Died of Other Causes,0,2,BREAST CONSERVING
+1613,6238,Breast Mixed Ductal and Lobular Carcinoma,172.9666667,0,0,0,Died of Disease,0,2,MASTECTOMY
+1614,6239,Breast Mixed Ductal and Lobular Carcinoma,200.3333333,0,1,1,Living,1,1,MASTECTOMY
+1615,6242,Breast Invasive Ductal Carcinoma,165.4333333,0,1,1,Living,1,,MASTECTOMY
+1616,6245,Breast Invasive Ductal Carcinoma,177.6333333,0,0,0,Living,1,,MASTECTOMY
+1617,6246,Breast Invasive Ductal Carcinoma,52.9,0,0,1,Died of Other Causes,0,1,MASTECTOMY
+1618,6248,Breast Invasive Ductal Carcinoma,182.8333333,1,1,1,Living,1,,MASTECTOMY
+1619,6251,Breast Invasive Ductal Carcinoma,14.7,0,1,1,Died of Disease,0,2,MASTECTOMY
+1620,6253,Breast Invasive Lobular Carcinoma,194.3666667,0,1,0,Living,1,1,BREAST CONSERVING
+1621,6254,Breast Invasive Mixed Mucinous Carcinoma,60.9,1,0,0,Died of Disease,0,,MASTECTOMY
+1622,6256,Breast Invasive Ductal Carcinoma,127.8333333,0,1,0,Died of Other Causes,0,1,MASTECTOMY
+1623,6257,Breast Invasive Ductal Carcinoma,91,1,1,0,Living,1,,MASTECTOMY
+1624,6263,Breast Invasive Ductal Carcinoma,75.86666667,1,0,0,Living,1,2,BREAST CONSERVING
+1625,6271,Breast Invasive Ductal Carcinoma,157.7333333,0,0,0,Living,1,,BREAST CONSERVING
+1626,6272,Breast Invasive Ductal Carcinoma,22.4,0,1,1,Died of Disease,0,,BREAST CONSERVING
+1627,6273,Breast Invasive Ductal Carcinoma,189.4333333,0,0,1,Living,1,,MASTECTOMY
+1628,6280,Breast Invasive Ductal Carcinoma,27.86666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1629,6281,Breast Invasive Ductal Carcinoma,3.5,1,0,0,Died of Other Causes,0,2,MASTECTOMY
+1630,6283,Breast Invasive Lobular Carcinoma,92.4,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1631,6284,Breast,88.33333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1632,6286,Breast Invasive Ductal Carcinoma,49.53333333,0,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1633,6287,Breast Invasive Ductal Carcinoma,35.2,0,1,1,Died of Disease,0,,BREAST CONSERVING
+1634,6288,Breast Invasive Ductal Carcinoma,100.3,1,1,0,Died of Disease,0,,MASTECTOMY
+1635,6297,Breast Invasive Ductal Carcinoma,170.8666667,1,1,0,Living,1,,BREAST CONSERVING
+1636,6300,Breast Invasive Ductal Carcinoma,63.83333333,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1637,6302,Breast Invasive Ductal Carcinoma,125.8666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1638,6305,Breast Invasive Ductal Carcinoma,89.53333333,0,1,1,Died of Disease,0,,MASTECTOMY
+1639,6306,Breast Invasive Ductal Carcinoma,64.6,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1640,6308,Breast Invasive Ductal Carcinoma,151.9333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1641,6312,Breast Invasive Ductal Carcinoma,162.7666667,1,0,0,Living,1,,BREAST CONSERVING
+1642,6314,Breast Invasive Mixed Mucinous Carcinoma,134.8333333,0,0,0,Living,1,,MASTECTOMY
+1643,6317,Breast Invasive Ductal Carcinoma,29.23333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1644,6318,Breast Invasive Ductal Carcinoma,109.2333333,0,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1645,6319,Breast Invasive Lobular Carcinoma,154.7,1,1,1,Living,1,,BREAST CONSERVING
+1646,6322,Breast Mixed Ductal and Lobular Carcinoma,80.36666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1647,6327,Breast Invasive Mixed Mucinous Carcinoma,18.26666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1648,6328,Breast Invasive Ductal Carcinoma,126.6666667,1,0,0,Living,1,,MASTECTOMY
+1649,6329,Breast Invasive Ductal Carcinoma,81.5,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1650,6330,Breast Invasive Ductal Carcinoma,140.3333333,1,1,1,Living,1,,BREAST CONSERVING
+1651,6334,Breast Invasive Ductal Carcinoma,128.1,1,0,0,Living,1,,MASTECTOMY
+1652,6336,Breast Invasive Ductal Carcinoma,17.2,0,1,1,Died of Disease,0,,BREAST CONSERVING
+1653,6337,Breast Invasive Ductal Carcinoma,110.8666667,0,1,1,Died of Other Causes,0,,MASTECTOMY
+1654,6344,Breast Invasive Ductal Carcinoma,152.9333333,0,0,0,Died of Disease,0,,MASTECTOMY
+1655,6346,Breast Invasive Mixed Mucinous Carcinoma,281.5,0,1,0,Living,1,,BREAST CONSERVING
+1656,6358,Breast Invasive Lobular Carcinoma,37.86666667,0,0,0,Died of Disease,0,,BREAST CONSERVING
+1657,6359,Breast Invasive Ductal Carcinoma,85.03333333,0,0,0,Died of Disease,0,,MASTECTOMY
+1658,6363,Breast Invasive Ductal Carcinoma,16.7,0,1,1,Died of Disease,0,,MASTECTOMY
+1659,7000,Breast,97.4,1,0,0,Living,1,,BREAST CONSERVING
+1660,7001,Breast Invasive Ductal Carcinoma,102.7,1,1,0,Living,1,,MASTECTOMY
+1661,7002,Breast Invasive Ductal Carcinoma,57.93333333,1,0,0,Living,1,,MASTECTOMY
+1662,7003,Breast Invasive Ductal Carcinoma,91.23333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1663,7004,Breast Invasive Lobular Carcinoma,50.46666667,1,1,0,Living,1,,MASTECTOMY
+1664,7005,Breast Invasive Ductal Carcinoma,45.33333333,1,1,0,Living,1,,MASTECTOMY
+1665,7006,Breast Invasive Ductal Carcinoma,109.9333333,1,1,0,Living,1,2,BREAST CONSERVING
+1666,7007,Breast Invasive Ductal Carcinoma,58.6,0,1,1,Living,1,,MASTECTOMY
+1667,7008,Breast Invasive Ductal Carcinoma,50.9,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1668,7009,Breast Invasive Ductal Carcinoma,54.76666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1669,7010,Breast Invasive Ductal Carcinoma,74.03333333,1,0,0,Living,1,,MASTECTOMY
+1670,7011,Breast Mixed Ductal and Lobular Carcinoma,70.06666667,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1671,7012,Breast Invasive Ductal Carcinoma,19.83333333,0,1,1,Died of Disease,0,,MASTECTOMY
+1672,7013,Breast Invasive Ductal Carcinoma,46.43333333,1,1,0,Living,1,,MASTECTOMY
+1673,7014,Breast Mixed Ductal and Lobular Carcinoma,68.7,1,1,0,Living,1,,MASTECTOMY
+1674,7015,Breast Invasive Ductal Carcinoma,78.16666667,1,1,0,Living,1,,BREAST CONSERVING
+1675,7017,Breast Mixed Ductal and Lobular Carcinoma,135.3333333,0,1,1,Living,1,,BREAST CONSERVING
+1676,7018,Breast Invasive Ductal Carcinoma,86.53333333,0,1,1,Died of Disease,0,,MASTECTOMY
+1677,7019,Breast Invasive Ductal Carcinoma,80.73333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1678,7020,Breast Invasive Ductal Carcinoma,71.63333333,0,0,1,Died of Disease,0,,BREAST CONSERVING
+1679,7022,Breast Invasive Ductal Carcinoma,85.5,1,0,0,Living,1,,MASTECTOMY
+1680,7023,Breast Invasive Ductal Carcinoma,27.96666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1681,7024,Breast Invasive Ductal Carcinoma,70.26666667,1,0,0,Living,1,,BREAST CONSERVING
+1682,7025,Breast Invasive Ductal Carcinoma,80.23333333,0,1,0,Living,1,,BREAST CONSERVING
+1683,7026,Breast Invasive Ductal Carcinoma,111.7,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1684,7027,Breast Invasive Ductal Carcinoma,36.96666667,0,1,1,Died of Disease,0,,BREAST CONSERVING
+1685,7028,Breast Invasive Ductal Carcinoma,89.8,1,1,0,Living,1,,BREAST CONSERVING
+1686,7029,Breast Invasive Ductal Carcinoma,76.86666667,1,1,0,Living,1,,MASTECTOMY
+1687,7030,Breast,31.33333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1688,7031,Breast Invasive Ductal Carcinoma,85.36666667,0,1,1,Living,1,,MASTECTOMY
+1689,7034,Breast Invasive Ductal Carcinoma,75.1,1,0,0,Living,1,,MASTECTOMY
+1690,7035,Breast Invasive Ductal Carcinoma,32.06666667,0,1,1,Died of Disease,0,,MASTECTOMY
+1691,7036,Breast Invasive Ductal Carcinoma,120.4333333,0,1,1,Living,1,,MASTECTOMY
+1692,7037,Breast Invasive Ductal Carcinoma,86.4,0,1,0,Living,1,,BREAST CONSERVING
+1693,7038,Breast Invasive Ductal Carcinoma,81.03333333,0,1,1,Living,1,,BREAST CONSERVING
+1694,7039,Breast Mixed Ductal and Lobular Carcinoma,49.2,1,0,0,Died of Disease,0,,MASTECTOMY
+1695,7040,Breast Invasive Ductal Carcinoma,71.83333333,1,0,0,Living,1,,BREAST CONSERVING
+1696,7041,Breast Invasive Lobular Carcinoma,101.9666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1697,7042,Breast Invasive Ductal Carcinoma,88.5,1,1,0,Living,1,,MASTECTOMY
+1698,7043,Breast Invasive Ductal Carcinoma,91.53333333,1,1,0,Living,1,,MASTECTOMY
+1699,7044,Breast Invasive Ductal Carcinoma,86.83333333,1,1,0,Living,1,,MASTECTOMY
+1700,7045,Breast Invasive Ductal Carcinoma,94.93333333,1,1,0,Died of Disease,0,,MASTECTOMY
+1701,7046,Breast Invasive Ductal Carcinoma,146.4,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1702,7048,Breast Invasive Ductal Carcinoma,88.46666667,1,1,0,Living,1,,MASTECTOMY
+1703,7049,Breast Invasive Ductal Carcinoma,102.0333333,0,1,0,Living,1,,BREAST CONSERVING
+1704,7050,Breast Invasive Ductal Carcinoma,65.13333333,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1705,7051,Breast Invasive Ductal Carcinoma,85.93333333,1,1,0,Died of Disease,0,,MASTECTOMY
+1706,7052,Breast Invasive Ductal Carcinoma,106.1333333,0,1,0,Living,1,,BREAST CONSERVING
+1707,7053,Breast Invasive Ductal Carcinoma,122.1333333,0,1,0,Living,1,,MASTECTOMY
+1708,7054,Breast Invasive Lobular Carcinoma,30.43333333,1,0,1,Died of Disease,0,,BREAST CONSERVING
+1709,7055,Breast Invasive Ductal Carcinoma,9.133333333,0,0,0,Died of Disease,0,,MASTECTOMY
+1710,7056,Breast Invasive Ductal Carcinoma,117,1,0,0,Living,1,,BREAST CONSERVING
+1711,7057,Breast Invasive Ductal Carcinoma,43.83333333,1,0,1,Died of Disease,0,,BREAST CONSERVING
+1712,7058,Breast Invasive Ductal Carcinoma,122.5,1,0,0,Living,1,,BREAST CONSERVING
+1713,7060,Breast Invasive Lobular Carcinoma,112.6666667,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1714,7061,Breast Invasive Ductal Carcinoma,96.76666667,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1715,7062,Breast Invasive Ductal Carcinoma,95.86666667,1,1,0,Living,1,,BREAST CONSERVING
+1716,7063,Breast Invasive Ductal Carcinoma,86.6,1,1,0,Living,1,,BREAST CONSERVING
+1717,7065,Breast Invasive Ductal Carcinoma,107.8666667,0,1,0,Living,1,,BREAST CONSERVING
+1718,7066,Breast Invasive Ductal Carcinoma,89.76666667,0,1,1,Living,1,,BREAST CONSERVING
+1719,7067,Breast Invasive Ductal Carcinoma,105,1,0,0,Living,1,,MASTECTOMY
+1720,7068,Breast Invasive Ductal Carcinoma,98.46666667,1,1,0,Living,1,,MASTECTOMY
+1721,7069,Breast Invasive Ductal Carcinoma,114.6,1,1,0,Living,1,,MASTECTOMY
+1722,7070,Breast Invasive Ductal Carcinoma,108.0666667,1,0,0,Living,1,,MASTECTOMY
+1723,7071,Breast Invasive Lobular Carcinoma,102.0666667,0,1,0,Living,1,,MASTECTOMY
+1724,7072,Breast Mixed Ductal and Lobular Carcinoma,52.33333333,1,1,0,Died of Disease,0,,MASTECTOMY
+1725,7073,Breast Invasive Ductal Carcinoma,137.9333333,0,0,1,Died of Other Causes,0,,MASTECTOMY
+1726,7074,Breast Invasive Ductal Carcinoma,108.1666667,1,0,0,Living,1,,BREAST CONSERVING
+1727,7075,Breast Mixed Ductal and Lobular Carcinoma,111.6333333,1,0,0,Living,1,,BREAST CONSERVING
+1728,7076,Breast Invasive Ductal Carcinoma,142.6666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1729,7077,Breast Invasive Ductal Carcinoma,101.2666667,1,1,0,Living,1,,BREAST CONSERVING
+1730,7078,Breast Invasive Ductal Carcinoma,4.166666667,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1731,7079,Breast Invasive Ductal Carcinoma,91.06666667,1,0,0,Living,1,,MASTECTOMY
+1732,7080,Breast Invasive Ductal Carcinoma,91.23333333,1,0,0,Living,1,,BREAST CONSERVING
+1733,7081,Breast Invasive Ductal Carcinoma,140.2333333,1,1,0,Living,1,,BREAST CONSERVING
+1734,7082,Breast Invasive Ductal Carcinoma,98.26666667,0,1,1,Living,1,,MASTECTOMY
+1735,7083,Breast Invasive Ductal Carcinoma,105.4666667,1,1,1,Living,1,,BREAST CONSERVING
+1736,7085,Breast Invasive Ductal Carcinoma,110.1,1,1,0,Living,1,,MASTECTOMY
+1737,7086,Breast Mixed Ductal and Lobular Carcinoma,123.5333333,1,1,0,Living,1,,MASTECTOMY
+1738,7087,Breast Invasive Ductal Carcinoma,5.066666667,1,1,1,Died of Other Causes,0,,MASTECTOMY
+1739,7088,Breast Invasive Ductal Carcinoma,123.5333333,1,0,0,Living,1,,MASTECTOMY
+1740,7089,Breast Invasive Ductal Carcinoma,118.9,0,1,1,Living,1,,MASTECTOMY
+1741,7090,Breast Invasive Ductal Carcinoma,109.7666667,0,1,1,Living,1,,BREAST CONSERVING
+1742,7091,Breast Invasive Ductal Carcinoma,110.2666667,1,1,0,Living,1,,MASTECTOMY
+1743,7092,Breast Mixed Ductal and Lobular Carcinoma,122.4,1,1,0,Living,1,,MASTECTOMY
+1744,7093,Breast Invasive Ductal Carcinoma,125.8333333,1,0,1,Died of Other Causes,0,,MASTECTOMY
+1745,7094,Breast Invasive Ductal Carcinoma,113.3666667,1,1,0,Living,1,,BREAST CONSERVING
+1746,7095,Breast Invasive Ductal Carcinoma,115.6333333,1,1,0,Living,1,,BREAST CONSERVING
+1747,7096,Breast Invasive Ductal Carcinoma,124,1,1,0,Living,1,,BREAST CONSERVING
+1748,7097,Breast Invasive Ductal Carcinoma,65.16666667,1,0,1,Died of Disease,0,,MASTECTOMY
+1749,7099,Breast Invasive Ductal Carcinoma,163.1666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1750,7100,Breast Invasive Ductal Carcinoma,156.3333333,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1751,7101,Breast Invasive Lobular Carcinoma,124.2666667,1,1,0,Living,1,,BREAST CONSERVING
+1752,7102,Breast Mixed Ductal and Lobular Carcinoma,104.1,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1753,7104,Breast Invasive Ductal Carcinoma,122.8333333,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1754,7106,Breast Invasive Ductal Carcinoma,37.5,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1755,7107,Breast Invasive Ductal Carcinoma,56.93333333,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1756,7109,Breast Invasive Ductal Carcinoma,117.5333333,1,0,0,Living,1,,BREAST CONSERVING
+1757,7111,Breast Invasive Ductal Carcinoma,30.16666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1758,7112,Breast Invasive Ductal Carcinoma,64.7,0,0,1,Died of Disease,0,,BREAST CONSERVING
+1759,7113,Breast Invasive Ductal Carcinoma,136.7,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1760,7114,Breast Invasive Ductal Carcinoma,123.2666667,1,1,0,Living,1,,BREAST CONSERVING
+1761,7115,Breast Invasive Ductal Carcinoma,141.7333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1762,7116,Breast Invasive Ductal Carcinoma,33.36666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1763,7118,Breast Invasive Ductal Carcinoma,140.5666667,1,0,0,Living,1,,BREAST CONSERVING
+1764,7119,Breast Invasive Ductal Carcinoma,128.3666667,1,1,1,Living,1,,BREAST CONSERVING
+1765,7121,Breast Invasive Ductal Carcinoma,88.83333333,1,1,1,Died of Other Causes,0,,MASTECTOMY
+1766,7122,Breast Invasive Ductal Carcinoma,29.9,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1767,7123,Breast Invasive Ductal Carcinoma,137.6666667,1,0,0,Living,1,,MASTECTOMY
+1768,7124,Breast Invasive Ductal Carcinoma,139.6,1,0,0,Living,1,,MASTECTOMY
+1769,7127,Breast Invasive Ductal Carcinoma,135.3333333,1,1,0,Living,1,,MASTECTOMY
+1770,7130,Breast Invasive Ductal Carcinoma,102.9666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1771,7131,Breast Invasive Ductal Carcinoma,134.7333333,1,0,0,Living,1,,MASTECTOMY
+1772,7132,Breast Invasive Ductal Carcinoma,131.6,1,0,0,Living,1,,MASTECTOMY
+1773,7133,Breast Invasive Lobular Carcinoma,23.83333333,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1774,7135,Breast Invasive Ductal Carcinoma,26.73333333,1,1,1,Died of Disease,0,,MASTECTOMY
+1775,7137,Breast Invasive Ductal Carcinoma,179.8,1,1,0,Living,1,,MASTECTOMY
+1776,7138,Breast Invasive Ductal Carcinoma,123,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1777,7140,Breast Invasive Ductal Carcinoma,90.8,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1778,7141,Breast Invasive Ductal Carcinoma,138.5666667,1,0,0,Living,1,,MASTECTOMY
+1779,7142,Breast Invasive Ductal Carcinoma,175.9,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1780,7143,Breast Invasive Ductal Carcinoma,186.3666667,1,1,0,Living,1,,MASTECTOMY
+1781,7144,Breast Invasive Ductal Carcinoma,102.6333333,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1782,7145,Breast Invasive Ductal Carcinoma,138.3333333,0,1,1,Living,1,,BREAST CONSERVING
+1783,7147,Breast Mixed Ductal and Lobular Carcinoma,168.6,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1784,7149,Breast Invasive Ductal Carcinoma,44.63333333,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1785,7150,Breast Invasive Ductal Carcinoma,128.9666667,0,0,0,Living,1,,MASTECTOMY
+1786,7151,Breast Invasive Ductal Carcinoma,144.4333333,1,0,0,Living,1,,MASTECTOMY
+1787,7152,Breast Invasive Ductal Carcinoma,195.8,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1788,7153,Breast Invasive Ductal Carcinoma,142.8,1,0,0,Living,1,,BREAST CONSERVING
+1789,7154,Breast Invasive Ductal Carcinoma,108.4666667,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1790,7155,Breast Invasive Ductal Carcinoma,149.7666667,0,1,1,Living,1,,BREAST CONSERVING
+1791,7157,Breast Invasive Ductal Carcinoma,219.6333333,1,1,0,Living,1,,MASTECTOMY
+1792,7158,Breast Invasive Ductal Carcinoma,46.43333333,0,0,1,Died of Disease,0,,MASTECTOMY
+1793,7159,Breast Invasive Ductal Carcinoma,21.93333333,1,1,1,Died of Disease,0,,MASTECTOMY
+1794,7160,Breast Invasive Ductal Carcinoma,148.0666667,1,1,0,Living,1,,BREAST CONSERVING
+1795,7161,Breast Invasive Ductal Carcinoma,121.5333333,0,1,0,Living,1,,BREAST CONSERVING
+1796,7162,Breast Invasive Ductal Carcinoma,140.2,1,1,0,Living,1,,BREAST CONSERVING
+1797,7163,Breast Invasive Ductal Carcinoma,52.63333333,1,0,1,Died of Disease,0,,MASTECTOMY
+1798,7164,Breast Invasive Ductal Carcinoma,211.4,1,1,0,Living,1,,MASTECTOMY
+1799,7165,Breast Invasive Ductal Carcinoma,147.1666667,0,1,1,Living,1,,MASTECTOMY
+1800,7167,Breast Invasive Ductal Carcinoma,141.0333333,1,1,0,Living,1,,MASTECTOMY
+1801,7168,Breast Invasive Ductal Carcinoma,150.5,1,0,0,Living,1,,MASTECTOMY
+1802,7170,Breast Invasive Ductal Carcinoma,155.4,1,1,0,Living,1,,MASTECTOMY
+1803,7171,Breast Invasive Ductal Carcinoma,160.4,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1804,7172,Breast Invasive Ductal Carcinoma,149.3,1,0,0,Living,1,,BREAST CONSERVING
+1805,7173,Breast Invasive Lobular Carcinoma,63.53333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1806,7174,Breast Invasive Ductal Carcinoma,140.7666667,1,1,0,Living,1,,MASTECTOMY
+1807,7176,Breast Invasive Ductal Carcinoma,194.4,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1808,7181,Breast Invasive Ductal Carcinoma,157.5333333,1,1,0,Living,1,,BREAST CONSERVING
+1809,7182,Breast Invasive Ductal Carcinoma,49.46666667,1,0,1,Died of Disease,0,,BREAST CONSERVING
+1810,7185,Breast Invasive Ductal Carcinoma,125.0333333,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1811,7186,Breast Invasive Ductal Carcinoma,4.866666667,0,0,0,Living,1,,MASTECTOMY
+1812,7187,Breast Invasive Ductal Carcinoma,146.8333333,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1813,7189,Breast Invasive Ductal Carcinoma,143.6,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1814,7193,Breast Invasive Ductal Carcinoma,87.46666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1815,7194,Breast Invasive Ductal Carcinoma,46.66666667,1,0,1,Died of Disease,0,,MASTECTOMY
+1816,7195,Breast Invasive Lobular Carcinoma,80.43333333,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1817,7196,Breast Invasive Ductal Carcinoma,107.1,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1818,7197,Breast Invasive Ductal Carcinoma,187.8666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1819,7198,Breast Invasive Ductal Carcinoma,16.73333333,1,0,0,Died of Disease,0,,MASTECTOMY
+1820,7199,Breast Invasive Ductal Carcinoma,76,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1821,7200,Breast Invasive Ductal Carcinoma,97.6,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1822,7201,Breast Invasive Ductal Carcinoma,163.4333333,1,1,0,Living,1,,BREAST CONSERVING
+1823,7205,Breast Invasive Ductal Carcinoma,166.0333333,1,1,1,Living,1,,MASTECTOMY
+1824,7207,Breast Invasive Ductal Carcinoma,55.73333333,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1825,7208,Breast Invasive Ductal Carcinoma,45.93333333,1,1,1,Died of Disease,0,,MASTECTOMY
+1826,7212,Breast Invasive Lobular Carcinoma,52.5,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1827,7215,Breast Invasive Ductal Carcinoma,208.9666667,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1828,7216,Breast Invasive Lobular Carcinoma,207.4666667,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1829,7217,Breast Invasive Ductal Carcinoma,90.4,0,1,0,Died of Other Causes,0,,BREAST CONSERVING
+1830,7218,Breast Invasive Lobular Carcinoma,165.4333333,1,1,0,Living,1,,MASTECTOMY
+1831,7219,Breast Invasive Ductal Carcinoma,165.2,1,1,0,Living,1,,MASTECTOMY
+1832,7220,Breast Invasive Ductal Carcinoma,183.2,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1833,7225,Breast Invasive Ductal Carcinoma,55,1,1,1,Died of Disease,0,,MASTECTOMY
+1834,7226,Breast Invasive Ductal Carcinoma,53.36666667,1,0,1,Died of Disease,0,,MASTECTOMY
+1835,7227,Breast Invasive Ductal Carcinoma,63.2,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1836,7228,Breast Invasive Ductal Carcinoma,239.1666667,1,0,0,Living,1,,BREAST CONSERVING
+1837,7229,Breast Mixed Ductal and Lobular Carcinoma,111.6,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1838,7230,Breast Invasive Ductal Carcinoma,182.6,1,1,0,Living,1,,MASTECTOMY
+1839,7231,Breast Invasive Ductal Carcinoma,199.0333333,0,0,0,Died of Other Causes,0,,MASTECTOMY
+1840,7232,Breast Invasive Ductal Carcinoma,177.6,0,0,0,Living,1,,MASTECTOMY
+1841,7233,Breast Invasive Ductal Carcinoma,222.0333333,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1842,7234,Breast Invasive Ductal Carcinoma,222.2,1,1,0,Living,1,,MASTECTOMY
+1843,7235,Breast,170.8,1,0,0,Living,1,,BREAST CONSERVING
+1844,7237,Breast Invasive Ductal Carcinoma,23.93333333,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1845,7238,Breast Invasive Ductal Carcinoma,23.26666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1846,7241,Breast Invasive Ductal Carcinoma,171.1,0,0,0,Living,1,,BREAST CONSERVING
+1847,7243,Breast Invasive Ductal Carcinoma,148.8,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1848,7244,Breast Invasive Ductal Carcinoma,184.1666667,0,1,0,Living,1,,MASTECTOMY
+1849,7249,Breast Invasive Ductal Carcinoma,58.66666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1850,7250,Breast Invasive Ductal Carcinoma,51,0,1,0,Died of Disease,0,,MASTECTOMY
+1851,7251,Breast Invasive Ductal Carcinoma,21.56666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1852,7252,Breast Invasive Ductal Carcinoma,35.7,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1853,7253,Breast Invasive Ductal Carcinoma,59.96666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1854,7254,Breast Invasive Ductal Carcinoma,192.2,1,0,0,Living,1,,MASTECTOMY
+1855,7256,Breast Invasive Ductal Carcinoma,34.7,1,1,1,Died of Disease,0,,MASTECTOMY
+1856,7258,Breast Invasive Ductal Carcinoma,15.06666667,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1857,7260,Breast Invasive Ductal Carcinoma,31.16666667,0,1,1,Living,1,,MASTECTOMY
+1858,7262,Breast Invasive Ductal Carcinoma,104.0333333,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1859,7263,Breast Invasive Ductal Carcinoma,164.9666667,1,1,0,Died of Other Causes,0,,MASTECTOMY
+1860,7264,Breast Invasive Ductal Carcinoma,42.96666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1861,7266,Breast Invasive Ductal Carcinoma,68.16666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1862,7267,Breast Invasive Ductal Carcinoma,195.3666667,0,1,1,Died of Other Causes,0,,MASTECTOMY
+1863,7268,Breast Invasive Ductal Carcinoma,227.4666667,1,1,0,Living,1,,BREAST CONSERVING
+1864,7269,Breast Invasive Ductal Carcinoma,21.16666667,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1865,7270,Breast Invasive Ductal Carcinoma,175.1666667,0,0,1,Living,1,,BREAST CONSERVING
+1866,7273,Breast Invasive Lobular Carcinoma,208.2,0,1,1,Living,1,,MASTECTOMY
+1867,7275,Breast Invasive Ductal Carcinoma,44.4,0,0,1,Died of Disease,0,,MASTECTOMY
+1868,7276,Breast Invasive Ductal Carcinoma,185.3333333,1,1,0,Living,1,,MASTECTOMY
+1869,7277,Breast Invasive Ductal Carcinoma,187.0333333,1,0,0,Living,1,,MASTECTOMY
+1870,7278,Breast Invasive Ductal Carcinoma,241.3,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1871,7279,Breast Invasive Ductal Carcinoma,21.3,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1872,7280,Breast Invasive Ductal Carcinoma,195.5333333,1,0,0,Living,1,,BREAST CONSERVING
+1873,7281,Breast Invasive Ductal Carcinoma,49.53333333,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1874,7283,Breast Invasive Lobular Carcinoma,28.86666667,1,1,1,Died of Disease,0,,BREAST CONSERVING
+1875,7284,Breast Invasive Ductal Carcinoma,203,1,0,0,Died of Other Causes,0,,BREAST CONSERVING
+1876,7285,Breast Invasive Ductal Carcinoma,109,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1877,7286,Breast Invasive Ductal Carcinoma,158.6333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1878,7287,Breast Invasive Ductal Carcinoma,96.96666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1879,7288,Breast Invasive Ductal Carcinoma,27.06666667,1,1,0,Died of Disease,0,,BREAST CONSERVING
+1880,7289,Breast Invasive Ductal Carcinoma,126.6666667,1,0,0,Died of Disease,0,,MASTECTOMY
+1881,7291,Breast Invasive Ductal Carcinoma,6.833333333,1,0,0,Died of Disease,0,,BREAST CONSERVING
+1882,7292,Breast Invasive Ductal Carcinoma,78.46666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1883,7293,Breast Invasive Ductal Carcinoma,199.2333333,1,0,0,Living,1,,BREAST CONSERVING
+1884,7294,Breast Invasive Ductal Carcinoma,82.73333333,1,0,0,Died of Disease,0,,MASTECTOMY
+1885,7295,Breast Invasive Lobular Carcinoma,196.8666667,1,1,0,Living,1,,MASTECTOMY
+1886,7296,Breast Invasive Ductal Carcinoma,44.73333333,0,1,0,Died of Disease,0,,MASTECTOMY
+1887,7297,Breast Invasive Ductal Carcinoma,175.9666667,1,1,0,Died of Disease,0,,MASTECTOMY
+1888,7298,Breast Invasive Ductal Carcinoma,86.23333333,1,0,0,Died of Other Causes,0,,MASTECTOMY
+1889,7299,Breast Invasive Ductal Carcinoma,201.9,1,1,0,Died of Other Causes,0,,BREAST CONSERVING
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,BREAST CONSERVING
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,BREAST CONSERVING
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,BREAST CONSERVING
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,BREAST CONSERVING
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,MASTECTOMY
+,,,,,,,,,,BREAST CONSERVING
