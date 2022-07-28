@@ -1,0 +1,124 @@
+---
+title: "Survival_Analysis"
+author: "Ariba"
+date: "09/03/2022"
+output: html_document
+---
+
+library(dplyr)
+library(survival)
+library(ggplot2)
+library(rlang)
+library(ggpubr)
+library(survminer)
+#importing data
+cancer_data = read.csv("C:/Users/Sameeha/Desktop/cancer_data.csv")
+dim(cancer_data)
+head(cancer_data)
+# calculating tibbles 
+as_tibble(cancer_data)
+data <- as_tibble(cancer_data)
+data
+data <- cancer_data[-which(data$cancer_type_detailed == ""), ]
+dim(data)
+
+s <- Surv(cancer_data$time, cancer_data$status)
+class(s)
+s
+head(cancer_data)
+
+##Fitting the curve
+survfit(s~1)
+survfit(Surv(time, status)~1, data=cancer_data)
+sfit <- survfit(Surv(time, status)~1, data=cancer_data)
+sfit
+summary(sfit)
+
+
+sfit <- survfit(Surv(time, status)~cancer_type_detailed, data=cancer_data)
+sfit
+summary(sfit)
+
+# ?summary.survfit
+range(data$time)
+seq(0, 1100, 100)
+summary(sfit, times=seq(0, 1000, 100))
+
+##Kaplan meir Plot
+#par(mar=c(1, 1, 1, 1))
+sfit <- survfit(Surv(time, status)~cancer_type_detailed, data=cancer_data)
+plot(sfit)
+
+
+#Plot
+#simple
+ggsurvplot(sfit)
+#Detailed
+(mar = c(0.5, 0.5, 0.5, 0.5))
+dev.new(width=99, height=99)
+ggsurvplot(sfit, conf.int=FALSE, pval=FALSE, risk.table=TRUE, 
+           legend.labs=c("Ductal","Lobular", "Mixed_Mucinous", "Ductal_lobular", "Metaplastic", "Breast"), legend.title="Cancer_Types",  
+           palette=c("dodgerblue2", "orchid2", "blue3", "darkgoldenrod4", "chartreuse4", "chocolate1"), 
+           title="Kaplan-Meier Curve for Breast Cancer Survival", 
+           risk.table.height=.40)
+
+
+# here we got the Kaplan-Meier curve for all subtypes of breast cancer, here in this plot we can see that 
+#ductal is the most agressive type of breast cancer, the death in ductal type of breasts cancer is also early as compare to other types 
+#After ductal mixed-mucinuous and lobular types of breasts cancer shows the more aggressiveness and early death rate
+# followed by ductal-lobular and then metaplastic type of breast cancer shows the less aggressiveness as compare to other types.
+
+
+# further will plot the other features that can determine the survival analysis the best
+sfit <- survfit(Surv(time, status)~hormone_therapy, data=cancer_data)
+sfit
+summary(sfit)
+
+# ?summary.survfit
+range(can_data$time)
+seq(0, 1100, 100)
+summary(sfit, times=seq(0, 1000, 100))
+
+##Kaplan meir Plot
+# plotting treated vs untreated 
+#par(mar=c(1, 1, 1, 1))
+
+sfit <- survfit(Surv(time, status)~hormone_therapy, data=cancer_data)
+sfit <- survfit(Surv(time, status)~radio_therapy, data=cancer_data)
+sfit <- survfit(Surv(time, status)~chemotherapy, data=cancer_data)
+sfit <- survfit(Surv(time, status)~type_of_breast_surgery,data=cancer_data)
+# plotting tumor stages 
+sfit <- survfit(Surv(time, status)~tumor_stage, data=cancer_data)
+plot(sfit)
+
+ggsurvplot(sfit)
+#Detailed
+(mar = c(0.5, 0.5, 0.5, 0.5))
+dev.new(width=99, height=99)
+ggsurvplot(sfit, conf.int=FALSE, pval=FALSE, risk.table=TRUE, 
+           legend.labs=c("without_surgery","Breast Conserving","mastectomy"), legend.title="Cancer_Types",  
+           palette=c("dodgerblue2", "orchid2","blue3"), 
+           title="Kaplan-Meier Curve for Breast Cancer Survival", 
+           risk.table.height=.40)
+
+
+# The other features that has determined the survival analysis 
+# here treated vs untreated has been plotted the treatment used here is hormone therapy in which we can observe 
+# that the patients treated with hormone therapy shows more survival rate as compare to the patients which has not been treated 
+# with hormone therapy same goes with the chemotherapy and radio-therapy.
+# we have also plotted the survival plot by comparing the patients without surgery and the patients which 
+# has undergone surgery, the surgery is also of two types that is breast conserving and mastectomy 
+# patients with mastectomy(removal of breast) shows more survival rate as compare to the patients with breast conserving surgery
+# however patients without any surgery has died early.
+
+# also we have compared the various stages of tumor and plotted it's survival analysis 
+
+
+
+
+
+
+
+
+
+
